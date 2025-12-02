@@ -29,8 +29,8 @@
               "state": {
                 "file": "Personal/PTO comparison.loom"
               },
-              "icon": "lucide-file",
-              "title": "PTO comparison"
+              "icon": "lucide-ghost",
+              "title": "dataloom"
             }
           },
           {
@@ -41,8 +41,8 @@
               "state": {
                 "file": "Configs/Looms/Jon Money.loom"
               },
-              "icon": "lucide-file",
-              "title": "Jon Money"
+              "icon": "lucide-ghost",
+              "title": "dataloom"
             }
           },
           {
@@ -138,8 +138,8 @@
             "state": {
               "type": "VIEW_TYPE_LONGFORM_EXPLORER",
               "state": {},
-              "icon": "longform",
-              "title": "Longform"
+              "icon": "lucide-ghost",
+              "title": "VIEW_TYPE_LONGFORM_EXPLORER"
             }
           }
         ]
@@ -179,8 +179,8 @@
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
+              "icon": "lucide-ghost",
+              "title": "calendar"
             }
           },
           {
@@ -259,8 +259,29 @@
               "icon": "lucide-list",
               "title": "Outline of Nov 11"
             }
+          },
+          {
+            "id": "6065633527292a3c",
+            "type": "leaf",
+            "state": {
+              "type": "tenki",
+              "state": {},
+              "icon": "sun",
+              "title": "Tenki"
+            }
+          },
+          {
+            "id": "07e67df0b582aa1e",
+            "type": "leaf",
+            "state": {
+              "type": "tenki",
+              "state": {},
+              "icon": "sun",
+              "title": "Tenki"
+            }
           }
-        ]
+        ],
+        "currentTab": 7
       },
       {
         "id": "5cd2237920982eda",
@@ -284,7 +305,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-git:Open Git source control": false,
       "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
@@ -298,7 +318,8 @@
       "notion-like-tables:Create loom": false,
       "rpg-manager:RPG Manager": false,
       "widgets:Add widget": false,
-      "print:Print note": false
+      "print:Print note": false,
+      "github-sync:Sync with Remote": false
     }
   },
   "active": "a80877f84a8de27a",
