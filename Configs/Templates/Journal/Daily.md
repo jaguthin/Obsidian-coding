@@ -7,8 +7,8 @@
 ---
 #### Today
 
-- [ ] Three [[Gratitude ( Newest first )| gratitudes]] 
-- [ ] Education
+ Three [[Gratitude ( Newest first )| gratitudes]] 
+ Education
 
 ---
 #### New stuff I want to do

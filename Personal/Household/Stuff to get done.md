@@ -6,12 +6,12 @@
 - [x] Basement - Mount Cabinets ✅ 2025-10-25
 - [x] Basement - Install Counters ✅ 2025-10-25
 - [x] Basement - Repair Walls ✅ 2025-09-09
-- [ ] Basement - Install Shelving
+- [x] Basement - Install Shelving ✅ 2025-12-24
 - [ ] Basement - Repair Stairs
 - [ ] Basement - Replace Ceiling
 - [x] Basement - Paint ✅ 2025-10-25
 - [ ] Basement - Swap washer and dryer or swap doors.
-- [ ] Basement - Install Utility Sink
+- [x] Basement - Install Utility Sink ✅ 2025-12-24
 - [ ] Basement - Radon Mitigation
 - [ ] Jon's Room - Breaker Box
 - [ ] Jon's Room - Door Rehung

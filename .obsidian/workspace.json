@@ -11,26 +11,12 @@
             "id": "33ee4327f6a46ecd",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Lists/Gratitude ( Newest first ).md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Gratitude ( Newest first )"
-            }
-          },
-          {
-            "id": "044b4ae76383a667",
-            "type": "leaf",
-            "state": {
               "type": "dataloom",
               "state": {
                 "file": "Personal/PTO comparison.loom"
               },
-              "icon": "lucide-ghost",
-              "title": "dataloom"
+              "icon": "lucide-file",
+              "title": "PTO comparison"
             }
           },
           {
@@ -41,54 +27,36 @@
               "state": {
                 "file": "Configs/Looms/Jon Money.loom"
               },
-              "icon": "lucide-ghost",
-              "title": "dataloom"
-            }
-          },
-          {
-            "id": "70292da885891da3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Personal/Learning/Blender.md",
-                "mode": "source",
-                "source": false
-              },
               "icon": "lucide-file",
-              "title": "Blender"
-            }
-          },
-          {
-            "id": "795735af7f88dbdf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Personal/Finance & Age Goals/For the kids.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "For the kids"
+              "title": "Jon Money"
             }
           },
           {
             "id": "a80877f84a8de27a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "dataloom",
               "state": {
-                "file": "Journal/2025/12/Dec 02.md",
-                "mode": "source",
-                "source": false
+                "file": "Configs/Looms/R2-D2.loom"
               },
               "icon": "lucide-file",
-              "title": "Dec 02"
+              "title": "R2-D2"
+            }
+          },
+          {
+            "id": "13ff1d2f584c0931",
+            "type": "leaf",
+            "state": {
+              "type": "dataloom",
+              "state": {
+                "file": "Configs/Looms/Fiancial Spreadsheet.loom"
+              },
+              "icon": "lucide-file",
+              "title": "Fiancial Spreadsheet"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -184,12 +152,12 @@
             }
           },
           {
-            "id": "7ba4e48e7497bed1",
+            "id": "26e65d62c18a7f6f",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Journal/2025/11/Nov 11.md",
+                "file": "Configs/Looms/R2-D2.loom",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -199,25 +167,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Nov 11"
+              "title": "Backlinks for R2-D2"
             }
           },
           {
-            "id": "8d060b21b7cacc45",
+            "id": "74f418d8c761189a",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Journal/2025/11/Nov 11.md",
+                "file": "Configs/Looms/R2-D2.loom",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Nov 11"
+              "title": "Outgoing links from R2-D2"
             }
           },
           {
-            "id": "825f43f1be1fed34",
+            "id": "50a8cd8b152d2629",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -232,7 +200,7 @@
             }
           },
           {
-            "id": "d5edc0028be56a48",
+            "id": "c62468b53df61e0f",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -246,48 +214,18 @@
             }
           },
           {
-            "id": "904ab2aa14448b68",
+            "id": "5a163f61b94c1047",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Journal/2025/11/Nov 11.md",
+                "file": "Configs/Looms/R2-D2.loom",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Nov 11"
-            }
-          },
-          {
-            "id": "6065633527292a3c",
-            "type": "leaf",
-            "state": {
-              "type": "tenki",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "tenki"
-            }
-          },
-          {
-            "id": "07e67df0b582aa1e",
-            "type": "leaf",
-            "state": {
-              "type": "tenki",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "tenki"
-            }
-          },
-          {
-            "id": "da30f0951e2682aa",
-            "type": "leaf",
-            "state": {
-              "type": "tenki",
-              "state": {},
-              "icon": "sun",
-              "title": "Tenki"
+              "title": "Outline of R2-D2"
             }
           }
         ]
@@ -331,44 +269,43 @@
       "widgets:Add widget": false
     }
   },
-  "active": "bb776a84b0ece9e8",
+  "active": "a80877f84a8de27a",
   "lastOpenFiles": [
-    "Untitled.md",
-    "Journal/2025/12/Dec 02.md",
-    "Lists/Gratitude ( Newest first ).md",
-    "Journal/2025/12/Dec 01.md",
+    "Personal/PTO comparison 1.loom",
     "Personal/PTO comparison.loom",
-    "Configs/Looms/Jon Money.loom",
-    "Personal/Finance & Age Goals/For the kids.md",
-    "Configs/Looms/Fiancial Spreadsheet.loom",
-    "Journal/2025/11/Nov 30.md",
-    "Journal/2025/11/Nov 29.md",
-    "Configs/Looms/R2-D2.loom",
-    "Journal/2025/11/Nov 28.md",
-    "Personal/Learning/Blender.md",
-    "Personal/Bills and Income.loom",
-    "Personal/Simple Blender Projects.md",
+    "Personal/Computer Rebuild.md",
     "Personal/Task List.md",
     "Personal/Task Management.md",
     "Personal/Technical stuff to try.md",
     "Personal/To Pack.md",
     "Personal/To Save Money.md",
+    "Personal/Writing/Stories/Untitled area/Untitled area..md",
+    "Personal/Writing/Stories/Untitled area./Untitled area..md",
+    "Personal/Writing/Stories/Fools Gold.md",
+    "Personal/Writing/Stories/Untitled.base",
+    "Configs/Looms/How much money is needed each month.loom",
+    "Configs/Looms/Fiancial Spreadsheet.loom",
+    "Journal/2025/12/Dec 21.md",
+    "Configs/Looms/Jon Money.loom",
+    "Configs/Looms/Linux Mint & Ubuntu.loom",
+    "Configs/Looms/R2-D2.loom",
     "Configs/Looms/Untitled.loom",
-    "Journal/2025/11/Nov 27.md",
-    "Journal/2025/11/Nov 26.md",
-    "Journal/2025/11/Nov 25.md",
-    "Journal/2025/11/Nov 24.md",
-    "Journal/2025/11/Nov 23.md",
-    "Journal/2025/11/Nov 22.md",
-    "Journal/2025/11/Nov 21.md",
-    "Journal/2025/11/Nov 20.md",
-    "Journal/2025/11/Nov 19.md",
-    "Journal/2025/11/Nov 18.md",
-    "Journal/2025/11/Nov 17.md",
-    "Configs/Looms/Adventures.loom",
-    "Journal/2025/11",
-    "Journal/2025/12",
-    "Personal/Household/Basement",
+    "Configs/Looms/Untitled 1.loom",
+    "Lists/Gratitude ( Newest first ).md",
+    "Excalidraw/Drawing 2025-12-21 13.05.16.excalidraw.md",
+    "Journal/2025/12/Dec 09.md",
+    "Configs/Templates/Journal/Daily.md",
+    "Journal/2025/12/Dec 10.md",
+    "Journal/2025/12/Dec 08.md",
+    "Personal/Projects/Coffee House - Still to do.md",
+    "Personal/Learning/Godot/Key Bindings.md",
+    "Personal/Learning/Blender/Simple Blender Projects.md",
+    "Personal/Learning/Blender/Blender Course.md",
+    "Personal/Learning/Blender/Key Bindings 2.md",
+    "Personal/Learning/Blender/Key Binding 1.md",
+    "Journal/2025/12/Dec 07.md",
+    "Personal/Kickstart Stuff/Kickstart Stuff.md",
+    "Personal/Finance & Age Goals/For the kids.md",
     "Personal/Projects/Models to Build/More Info/Banshee.canvas",
     "Personal/Projects/Models to Build/More Info/Calvin & Hobbes on sled.canvas",
     "Personal/Projects/Models to Build/More Info/Frankenstein's Monster.canvas",

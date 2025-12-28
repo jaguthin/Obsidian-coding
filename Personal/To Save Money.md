@@ -1,5 +1,5 @@
 
-- Switch from xfinity to fidium - 58/mo for 1 year. - Done
+- ~~Switch from xfinity to fidium - 58/mo for 1 year. - Done~~
 - Remove Bi-weekly trash pickup - 50 / mo
 
 

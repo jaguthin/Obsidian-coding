@@ -353,12 +353,12 @@
         "index": 10,
         "sourceId": null,
         "creationDateTime": "2025-10-03T00:55:48.538Z",
-        "lastEditedDateTime": "2025-11-30T15:31:37.478Z",
+        "lastEditedDateTime": "2025-12-02T18:59:01.261Z",
         "cells": [
           {
             "id": "520d1a27-4ed3-4a57-82d7-854ba2edfc0c",
             "columnId": "602a6476-f10c-48e9-b7ef-a3c303ad9f25",
-            "value": -309.95,
+            "value": 309.95,
             "hasValidFrontmatter": null
           },
           {
@@ -452,6 +452,33 @@
             "id": "4962abbf-afd8-45ce-a031-ec8b694dc956",
             "columnId": "ffe021e6-d861-4dd0-a98a-5d0861f49044",
             "dateTime": "2025-11-30T15:31:46.265Z",
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "34fce68e-8afb-470d-a204-28ab6d4b02c0",
+        "index": 14,
+        "sourceId": null,
+        "creationDateTime": "2025-12-02T18:59:08.268Z",
+        "lastEditedDateTime": "2025-12-02T18:59:08.268Z",
+        "cells": [
+          {
+            "id": "4b4e7da2-6aed-4cb3-b713-5f255afc4f83",
+            "columnId": "602a6476-f10c-48e9-b7ef-a3c303ad9f25",
+            "value": null,
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "2ca775c4-d4ad-436c-b1be-8d32a2155fdf",
+            "columnId": "cc204352-36c9-4275-b17c-f2a15050413a",
+            "content": "",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "5b0cd1e8-9d68-4523-ae5d-bd6b3305bae4",
+            "columnId": "ffe021e6-d861-4dd0-a98a-5d0861f49044",
+            "dateTime": null,
             "hasValidFrontmatter": null
           }
         ]

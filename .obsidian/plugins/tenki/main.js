@@ -32,19 +32,21 @@ var WEATHER_VIEW_TYPE = "tenki";
 var DEFAULT_SETTINGS = {
   apiKey: "",
   unit: "celsius",
-  refreshInterval: 30,
+  // 30 minutes expressed in seconds
+  refreshInterval: 30 * 60,
   location: ""
 };
+var MIN_REFRESH_SECONDS = 30 * 60;
 var WeatherPlugin = class extends import_obsidian.Plugin {
-  constructor() {
-    super(...arguments);
-    this.updateInterval = -1;
-  }
   async onload() {
     this.settings = Object.assign(
       {},
       DEFAULT_SETTINGS,
       await this.loadData()
+    );
+    this.settings.refreshInterval = Math.max(
+      MIN_REFRESH_SECONDS,
+      this.settings.refreshInterval || MIN_REFRESH_SECONDS
     );
     this.registerView(
       WEATHER_VIEW_TYPE,
@@ -59,9 +61,12 @@ var WeatherPlugin = class extends import_obsidian.Plugin {
       id: "refresh",
       name: "Refresh",
       callback: () => {
-        if (this.view) {
-          this.view.refreshWeather();
+        if (!this.view) {
+          new import_obsidian.Notice("Open Tenki before refreshing");
+          void this.initView();
+          return;
         }
+        this.view.refreshWeather();
       }
     });
     this.app.workspace.onLayoutReady(async () => {
@@ -69,36 +74,24 @@ var WeatherPlugin = class extends import_obsidian.Plugin {
     });
     this.addSettingTab(new WeatherSettingTab(this.app, this));
   }
-  onunload() {
-    this.clearUpdateInterval();
-  }
   onShow() {
     this.initView();
   }
   async initView() {
-    if (this.app.workspace.getLeavesOfType(WEATHER_VIEW_TYPE).length) {
+    var _a;
+    const existingLeaves = this.app.workspace.getLeavesOfType(
+      WEATHER_VIEW_TYPE
+    );
+    if (existingLeaves.length) {
+      const view = existingLeaves[0].view;
+      this.view = view;
       return;
     }
-    const leaf = this.app.workspace.getRightLeaf(false);
-    if (leaf) {
-      await leaf.setViewState({ type: WEATHER_VIEW_TYPE });
-      this.app.workspace.revealLeaf(leaf);
-      if (this.view instanceof WeatherView) {
-        this.view.displayTemperature();
-      } else {
-        this.view = new WeatherView(leaf, this);
-        this.updateInterval = window.setInterval(
-          this.view.displayTemperature.bind(this.view),
-          this.settings.refreshInterval * 1e3
-        );
-      }
-    }
-  }
-  clearUpdateInterval() {
-    if (this.updateInterval) {
-      clearInterval(this.updateInterval);
-      this.updateInterval = -1;
-    }
+    const leaf = (_a = this.app.workspace.getRightLeaf(false)) != null ? _a : this.app.workspace.getRightLeaf(true);
+    if (!leaf) return;
+    await leaf.setViewState({ type: WEATHER_VIEW_TYPE });
+    this.app.workspace.revealLeaf(leaf);
+    this.view = leaf.view;
   }
   async saveSettings() {
     await this.saveData(this.settings);
@@ -107,27 +100,43 @@ var WeatherPlugin = class extends import_obsidian.Plugin {
 var WeatherView = class extends import_obsidian.ItemView {
   constructor(leaf, plugin) {
     super(leaf);
+    this.refreshIntervalId = null;
+    this.lastErrorNoticeAt = null;
     this.plugin = plugin;
   }
   async onOpen() {
-    this.displayTemperature();
-    this.plugin.updateInterval = window.setInterval(
-      () => this.displayTemperature(),
-      this.plugin.settings.refreshInterval * 1e3
-    );
+    await this.displayTemperature();
+    this.startRefreshTimer();
   }
   refreshWeather() {
-    this.plugin.clearUpdateInterval();
-    this.plugin.view.displayTemperature();
-    this.plugin.updateInterval = window.setInterval(
-      () => this.plugin.view.displayTemperature(),
-      this.plugin.settings.refreshInterval * 1e3
-    );
+    this.displayTemperature();
+    this.startRefreshTimer();
     new import_obsidian.Notice("Tenki updated");
   }
   onClose() {
-    this.plugin.clearUpdateInterval();
+    this.clearRefreshTimer();
     return super.onClose();
+  }
+  startRefreshTimer() {
+    this.clearRefreshTimer();
+    const refreshMs = Math.max(
+      MIN_REFRESH_SECONDS,
+      this.plugin.settings.refreshInterval
+    );
+    this.refreshIntervalId = window.setInterval(
+      () => this.displayTemperature(),
+      refreshMs * 1e3
+    );
+    this.registerInterval(this.refreshIntervalId);
+  }
+  clearRefreshTimer() {
+    if (this.refreshIntervalId !== null) {
+      window.clearInterval(this.refreshIntervalId);
+      this.refreshIntervalId = null;
+    }
+  }
+  restartRefreshTimer() {
+    this.startRefreshTimer();
   }
   getViewType() {
     return WEATHER_VIEW_TYPE;
@@ -140,19 +149,46 @@ var WeatherView = class extends import_obsidian.ItemView {
     return "sun";
   }
   async fetchWeatherData() {
-    const WEATHER_API_URL = `http://api.weatherapi.com/v1/forecast.json?key=${this.plugin.settings.apiKey}&q=${this.plugin.settings.location}&days=3&aqi=yes`;
-    const response = await (0, import_obsidian.requestUrl)(WEATHER_API_URL);
+    const { apiKey, location } = this.plugin.settings;
+    if (!apiKey || !location) {
+      throw new Error("Missing API key or location");
+    }
+    const WEATHER_API_URL = `https://api.weatherapi.com/v1/forecast.json?key=${encodeURIComponent(
+      apiKey
+    )}&q=${encodeURIComponent(location)}&days=3&aqi=yes`;
+    const response = await (0, import_obsidian.requestUrl)({
+      url: WEATHER_API_URL,
+      method: "GET"
+    });
+    if (response.status >= 400) {
+      throw new Error(`Weather API error ${response.status}`);
+    }
     const weatherData = response.json;
     return weatherData;
   }
-  displayTemperature() {
-    this.fetchWeatherData().then((weatherData) => {
+  async displayTemperature() {
+    if (!this.plugin.settings.apiKey || !this.plugin.settings.location) {
+      this.showErrorNotice("Set API key and location to load Tenki");
+      return;
+    }
+    try {
+      const weatherData = await this.fetchWeatherData();
       const weatherWidget = this.createWeatherWidget(weatherData);
       this.containerEl.empty();
       this.containerEl.appendChild(weatherWidget);
-    }).catch((error) => {
+    } catch (error) {
       console.error("Failed to fetch weather data", error);
-    });
+      this.showErrorNotice(
+        "Tenki could not fetch weather. Check network, API key, and location."
+      );
+    }
+  }
+  showErrorNotice(message) {
+    const now = Date.now();
+    if (this.lastErrorNoticeAt === null || now - this.lastErrorNoticeAt > 6e4) {
+      new import_obsidian.Notice(message);
+      this.lastErrorNoticeAt = now;
+    }
   }
   createWeatherWidget(weatherData) {
     const location = weatherData.location.name;
@@ -187,7 +223,7 @@ var WeatherView = class extends import_obsidian.ItemView {
     weatherContainer.appendChild(currentContainer);
     const currentIconImg = document.createElement("img");
     currentIconImg.className = "current-icon";
-    currentIconImg.src = `http:${currentIcon}`;
+    currentIconImg.src = `https:${currentIcon}`;
     currentIconImg.alt = "Weather Icon";
     currentContainer.appendChild(currentIconImg);
     const currentStatsContainer = document.createElement("div");
@@ -222,8 +258,10 @@ var WeatherView = class extends import_obsidian.ItemView {
     uvDiv.appendChild(uvValueDiv);
     const aqDiv = document.createElement("div");
     aqDiv.className = "current-aq";
-    if (weatherData.current.air_quality && weatherData.current.air_quality["us-epa-index"]) {
-      const aq = weatherData.current.air_quality["us-epa-index"].toString();
+    if (weatherData.current.air_quality && weatherData.current.air_quality["us-epa-index"] !== void 0 && weatherData.current.air_quality["us-epa-index"] !== null) {
+      const aq = String(
+        weatherData.current.air_quality["us-epa-index"]
+      );
       const aqText = document.createElement("span");
       aqText.textContent = "AQ: ";
       aqDiv.appendChild(aqText);
@@ -252,17 +290,18 @@ var WeatherView = class extends import_obsidian.ItemView {
       const forecastDayDiv = document.createElement("div");
       forecastDayDiv.className = "forecast-day";
       const forecastDate = new Date(forecast.day);
-      const today = new Date();
+      const today = /* @__PURE__ */ new Date();
       const month = forecastDate.toLocaleString(void 0, {
-        month: "short"
+        month: "short",
+        timeZone: "UTC"
       });
-      const day = forecastDate.getDate().toString();
-      const forecastDateFormatted = forecastDate.getDate() === today.getDate() && forecastDate.getMonth() === today.getMonth() && forecastDate.getFullYear() === today.getFullYear() ? "Today" : `${month} ${day}`;
+      const day = forecastDate.getUTCDate().toString();
+      const forecastDateFormatted = forecastDate.getUTCDate() === today.getUTCDate() && forecastDate.getUTCMonth() === today.getUTCMonth() && forecastDate.getUTCFullYear() === today.getUTCFullYear() ? "Today" : `${month} ${day}`;
       forecastDayDiv.textContent = forecastDateFormatted;
       forecastDayContainer.appendChild(forecastDayDiv);
       const forecastIconImg = document.createElement("img");
       forecastIconImg.className = "forecast-icon";
-      forecastIconImg.src = `http:${forecast.icon}`;
+      forecastIconImg.src = `https:${forecast.icon}`;
       forecastIconImg.alt = "Weather Icon";
       forecastDayContainer.appendChild(forecastIconImg);
       const forecastRainDiv = document.createElement("div");
@@ -271,11 +310,16 @@ var WeatherView = class extends import_obsidian.ItemView {
       forecastDayContainer.appendChild(forecastRainDiv);
       const tooltip = document.createElement("div");
       tooltip.className = "forecast-tooltip";
+      let tooltipText = "";
       if (this.plugin.settings.unit === "celsius") {
-        tooltip.textContent = `${forecast.minTempC}\xB0C ${forecast.maxTempC}\xB0C`;
+        tooltipText = `${forecast.minTempC}\xB0C ${forecast.maxTempC}\xB0C`;
       } else {
-        tooltip.textContent = `${forecast.minTempF}\xB0F ${forecast.maxTempF}\xB0F`;
+        tooltipText = `${forecast.minTempF}\xB0F ${forecast.maxTempF}\xB0F`;
       }
+      tooltipText += `
+Sunrise: ${forecast.sunrise}
+Sunset: ${forecast.sunset}`;
+      tooltip.textContent = tooltipText;
       forecastDayContainer.appendChild(tooltip);
       forecastDayContainer.addEventListener("mouseover", () => {
         tooltip.style.visibility = "visible";
@@ -298,8 +342,7 @@ var WeatherView = class extends import_obsidian.ItemView {
     }
   }
   extractForecastData(forecast) {
-    if (!forecast)
-      return [];
+    if (!forecast) return [];
     return forecast.forecastday.map((forecastDay) => ({
       day: forecastDay.date,
       icon: forecastDay.day.condition.icon,
@@ -307,7 +350,9 @@ var WeatherView = class extends import_obsidian.ItemView {
       minTempC: `${forecastDay.day.mintemp_c}`,
       maxTempC: `${forecastDay.day.maxtemp_c}`,
       minTempF: `${forecastDay.day.mintemp_f}`,
-      maxTempF: `${forecastDay.day.maxtemp_f}`
+      maxTempF: `${forecastDay.day.maxtemp_f}`,
+      sunrise: forecastDay.astro.sunrise,
+      sunset: forecastDay.astro.sunset
     }));
   }
   createIcon(iconType) {
@@ -363,18 +408,22 @@ var WeatherSettingTab = class extends import_obsidian.PluginSettingTab {
       })
     ).addText(
       (text) => text.setPlaceholder("Enter API key").setValue(this.plugin.settings.apiKey).onChange(async (value) => {
+        var _a;
         this.plugin.settings.apiKey = value.trim();
         await this.plugin.saveSettings();
-        this.plugin.view.displayTemperature();
+        await ((_a = this.plugin.view) == null ? void 0 : _a.displayTemperature());
       })
     );
     new import_obsidian.Setting(containerEl).setName("Location").setDesc("Enter your location").addText(
       (text) => text.setPlaceholder("Enter your location").setValue(this.plugin.settings.location).onChange(
         (0, import_obsidian.debounce)(async (value) => {
-          this.plugin.settings.location = value.trim();
+          var _a;
+          const trimmed = value.trim();
+          this.plugin.settings.location = trimmed;
           await this.plugin.saveSettings();
-          this.plugin.view.displayTemperature();
-        }, 750)
+          if (!trimmed) return;
+          await ((_a = this.plugin.view) == null ? void 0 : _a.displayTemperature());
+        }, 1500)
       )
     );
     new import_obsidian.Setting(containerEl).setName("Unit").setDesc("Select the unit for temperature").addDropdown(
@@ -388,16 +437,14 @@ var WeatherSettingTab = class extends import_obsidian.PluginSettingTab {
       (text) => text.setPlaceholder("Enter refresh interval").setValue(
         (this.plugin.settings.refreshInterval / 60).toString()
       ).onChange(async (value) => {
-        const minutes = parseInt(value.trim());
+        var _a, _b;
+        const minutes = parseInt(value.trim(), 10);
         if (!isNaN(minutes) && minutes > 0) {
-          this.plugin.settings.refreshInterval = minutes * 60;
+          const clampedMinutes = Math.max(30, minutes);
+          this.plugin.settings.refreshInterval = clampedMinutes * 60;
           await this.plugin.saveSettings();
-          this.plugin.clearUpdateInterval();
-          this.plugin.view.displayTemperature();
-          this.plugin.updateInterval = window.setInterval(
-            () => this.plugin.view.displayTemperature(),
-            this.plugin.settings.refreshInterval * 1e3
-          );
+          await ((_a = this.plugin.view) == null ? void 0 : _a.displayTemperature());
+          (_b = this.plugin.view) == null ? void 0 : _b.restartRefreshTimer();
         }
       })
     );
@@ -426,6 +473,5 @@ var WeatherSettingTab = class extends import_obsidian.PluginSettingTab {
     div.appendChild(donateText);
   }
 };
-
 
 /* nosourcemap */

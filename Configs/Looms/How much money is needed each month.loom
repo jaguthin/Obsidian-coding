@@ -1,0 +1,1021 @@
+{
+  "model": {
+    "columns": [
+      {
+        "id": "1f020aa1-b306-4ac0-8519-015454090761",
+        "sortDir": "default",
+        "isVisible": true,
+        "width": "140px",
+        "type": "text",
+        "numberPrefix": "",
+        "numberSuffix": "",
+        "numberSeparator": "",
+        "content": "Bill",
+        "numberFormat": "number",
+        "currencyType": "USD",
+        "dateFormat": "mmddyyyy",
+        "dateFormatSeparator": "-",
+        "hour12": true,
+        "includeTime": false,
+        "shouldWrapOverflow": true,
+        "tags": [],
+        "calculationType": "none",
+        "aspectRatio": "unset",
+        "horizontalPadding": "unset",
+        "verticalPadding": "unset",
+        "frontmatterKey": null,
+        "multiTagSortDir": "default"
+      },
+      {
+        "id": "1f6d24cf-aa17-49aa-8dd7-24eb3992fad5",
+        "sortDir": "default",
+        "isVisible": true,
+        "width": "140px",
+        "type": "number",
+        "numberPrefix": "",
+        "numberSuffix": "",
+        "numberSeparator": "",
+        "content": "Amount",
+        "numberFormat": "number",
+        "currencyType": "USD",
+        "dateFormat": "mmddyyyy",
+        "dateFormatSeparator": "-",
+        "hour12": true,
+        "includeTime": false,
+        "shouldWrapOverflow": true,
+        "tags": [],
+        "calculationType": "sum",
+        "aspectRatio": "unset",
+        "horizontalPadding": "unset",
+        "verticalPadding": "unset",
+        "frontmatterKey": null,
+        "multiTagSortDir": "default"
+      },
+      {
+        "id": "b12e4e4e-8fe7-4d5e-b4e8-5714a0acc180",
+        "sortDir": "default",
+        "isVisible": true,
+        "width": "140px",
+        "type": "text",
+        "numberPrefix": "",
+        "numberSuffix": "",
+        "numberSeparator": "",
+        "content": "Income",
+        "numberFormat": "number",
+        "currencyType": "USD",
+        "dateFormat": "mmddyyyy",
+        "dateFormatSeparator": "-",
+        "hour12": true,
+        "includeTime": false,
+        "shouldWrapOverflow": true,
+        "tags": [],
+        "calculationType": "none",
+        "aspectRatio": "unset",
+        "horizontalPadding": "unset",
+        "verticalPadding": "unset",
+        "frontmatterKey": null,
+        "multiTagSortDir": "default"
+      },
+      {
+        "id": "f5829d6a-1e40-4811-afaf-6ab43ce97fd7",
+        "sortDir": "default",
+        "isVisible": true,
+        "width": "140px",
+        "type": "number",
+        "numberPrefix": "",
+        "numberSuffix": "",
+        "numberSeparator": "",
+        "content": "Amount",
+        "numberFormat": "number",
+        "currencyType": "USD",
+        "dateFormat": "mmddyyyy",
+        "dateFormatSeparator": "-",
+        "hour12": true,
+        "includeTime": false,
+        "shouldWrapOverflow": true,
+        "tags": [],
+        "calculationType": "sum",
+        "aspectRatio": "unset",
+        "horizontalPadding": "unset",
+        "verticalPadding": "unset",
+        "frontmatterKey": null,
+        "multiTagSortDir": "default"
+      },
+      {
+        "id": "120e1d81-feae-4602-a8b6-86f9f9cee70b",
+        "sortDir": "default",
+        "isVisible": true,
+        "width": "140px",
+        "type": "text",
+        "numberPrefix": "",
+        "numberSuffix": "",
+        "numberSeparator": "",
+        "content": "Amount Per Pay Period to Go to:",
+        "numberFormat": "number",
+        "currencyType": "USD",
+        "dateFormat": "mmddyyyy",
+        "dateFormatSeparator": "-",
+        "hour12": true,
+        "includeTime": false,
+        "shouldWrapOverflow": true,
+        "tags": [],
+        "calculationType": "none",
+        "aspectRatio": "unset",
+        "horizontalPadding": "unset",
+        "verticalPadding": "unset",
+        "frontmatterKey": null,
+        "multiTagSortDir": "default"
+      },
+      {
+        "id": "8ece9bbe-6837-4b13-bfe9-49f258f79411",
+        "sortDir": "default",
+        "isVisible": true,
+        "width": "140px",
+        "type": "number",
+        "numberPrefix": "",
+        "numberSuffix": "",
+        "numberSeparator": "",
+        "content": "Amount",
+        "numberFormat": "number",
+        "currencyType": "USD",
+        "dateFormat": "mmddyyyy",
+        "dateFormatSeparator": "-",
+        "hour12": true,
+        "includeTime": false,
+        "shouldWrapOverflow": true,
+        "tags": [],
+        "calculationType": "sum",
+        "aspectRatio": "unset",
+        "horizontalPadding": "unset",
+        "verticalPadding": "unset",
+        "frontmatterKey": null,
+        "multiTagSortDir": "default"
+      }
+    ],
+    "rows": [
+      {
+        "id": "61eb354b-4594-4897-944a-6f2502336df8",
+        "index": 0,
+        "sourceId": null,
+        "creationDateTime": "2025-12-02T19:08:45.554Z",
+        "lastEditedDateTime": "2025-12-05T01:18:04.715Z",
+        "cells": [
+          {
+            "id": "0e982494-ccd7-43ec-9a5d-5fd64583adcb",
+            "columnId": "1f020aa1-b306-4ac0-8519-015454090761",
+            "content": "Electric",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "b63a4e2d-629e-411e-83a9-6a7042063d8e",
+            "columnId": "1f6d24cf-aa17-49aa-8dd7-24eb3992fad5",
+            "value": 150,
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "8ad8ea6a-7929-4a7c-8323-d5155c645c1f",
+            "columnId": "b12e4e4e-8fe7-4d5e-b4e8-5714a0acc180",
+            "content": "Paycheck 1",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "4a46568a-a8f0-454a-a9d0-8b295b823de6",
+            "columnId": "f5829d6a-1e40-4811-afaf-6ab43ce97fd7",
+            "value": 4010.08,
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "1a1e3c3b-ce35-452e-afe0-0412a661fcf1",
+            "columnId": "120e1d81-feae-4602-a8b6-86f9f9cee70b",
+            "content": "WTF",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "ec34c465-efb9-4ec2-8172-d6015746e038",
+            "columnId": "8ece9bbe-6837-4b13-bfe9-49f258f79411",
+            "value": 550,
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "f2dbe495-2892-4fc3-ada4-2ef4eb36b76a",
+        "index": 1,
+        "sourceId": null,
+        "creationDateTime": "2025-12-02T19:10:17.395Z",
+        "lastEditedDateTime": "2025-12-05T01:18:35.523Z",
+        "cells": [
+          {
+            "id": "92bba1af-7e1f-404a-b23c-9f460082d66a",
+            "columnId": "1f020aa1-b306-4ac0-8519-015454090761",
+            "content": "Car Insurance",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "fd01d760-c4ee-47a0-b8e9-590307f46d2d",
+            "columnId": "1f6d24cf-aa17-49aa-8dd7-24eb3992fad5",
+            "value": 272.48,
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "518ecec2-6d3a-4a6b-8926-b43f22290f79",
+            "columnId": "b12e4e4e-8fe7-4d5e-b4e8-5714a0acc180",
+            "content": "Paycheck 2",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "22efcce5-fc78-4d83-a083-bb52841a9751",
+            "columnId": "f5829d6a-1e40-4811-afaf-6ab43ce97fd7",
+            "value": 4010.08,
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "63d6d6a9-bfb9-4a04-870a-e1d148b1fdcb",
+            "columnId": "120e1d81-feae-4602-a8b6-86f9f9cee70b",
+            "content": "HELOC",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "8156ddde-2d35-458f-8d00-133602482172",
+            "columnId": "8ece9bbe-6837-4b13-bfe9-49f258f79411",
+            "value": 1950,
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "0fe0404c-89a6-4e5f-94dc-d81671c0ebe1",
+        "index": 2,
+        "sourceId": null,
+        "creationDateTime": "2025-12-02T19:10:19.160Z",
+        "lastEditedDateTime": "2025-12-05T01:19:23.288Z",
+        "cells": [
+          {
+            "id": "666a8d0c-b0ba-4a58-ad6c-876a02cf4042",
+            "columnId": "1f020aa1-b306-4ac0-8519-015454090761",
+            "content": "Life Insurance",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "edd05f24-c807-405e-98e8-153579b7da57",
+            "columnId": "1f6d24cf-aa17-49aa-8dd7-24eb3992fad5",
+            "value": 35.24,
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "c1db6796-0a06-4061-b6dc-baa8bc3fd5d4",
+            "columnId": "b12e4e4e-8fe7-4d5e-b4e8-5714a0acc180",
+            "content": "",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "001128ff-31c5-4713-b061-06a86a15b8c5",
+            "columnId": "f5829d6a-1e40-4811-afaf-6ab43ce97fd7",
+            "value": null,
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "94513cab-64e5-40ad-915a-a5e032e0a230",
+            "columnId": "120e1d81-feae-4602-a8b6-86f9f9cee70b",
+            "content": "Recreation",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "a56d210d-f5ab-4349-a3bc-6f3424887bc4",
+            "columnId": "8ece9bbe-6837-4b13-bfe9-49f258f79411",
+            "value": 75,
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "213bee65-6783-4d2b-b9e0-2a833a88a175",
+        "index": 3,
+        "sourceId": null,
+        "creationDateTime": "2025-12-02T19:10:19.879Z",
+        "lastEditedDateTime": "2025-12-05T01:19:27.116Z",
+        "cells": [
+          {
+            "id": "2721450a-52e8-4cc6-9523-e589aef3cc1d",
+            "columnId": "1f020aa1-b306-4ac0-8519-015454090761",
+            "content": "Loan",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "258fabea-0ef5-4f51-ba82-98711c5fa725",
+            "columnId": "1f6d24cf-aa17-49aa-8dd7-24eb3992fad5",
+            "value": 911.28,
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "b25972f1-9d0f-47b3-a7dc-e0c0155b461c",
+            "columnId": "b12e4e4e-8fe7-4d5e-b4e8-5714a0acc180",
+            "content": "Allie",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "d77eac0a-1cb2-4d1d-9e8d-9e5a00e0b5d5",
+            "columnId": "f5829d6a-1e40-4811-afaf-6ab43ce97fd7",
+            "value": 46.65,
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "62c10ee2-c8df-4b5a-b13e-74e8c68f7fe3",
+            "columnId": "120e1d81-feae-4602-a8b6-86f9f9cee70b",
+            "content": " Ally Checking",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "9e6d9a0d-3910-40d8-8a3d-5acbc8d8cfc6",
+            "columnId": "8ece9bbe-6837-4b13-bfe9-49f258f79411",
+            "value": 1610.38,
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "e0b6f3f6-0b2d-4d4b-9cd7-9cc333da85b0",
+        "index": 4,
+        "sourceId": null,
+        "creationDateTime": "2025-12-05T01:14:56.863Z",
+        "lastEditedDateTime": "2025-12-05T01:16:56.522Z",
+        "cells": [
+          {
+            "id": "c504c2ce-0fc8-4b01-8756-f09ff27e65f8",
+            "columnId": "1f020aa1-b306-4ac0-8519-015454090761",
+            "content": "Extra to Loan",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "1afd1c76-5c69-494b-ad40-a7b9fd707f43",
+            "columnId": "1f6d24cf-aa17-49aa-8dd7-24eb3992fad5",
+            "value": 500,
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "82299295-ee96-4ff9-ad8a-862c767dc753",
+            "columnId": "b12e4e4e-8fe7-4d5e-b4e8-5714a0acc180",
+            "content": "Allie",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "9838f4c4-f2d0-49f7-ae72-608980d0e060",
+            "columnId": "f5829d6a-1e40-4811-afaf-6ab43ce97fd7",
+            "value": 46.65,
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "9369f72c-235b-45f7-81dc-f2bb9e5769e2",
+            "columnId": "120e1d81-feae-4602-a8b6-86f9f9cee70b",
+            "content": "",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "48241946-6e64-43f6-977a-2488ad7b8708",
+            "columnId": "8ece9bbe-6837-4b13-bfe9-49f258f79411",
+            "value": null,
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "fa85c545-8602-4f10-ae39-b46d590568a7",
+        "index": 5,
+        "sourceId": null,
+        "creationDateTime": "2025-12-02T19:10:21.140Z",
+        "lastEditedDateTime": "2025-12-02T19:39:21.127Z",
+        "cells": [
+          {
+            "id": "40aa16f5-bc7d-46a1-a20b-1ae65d1875c3",
+            "columnId": "1f020aa1-b306-4ac0-8519-015454090761",
+            "content": "Food",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "c79e5103-56f2-4755-9f2c-145faf5b08e5",
+            "columnId": "1f6d24cf-aa17-49aa-8dd7-24eb3992fad5",
+            "value": 900,
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "cb39375e-39fa-4f32-9dcd-e792eb784246",
+            "columnId": "b12e4e4e-8fe7-4d5e-b4e8-5714a0acc180",
+            "content": "Allie",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "219fbdc5-edfb-41ff-b2bf-8b57d3e9d839",
+            "columnId": "f5829d6a-1e40-4811-afaf-6ab43ce97fd7",
+            "value": 46.65,
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "f9051be7-e32f-4e53-b105-c03b4c25db53",
+            "columnId": "120e1d81-feae-4602-a8b6-86f9f9cee70b",
+            "content": "",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "473b682e-bc38-48df-b340-90bcb5280bc0",
+            "columnId": "8ece9bbe-6837-4b13-bfe9-49f258f79411",
+            "value": null,
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "818218d6-51dc-4306-98d9-c77fc4b07cbe",
+        "index": 6,
+        "sourceId": null,
+        "creationDateTime": "2025-12-02T19:10:22.057Z",
+        "lastEditedDateTime": "2025-12-02T19:39:24.775Z",
+        "cells": [
+          {
+            "id": "5720b389-7f49-429c-8838-c080277f1b0a",
+            "columnId": "1f020aa1-b306-4ac0-8519-015454090761",
+            "content": "Gas",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "38103fe1-a828-498e-84a9-42811e0b278a",
+            "columnId": "1f6d24cf-aa17-49aa-8dd7-24eb3992fad5",
+            "value": 200,
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "ee58ca28-c916-4ba9-be05-a3242104ee54",
+            "columnId": "b12e4e4e-8fe7-4d5e-b4e8-5714a0acc180",
+            "content": "Allie",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "b2ab13bd-061a-4411-9118-717b37a5985d",
+            "columnId": "f5829d6a-1e40-4811-afaf-6ab43ce97fd7",
+            "value": 46.65,
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "30a2d038-f650-4f3c-a2bc-1bc7fe5dfd0d",
+            "columnId": "120e1d81-feae-4602-a8b6-86f9f9cee70b",
+            "content": "",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "a8a21d07-13bf-4958-a888-27443061fc5c",
+            "columnId": "8ece9bbe-6837-4b13-bfe9-49f258f79411",
+            "value": null,
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "dd2d9b6a-f114-4b54-87fc-5fe8fb4dfafa",
+        "index": 7,
+        "sourceId": null,
+        "creationDateTime": "2025-12-02T19:11:05.325Z",
+        "lastEditedDateTime": "2025-12-05T01:20:23.301Z",
+        "cells": [
+          {
+            "id": "5a534bfe-ecbf-4d19-9146-3b54435625ee",
+            "columnId": "1f020aa1-b306-4ac0-8519-015454090761",
+            "content": "Indhira Investment",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "dbf8aeea-21c6-473d-ae0b-0bd94df6caa2",
+            "columnId": "1f6d24cf-aa17-49aa-8dd7-24eb3992fad5",
+            "value": 100,
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "112ef674-b346-4c5d-bd56-feb6ac09ba59",
+            "columnId": "b12e4e4e-8fe7-4d5e-b4e8-5714a0acc180",
+            "content": "",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "97c8fc2d-dda3-4242-ba49-00ee06dba8b3",
+            "columnId": "f5829d6a-1e40-4811-afaf-6ab43ce97fd7",
+            "value": null,
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "a4f6226b-e944-44fb-9939-b2f1d39c5d49",
+            "columnId": "120e1d81-feae-4602-a8b6-86f9f9cee70b",
+            "content": "",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "ed1d2cdd-f5eb-4e0b-bbef-54b027c843c8",
+            "columnId": "8ece9bbe-6837-4b13-bfe9-49f258f79411",
+            "value": null,
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "cf941eb9-850d-49b9-9868-09c0654d2528",
+        "index": 8,
+        "sourceId": null,
+        "creationDateTime": "2025-12-02T19:11:06.489Z",
+        "lastEditedDateTime": "2025-12-05T01:20:20.738Z",
+        "cells": [
+          {
+            "id": "fd49f615-66d0-4ac3-b577-986ea04d2e3b",
+            "columnId": "1f020aa1-b306-4ac0-8519-015454090761",
+            "content": "Internet",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "6cb47c47-b8a7-4acc-905f-e8f56484d782",
+            "columnId": "1f6d24cf-aa17-49aa-8dd7-24eb3992fad5",
+            "value": 55,
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "0e9dea7a-04ff-42fd-acc0-1426488a0b49",
+            "columnId": "b12e4e4e-8fe7-4d5e-b4e8-5714a0acc180",
+            "content": "Expenses",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "af7c8a0e-20f9-4e83-8404-cdc939368a30",
+            "columnId": "f5829d6a-1e40-4811-afaf-6ab43ce97fd7",
+            "value": 150,
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "ae769c3c-9c6b-48f4-9ad2-070c638299c6",
+            "columnId": "120e1d81-feae-4602-a8b6-86f9f9cee70b",
+            "content": "",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "69b44787-0a59-42d8-b7ff-8dda6ba3ef52",
+            "columnId": "8ece9bbe-6837-4b13-bfe9-49f258f79411",
+            "value": null,
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "12ab34e9-8728-4342-bad7-909cb8560c1e",
+        "index": 9,
+        "sourceId": null,
+        "creationDateTime": "2025-12-02T19:11:07.633Z",
+        "lastEditedDateTime": "2025-12-02T19:13:01.363Z",
+        "cells": [
+          {
+            "id": "7164aa71-fc1f-4735-9d86-6f82cc8616c7",
+            "columnId": "1f020aa1-b306-4ac0-8519-015454090761",
+            "content": "Phone",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "3fbece91-71a9-4288-b752-3637c9bc8f1a",
+            "columnId": "1f6d24cf-aa17-49aa-8dd7-24eb3992fad5",
+            "value": 250,
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "1cad9e9e-02f7-499a-b3da-0e59555bedd4",
+            "columnId": "b12e4e4e-8fe7-4d5e-b4e8-5714a0acc180",
+            "content": "",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "b6da7203-d91f-4040-b54b-8fd94548c342",
+            "columnId": "f5829d6a-1e40-4811-afaf-6ab43ce97fd7",
+            "value": null,
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "2bc58e89-2bd0-40d3-b6e9-39d727c8c833",
+            "columnId": "120e1d81-feae-4602-a8b6-86f9f9cee70b",
+            "content": "",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "4dab6402-1c26-4c3b-963d-7e5473db5564",
+            "columnId": "8ece9bbe-6837-4b13-bfe9-49f258f79411",
+            "value": null,
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "ec878b77-119d-4517-baf4-00a20515bf77",
+        "index": 10,
+        "sourceId": null,
+        "creationDateTime": "2025-12-02T19:11:42.878Z",
+        "lastEditedDateTime": "2025-12-12T13:55:59.693Z",
+        "cells": [
+          {
+            "id": "93ac4046-3002-495e-8ee6-d0d2b9209f34",
+            "columnId": "1f020aa1-b306-4ac0-8519-015454090761",
+            "content": "WTF",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "cde945fc-500c-45d7-bbd2-12d41aeea9ac",
+            "columnId": "1f6d24cf-aa17-49aa-8dd7-24eb3992fad5",
+            "value": 1100,
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "fc25babe-6046-412e-8581-878be1c376fc",
+            "columnId": "b12e4e4e-8fe7-4d5e-b4e8-5714a0acc180",
+            "content": "",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "b7ebcd8c-ec15-4677-b82f-c41a157e09f9",
+            "columnId": "f5829d6a-1e40-4811-afaf-6ab43ce97fd7",
+            "value": null,
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "a11d908d-2b37-4e08-9dde-10a185fa78de",
+            "columnId": "120e1d81-feae-4602-a8b6-86f9f9cee70b",
+            "content": "",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "37868b63-7341-4639-8573-6c783360226c",
+            "columnId": "8ece9bbe-6837-4b13-bfe9-49f258f79411",
+            "value": null,
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "ced733bf-16db-4502-bb12-8149334e6fe0",
+        "index": 11,
+        "sourceId": null,
+        "creationDateTime": "2025-12-02T19:11:43.974Z",
+        "lastEditedDateTime": "2025-12-12T13:55:39.730Z",
+        "cells": [
+          {
+            "id": "d9b03b80-a1aa-48ab-b9af-b26ba31a388f",
+            "columnId": "1f020aa1-b306-4ac0-8519-015454090761",
+            "content": "Recreation",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "0c9daefb-d02e-4457-950a-e98b228a34a7",
+            "columnId": "1f6d24cf-aa17-49aa-8dd7-24eb3992fad5",
+            "value": 150,
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "7679dde1-6f98-4ff9-a6e1-ee2e8efb3b6c",
+            "columnId": "b12e4e4e-8fe7-4d5e-b4e8-5714a0acc180",
+            "content": "",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "997a6382-4be6-4ae5-8971-250ec7da4651",
+            "columnId": "f5829d6a-1e40-4811-afaf-6ab43ce97fd7",
+            "value": null,
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "b1822fed-434c-4d81-93d5-11c3c4701647",
+            "columnId": "120e1d81-feae-4602-a8b6-86f9f9cee70b",
+            "content": "",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "9fb18c1f-438f-4694-9f12-d561df6383c5",
+            "columnId": "8ece9bbe-6837-4b13-bfe9-49f258f79411",
+            "value": null,
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "9be45b48-a666-4282-b343-6512f958907f",
+        "index": 12,
+        "sourceId": null,
+        "creationDateTime": "2025-12-02T19:11:44.682Z",
+        "lastEditedDateTime": "2025-12-02T19:13:12.048Z",
+        "cells": [
+          {
+            "id": "4d91bf52-e883-4307-adeb-57c5deca0e9c",
+            "columnId": "1f020aa1-b306-4ac0-8519-015454090761",
+            "content": "Hair Cut",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "1748beca-2901-4b58-92f5-2416a14865f9",
+            "columnId": "1f6d24cf-aa17-49aa-8dd7-24eb3992fad5",
+            "value": 30,
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "7c6d22bc-6f05-4132-a4a9-40dad645ac68",
+            "columnId": "b12e4e4e-8fe7-4d5e-b4e8-5714a0acc180",
+            "content": "",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "972e45b1-25e6-4556-a06b-a44509e44988",
+            "columnId": "f5829d6a-1e40-4811-afaf-6ab43ce97fd7",
+            "value": null,
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "b496d0af-7398-4650-8696-a764942a40eb",
+            "columnId": "120e1d81-feae-4602-a8b6-86f9f9cee70b",
+            "content": "",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "1c93d055-5084-4579-94eb-c3e6564dc5fd",
+            "columnId": "8ece9bbe-6837-4b13-bfe9-49f258f79411",
+            "value": null,
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "9345d1e2-3f73-4531-bb89-5233a0810184",
+        "index": 13,
+        "sourceId": null,
+        "creationDateTime": "2025-12-02T19:12:10.131Z",
+        "lastEditedDateTime": "2025-12-02T19:13:15.275Z",
+        "cells": [
+          {
+            "id": "7bc35332-9eb8-48b9-8796-edf53d6a3825",
+            "columnId": "1f020aa1-b306-4ac0-8519-015454090761",
+            "content": "Indhira Lunch",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "b46220a3-9c1e-4423-b40c-0a306cf82c4b",
+            "columnId": "1f6d24cf-aa17-49aa-8dd7-24eb3992fad5",
+            "value": 120,
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "5dd11067-47d1-4066-b6a8-ecc0f287d276",
+            "columnId": "b12e4e4e-8fe7-4d5e-b4e8-5714a0acc180",
+            "content": "",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "7a7e177d-6b2d-4dd0-8a92-51bed0b2f4a1",
+            "columnId": "f5829d6a-1e40-4811-afaf-6ab43ce97fd7",
+            "value": null,
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "2319dfaa-a283-489d-908e-70289de2e091",
+            "columnId": "120e1d81-feae-4602-a8b6-86f9f9cee70b",
+            "content": "",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "8edea003-a5ed-490d-b8af-836bf38f8ebc",
+            "columnId": "8ece9bbe-6837-4b13-bfe9-49f258f79411",
+            "value": null,
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "d868c842-71be-4fb0-84f9-831b0bdbbf5d",
+        "index": 14,
+        "sourceId": null,
+        "creationDateTime": "2025-12-02T19:12:25.142Z",
+        "lastEditedDateTime": "2025-12-02T19:13:43.114Z",
+        "cells": [
+          {
+            "id": "cbea1363-1229-4b6a-9b32-da2c4b89e58f",
+            "columnId": "1f020aa1-b306-4ac0-8519-015454090761",
+            "content": "Access  Corrections",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "f75eb7d5-d32d-4c2c-8ada-1ed0880e451c",
+            "columnId": "1f6d24cf-aa17-49aa-8dd7-24eb3992fad5",
+            "value": 309.95,
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "77828140-03cb-4604-87d7-4727ca9c3992",
+            "columnId": "b12e4e4e-8fe7-4d5e-b4e8-5714a0acc180",
+            "content": "",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "33d1e0d2-ab47-4ea4-b4d4-ce80f86fc05b",
+            "columnId": "f5829d6a-1e40-4811-afaf-6ab43ce97fd7",
+            "value": null,
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "b427bdf4-29c7-493f-8110-fcea5709acc8",
+            "columnId": "120e1d81-feae-4602-a8b6-86f9f9cee70b",
+            "content": "",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "851e87ca-9837-420d-af94-27b5671fdb8e",
+            "columnId": "8ece9bbe-6837-4b13-bfe9-49f258f79411",
+            "value": null,
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "762923ab-9072-4f68-9cff-bde9563c2ea1",
+        "index": 15,
+        "sourceId": null,
+        "creationDateTime": "2025-12-02T19:12:26.640Z",
+        "lastEditedDateTime": "2025-12-02T19:14:25.490Z",
+        "cells": [
+          {
+            "id": "0184feff-3e68-417d-badb-7c04f9714980",
+            "columnId": "1f020aa1-b306-4ac0-8519-015454090761",
+            "content": "Netflix",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "a1f716fd-49e8-4734-865c-2f36d2802403",
+            "columnId": "1f6d24cf-aa17-49aa-8dd7-24eb3992fad5",
+            "value": 17.99,
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "c71bab52-055b-41c1-b87a-5c605eeeefbe",
+            "columnId": "b12e4e4e-8fe7-4d5e-b4e8-5714a0acc180",
+            "content": "",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "b743317b-be5e-4148-b5f6-d63ed6672180",
+            "columnId": "f5829d6a-1e40-4811-afaf-6ab43ce97fd7",
+            "value": null,
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "4d4af7e4-b617-42cd-af00-f30e14216564",
+            "columnId": "120e1d81-feae-4602-a8b6-86f9f9cee70b",
+            "content": "",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "d2b725f3-ba77-4d90-ad3e-16f5423e658a",
+            "columnId": "8ece9bbe-6837-4b13-bfe9-49f258f79411",
+            "value": null,
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "803fa8cf-4a75-47f2-b7d0-1a6f6486a008",
+        "index": 16,
+        "sourceId": null,
+        "creationDateTime": "2025-12-02T19:33:57.786Z",
+        "lastEditedDateTime": "2025-12-02T19:34:11.527Z",
+        "cells": [
+          {
+            "id": "261bdb20-2cc3-4f1c-ae51-d44428537354",
+            "columnId": "1f020aa1-b306-4ac0-8519-015454090761",
+            "content": "Mortgage",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "79ec3dcf-0f4d-49d7-b187-d66c9cb98b6c",
+            "columnId": "1f6d24cf-aa17-49aa-8dd7-24eb3992fad5",
+            "value": 2485.29,
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "b12dcdd6-6410-4590-875d-bdfbfb973b0f",
+            "columnId": "b12e4e4e-8fe7-4d5e-b4e8-5714a0acc180",
+            "content": "",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "e63c587a-d05b-4c01-80bd-0848f5bfc413",
+            "columnId": "f5829d6a-1e40-4811-afaf-6ab43ce97fd7",
+            "value": null,
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "92811e72-4eea-4c76-9ca5-243c899db2b9",
+            "columnId": "120e1d81-feae-4602-a8b6-86f9f9cee70b",
+            "content": "",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "1014f113-bcf4-44b4-aeeb-0731aa77d0cd",
+            "columnId": "8ece9bbe-6837-4b13-bfe9-49f258f79411",
+            "value": null,
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "65f8ec20-9b39-4a14-ab68-83552177ec52",
+        "index": 17,
+        "sourceId": null,
+        "creationDateTime": "2025-12-02T19:43:38.780Z",
+        "lastEditedDateTime": "2025-12-02T19:43:50.199Z",
+        "cells": [
+          {
+            "id": "6131891f-82a8-4b6d-a495-0cea26144524",
+            "columnId": "1f020aa1-b306-4ac0-8519-015454090761",
+            "content": "Trash Pickup",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "bf474526-2d69-4094-b79b-aaeef406001e",
+            "columnId": "1f6d24cf-aa17-49aa-8dd7-24eb3992fad5",
+            "value": 50,
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "6243e806-462b-4868-959d-533b7b025f69",
+            "columnId": "b12e4e4e-8fe7-4d5e-b4e8-5714a0acc180",
+            "content": "",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "c3cece4a-1a78-459f-89bb-a136dcd90e7e",
+            "columnId": "f5829d6a-1e40-4811-afaf-6ab43ce97fd7",
+            "value": null,
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "684be4d7-ae6e-4c23-a092-391d9f1cbcc1",
+            "columnId": "120e1d81-feae-4602-a8b6-86f9f9cee70b",
+            "content": "",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "3a90f14a-dad5-44d8-8206-e88b0b108c85",
+            "columnId": "8ece9bbe-6837-4b13-bfe9-49f258f79411",
+            "value": null,
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "1b20d024-4589-4d14-a678-72bfce13b7d1",
+        "index": 18,
+        "sourceId": null,
+        "creationDateTime": "2025-12-02T19:33:04.293Z",
+        "lastEditedDateTime": "2025-12-12T13:56:16.133Z",
+        "cells": [
+          {
+            "id": "a86ec908-2c94-4e66-ae2e-cf221afffcf2",
+            "columnId": "1f020aa1-b306-4ac0-8519-015454090761",
+            "content": "Misc",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "7d7d7f23-217d-4b0c-ad1d-dc0bc4031570",
+            "columnId": "1f6d24cf-aa17-49aa-8dd7-24eb3992fad5",
+            "value": 719.53,
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "2534adf6-8a79-49b3-8eef-4cdb26502d8f",
+            "columnId": "b12e4e4e-8fe7-4d5e-b4e8-5714a0acc180",
+            "content": "",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "63e9a634-7aa9-4459-96b6-11ee51c87b8b",
+            "columnId": "f5829d6a-1e40-4811-afaf-6ab43ce97fd7",
+            "value": null,
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "7e3bae92-b689-4424-bc97-c47f874dbca6",
+            "columnId": "120e1d81-feae-4602-a8b6-86f9f9cee70b",
+            "content": "",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "cdbbf211-c234-48b9-aece-7f3bca579981",
+            "columnId": "8ece9bbe-6837-4b13-bfe9-49f258f79411",
+            "value": null,
+            "hasValidFrontmatter": null
+          }
+        ]
+      }
+    ],
+    "filters": [],
+    "sources": [],
+    "settings": {
+      "numFrozenColumns": 1,
+      "showCalculationRow": true
+    },
+    "externalRowOrder": []
+  },
+  "pluginVersion": "8.16.1"
+}

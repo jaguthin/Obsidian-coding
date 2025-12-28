@@ -1,5 +1,5 @@
   
-1. Build Milk Cartons and glue
+1. ~~Build Milk Cartons and glue~~
 2. Finish Cake Cabinet
 3. Flag Banner
 4. ~~Pg 7 - Book~~
