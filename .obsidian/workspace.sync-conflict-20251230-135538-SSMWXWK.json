@@ -1,0 +1,238 @@
+{
+  "main": {
+    "id": "c6ee70bb90b448c9",
+    "type": "split",
+    "children": [
+      {
+        "id": "73e408925b6fc068",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "33ee4327f6a46ecd",
+            "type": "leaf",
+            "state": {
+              "type": "dataloom",
+              "state": {
+                "file": "Personal/PTO comparison.loom"
+              },
+              "icon": "lucide-file",
+              "title": "PTO comparison"
+            }
+          },
+          {
+            "id": "f9e472bdeb30c64a",
+            "type": "leaf",
+            "state": {
+              "type": "dataloom",
+              "state": {
+                "file": "Configs/Looms/Jon Money.loom"
+              },
+              "icon": "lucide-file",
+              "title": "Jon Money"
+            }
+          },
+          {
+            "id": "a80877f84a8de27a",
+            "type": "leaf",
+            "state": {
+              "type": "dataloom",
+              "state": {
+                "file": "Configs/Looms/How much money is needed each month.loom"
+              },
+              "icon": "lucide-file",
+              "title": "How much money is needed each month"
+            }
+          },
+          {
+            "id": "13ff1d2f584c0931",
+            "type": "leaf",
+            "state": {
+              "type": "dataloom",
+              "state": {
+                "file": "Configs/Looms/Fiancial Spreadsheet.loom"
+              },
+              "icon": "lucide-file",
+              "title": "Fiancial Spreadsheet"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2b58bfbce2981ee7",
+    "type": "split",
+    "children": [
+      {
+        "id": "a0b5c6d686350dbc",
+        "type": "tabs",
+        "dimension": 75.3315649867374,
+        "children": [
+          {
+            "id": "156f5d302f985a1b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": true
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "52be9f2dad444795",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "6b074f0542da8c55",
+            "type": "leaf",
+            "state": {
+              "type": "VIEW_TYPE_LONGFORM_EXPLORER",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "VIEW_TYPE_LONGFORM_EXPLORER"
+            }
+          }
+        ]
+      },
+      {
+        "id": "4766fe3f4e63ade5",
+        "type": "tabs",
+        "dimension": 24.668435013262595,
+        "children": [
+          {
+            "id": "cec46ecbbb6eac46",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 262
+  },
+  "right": {
+    "id": "456d370bea752a5c",
+    "type": "split",
+    "children": [
+      {
+        "id": "f7b33a658ae40f39",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bb776a84b0ece9e8",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          }
+        ]
+      },
+      {
+        "id": "5cd2237920982eda",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "01a4b6a794d19ec6",
+            "type": "leaf",
+            "state": {
+              "type": "tenki",
+              "state": {},
+              "icon": "sun",
+              "title": "Tenki"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 317
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Create new base": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "workspaces:Manage workspace layouts": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "notion-like-tables:Create loom": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "github-sync:Sync with Remote": false,
+      "print:Print note": false,
+      "rpg-manager:RPG Manager": false,
+      "widgets:Add widget": false
+    }
+  },
+  "active": "a80877f84a8de27a",
+  "lastOpenFiles": [
+    "Configs/Looms/Fiancial Spreadsheet.loom",
+    "Journal/2025/12/Dec 21.md",
+    "Configs/Looms/How much money is needed each month.loom",
+    "Configs/Looms/Jon Money.loom",
+    "Configs/Looms/Linux Mint & Ubuntu.loom",
+    "Configs/Looms/R2-D2.loom",
+    "Configs/Looms/Untitled.loom",
+    "Configs/Looms/Untitled 1.loom",
+    "Lists/Gratitude ( Newest first ).md",
+    "Excalidraw/Drawing 2025-12-21 13.05.16.excalidraw.md",
+    "Personal/Computer Rebuild.md",
+    "Journal/2025/12/Dec 09.md",
+    "Excalidraw",
+    "Personal/Writing/Stories/Fools Gold.md",
+    "Personal/Writing/Stories/Untitled.base",
+    "Configs/Templates/Journal/Daily.md",
+    "Personal/PTO comparison.loom",
+    "Journal/2025/12/Dec 10.md",
+    "Journal/2025/12/Dec 08.md",
+    "Personal/Projects/Coffee House - Still to do.md",
+    "Personal/Learning/Godot/Key Bindings.md",
+    "Personal/Learning/Blender/Simple Blender Projects.md",
+    "Personal/Learning/Blender/Blender Course.md",
+    "Personal/Learning/Blender/Key Bindings 2.md",
+    "Personal/Learning/Blender/Key Binding 1.md",
+    "Journal/2025/12/Dec 07.md",
+    "Personal/Kickstart Stuff/Kickstart Stuff.md",
+    "Personal/Finance & Age Goals/For the kids.md",
+    "Journal/2025/12/Dec 06.md",
+    "Journal/2025/12/Dec 03.md",
+    "Journal/2025/12/Dec 02.md",
+    "Personal/Kickstart Stuff/Got it!.md",
+    "Untitled.md",
+    "Journal/2025/12/Dec 01.md",
+    "Journal/2025/11/Nov 30.md",
+    "Personal/Projects/Models to Build/More Info/Banshee.canvas",
+    "Personal/Projects/Models to Build/More Info/Calvin & Hobbes on sled.canvas",
+    "Personal/Projects/Models to Build/More Info/Frankenstein's Monster.canvas",
+    "Personal/Projects/Models to Build/More Info/Heavy Metal Ship.canvas",
+    "Personal/Projects/Models to Build/More Info/Santa the Hutt.canvas"
+  ]
+}

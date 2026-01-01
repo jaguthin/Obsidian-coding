@@ -1,0 +1,248 @@
+{
+  "model": {
+    "columns": [
+      {
+        "id": "301198e5-3227-42d1-9bf2-4bcaa0b20ad1",
+        "sortDir": "default",
+        "isVisible": true,
+        "width": "140px",
+        "type": "text",
+        "numberPrefix": "",
+        "numberSuffix": "",
+        "numberSeparator": "",
+        "content": "Name",
+        "numberFormat": "number",
+        "currencyType": "USD",
+        "dateFormat": "mmddyyyy",
+        "dateFormatSeparator": "-",
+        "hour12": true,
+        "includeTime": false,
+        "shouldWrapOverflow": true,
+        "tags": [],
+        "calculationType": "none",
+        "aspectRatio": "unset",
+        "horizontalPadding": "unset",
+        "verticalPadding": "unset",
+        "frontmatterKey": null,
+        "multiTagSortDir": "default"
+      },
+      {
+        "id": "d0016388-7c57-40ef-8457-62a255d16442",
+        "sortDir": "default",
+        "isVisible": true,
+        "width": "140px",
+        "type": "number",
+        "numberPrefix": "",
+        "numberSuffix": "",
+        "numberSeparator": "",
+        "content": "Amount owed",
+        "numberFormat": "number",
+        "currencyType": "USD",
+        "dateFormat": "mmddyyyy",
+        "dateFormatSeparator": "-",
+        "hour12": true,
+        "includeTime": false,
+        "shouldWrapOverflow": true,
+        "tags": [],
+        "calculationType": "sum",
+        "aspectRatio": "unset",
+        "horizontalPadding": "unset",
+        "verticalPadding": "unset",
+        "frontmatterKey": null,
+        "multiTagSortDir": "default"
+      },
+      {
+        "id": "f6723e78-2a3d-4715-8a0d-ab7cd7c3c8b5",
+        "sortDir": "default",
+        "isVisible": true,
+        "width": "140px",
+        "type": "text",
+        "numberPrefix": "",
+        "numberSuffix": "",
+        "numberSeparator": "",
+        "content": "Interest Rate",
+        "numberFormat": "number",
+        "currencyType": "USD",
+        "dateFormat": "mmddyyyy",
+        "dateFormatSeparator": "-",
+        "hour12": true,
+        "includeTime": false,
+        "shouldWrapOverflow": true,
+        "tags": [],
+        "calculationType": "none",
+        "aspectRatio": "unset",
+        "horizontalPadding": "unset",
+        "verticalPadding": "unset",
+        "frontmatterKey": null,
+        "multiTagSortDir": "default"
+      },
+      {
+        "id": "741185ab-2c56-47e5-8def-58b17996cd54",
+        "sortDir": "default",
+        "isVisible": true,
+        "width": "140px",
+        "type": "text",
+        "numberPrefix": "",
+        "numberSuffix": "",
+        "numberSeparator": "",
+        "content": "Pay Off Order",
+        "numberFormat": "number",
+        "currencyType": "USD",
+        "dateFormat": "mmddyyyy",
+        "dateFormatSeparator": "-",
+        "hour12": true,
+        "includeTime": false,
+        "shouldWrapOverflow": true,
+        "tags": [],
+        "calculationType": "none",
+        "aspectRatio": "unset",
+        "horizontalPadding": "unset",
+        "verticalPadding": "unset",
+        "frontmatterKey": null,
+        "multiTagSortDir": "default"
+      }
+    ],
+    "rows": [
+      {
+        "id": "71d7b7cb-091f-4165-b571-c4fa811da1f4",
+        "index": 0,
+        "sourceId": null,
+        "creationDateTime": "2025-10-06T21:20:08.979Z",
+        "lastEditedDateTime": "2025-10-18T20:40:22.991Z",
+        "cells": [
+          {
+            "id": "8d48285a-a7c2-4dd1-91fa-64e59f8b455e",
+            "columnId": "301198e5-3227-42d1-9bf2-4bcaa0b20ad1",
+            "content": "HELOC",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "7bfbba60-6db8-428e-a52f-45426e45bd7a",
+            "columnId": "d0016388-7c57-40ef-8457-62a255d16442",
+            "value": 84327.18,
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "2fa8838d-f2b9-42fa-9727-bce1245f0be0",
+            "columnId": "f6723e78-2a3d-4715-8a0d-ab7cd7c3c8b5",
+            "content": "9.15",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "5ad108b2-46db-4df4-8b49-9e60a7c77268",
+            "columnId": "741185ab-2c56-47e5-8def-58b17996cd54",
+            "content": "1",
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "be000903-a70a-4d1d-8825-b15adacb0202",
+        "index": 1,
+        "sourceId": null,
+        "creationDateTime": "2025-10-06T21:20:57.896Z",
+        "lastEditedDateTime": "2025-10-06T21:30:06.928Z",
+        "cells": [
+          {
+            "id": "3b49aeaa-cd1b-46be-a182-f4fbebaeb7d4",
+            "columnId": "301198e5-3227-42d1-9bf2-4bcaa0b20ad1",
+            "content": "Car Refinanced",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "d5187311-ccac-4631-b655-77cb0d2fe9e8",
+            "columnId": "d0016388-7c57-40ef-8457-62a255d16442",
+            "value": 14593.26,
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "2e13a94d-6808-489f-8d19-ddc36f5036d4",
+            "columnId": "f6723e78-2a3d-4715-8a0d-ab7cd7c3c8b5",
+            "content": "9.00",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "aa1b8f7c-28e2-4fac-9df5-c0949516da41",
+            "columnId": "741185ab-2c56-47e5-8def-58b17996cd54",
+            "content": "2",
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "395c2d55-a99a-4b23-a06d-dfea3cc500b3",
+        "index": 2,
+        "sourceId": null,
+        "creationDateTime": "2025-10-06T21:27:50.598Z",
+        "lastEditedDateTime": "2025-10-06T21:30:08.850Z",
+        "cells": [
+          {
+            "id": "d7cedce8-b87b-400b-b0a7-9ea4fc695bb7",
+            "columnId": "301198e5-3227-42d1-9bf2-4bcaa0b20ad1",
+            "content": "401K Loan",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "1f859963-2fe8-47fc-a257-707dd687894b",
+            "columnId": "d0016388-7c57-40ef-8457-62a255d16442",
+            "value": 5834.06,
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "8d6fe1ce-8f30-4ec0-8864-e6202a27c39e",
+            "columnId": "f6723e78-2a3d-4715-8a0d-ab7cd7c3c8b5",
+            "content": "7.5",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "636227ef-96f9-43d7-9b77-13ce9834464d",
+            "columnId": "741185ab-2c56-47e5-8def-58b17996cd54",
+            "content": "3",
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "5a533a29-d16f-4a97-b575-7f3642d7f08e",
+        "index": 3,
+        "sourceId": null,
+        "creationDateTime": "2025-10-18T20:39:17.205Z",
+        "lastEditedDateTime": "2025-10-18T20:39:54.337Z",
+        "cells": [
+          {
+            "id": "cd46acf3-3320-4f0f-92f5-edd51739336f",
+            "columnId": "301198e5-3227-42d1-9bf2-4bcaa0b20ad1",
+            "content": "SFC - HVAC",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "48c5ee7e-9b42-42d6-a422-3ef9b86406a2",
+            "columnId": "d0016388-7c57-40ef-8457-62a255d16442",
+            "value": 14250,
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "318dea90-d84d-417d-accb-f31a68c9949d",
+            "columnId": "f6723e78-2a3d-4715-8a0d-ab7cd7c3c8b5",
+            "content": "0",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "e1c8b4bd-c68a-40c0-95d0-2c92fb2583bd",
+            "columnId": "741185ab-2c56-47e5-8def-58b17996cd54",
+            "content": "4",
+            "hasValidFrontmatter": null
+          }
+        ]
+      }
+    ],
+    "filters": [],
+    "sources": [],
+    "settings": {
+      "numFrozenColumns": 1,
+      "showCalculationRow": true
+    },
+    "externalRowOrder": []
+  },
+  "pluginVersion": "8.16.1"
+}
