@@ -1,0 +1,380 @@
+{
+  "model": {
+    "columns": [
+      {
+        "id": "f239d45f-f371-4f75-ae91-c57c12246705",
+        "sortDir": "default",
+        "isVisible": true,
+        "width": "140px",
+        "type": "text",
+        "numberPrefix": "",
+        "numberSuffix": "",
+        "numberSeparator": "",
+        "content": "WTF - Item",
+        "numberFormat": "number",
+        "currencyType": "USD",
+        "dateFormat": "mmddyyyy",
+        "dateFormatSeparator": "-",
+        "hour12": true,
+        "includeTime": false,
+        "shouldWrapOverflow": true,
+        "tags": [],
+        "calculationType": "none",
+        "aspectRatio": "unset",
+        "horizontalPadding": "unset",
+        "verticalPadding": "unset",
+        "frontmatterKey": null,
+        "multiTagSortDir": "default"
+      },
+      {
+        "id": "0022f232-c970-484a-9b25-13ca5bbe470c",
+        "sortDir": "default",
+        "isVisible": true,
+        "width": "140px",
+        "type": "number",
+        "numberPrefix": "",
+        "numberSuffix": "",
+        "numberSeparator": "",
+        "content": "Amount",
+        "numberFormat": "number",
+        "currencyType": "USD",
+        "dateFormat": "mmddyyyy",
+        "dateFormatSeparator": "-",
+        "hour12": true,
+        "includeTime": false,
+        "shouldWrapOverflow": true,
+        "tags": [],
+        "calculationType": "sum",
+        "aspectRatio": "unset",
+        "horizontalPadding": "unset",
+        "verticalPadding": "unset",
+        "frontmatterKey": null,
+        "multiTagSortDir": "default"
+      },
+      {
+        "id": "b94c11e7-ceba-43ea-91b4-98e48cb12535",
+        "sortDir": "default",
+        "isVisible": true,
+        "width": "140px",
+        "type": "text",
+        "numberPrefix": "",
+        "numberSuffix": "",
+        "numberSeparator": "",
+        "content": "Misc",
+        "numberFormat": "number",
+        "currencyType": "USD",
+        "dateFormat": "mmddyyyy",
+        "dateFormatSeparator": "-",
+        "hour12": true,
+        "includeTime": false,
+        "shouldWrapOverflow": true,
+        "tags": [],
+        "calculationType": "none",
+        "aspectRatio": "unset",
+        "horizontalPadding": "unset",
+        "verticalPadding": "unset",
+        "frontmatterKey": null,
+        "multiTagSortDir": "default"
+      },
+      {
+        "id": "e219c2c4-0936-4601-a266-5db0ee03b8c8",
+        "sortDir": "default",
+        "isVisible": true,
+        "width": "140px",
+        "type": "number",
+        "numberPrefix": "",
+        "numberSuffix": "",
+        "numberSeparator": "",
+        "content": "Amount",
+        "numberFormat": "number",
+        "currencyType": "USD",
+        "dateFormat": "mmddyyyy",
+        "dateFormatSeparator": "-",
+        "hour12": true,
+        "includeTime": false,
+        "shouldWrapOverflow": true,
+        "tags": [],
+        "calculationType": "sum",
+        "aspectRatio": "unset",
+        "horizontalPadding": "unset",
+        "verticalPadding": "unset",
+        "frontmatterKey": null,
+        "multiTagSortDir": "default"
+      }
+    ],
+    "rows": [
+      {
+        "id": "f65d7e3f-2289-4c8d-911d-faf6845f798d",
+        "index": 0,
+        "sourceId": null,
+        "creationDateTime": "2026-01-06T00:31:43.445Z",
+        "lastEditedDateTime": "2026-01-08T13:07:57.508Z",
+        "cells": [
+          {
+            "id": "086d128d-6ea7-4798-9ca1-36993bcdde89",
+            "columnId": "f239d45f-f371-4f75-ae91-c57c12246705",
+            "content": "Oil",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "d92d1936-e416-4cd6-aa16-c22343130c4d",
+            "columnId": "0022f232-c970-484a-9b25-13ca5bbe470c",
+            "value": 780.26,
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "b4f50e7b-1d39-4756-b55d-204f71b25b63",
+            "columnId": "b94c11e7-ceba-43ea-91b4-98e48cb12535",
+            "content": "Snow blower stuff",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "3770f0f6-5ee3-468d-b9df-12d2321946cb",
+            "columnId": "e219c2c4-0936-4601-a266-5db0ee03b8c8",
+            "value": 16.49,
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "0368bba0-c502-400c-90c9-6d9c9c17d2e7",
+        "index": 1,
+        "sourceId": null,
+        "creationDateTime": "2026-01-06T00:48:58.193Z",
+        "lastEditedDateTime": "2026-01-06T00:49:13.365Z",
+        "cells": [
+          {
+            "id": "b8ff5e5e-2c67-45c1-90b1-f7aa0c9ab6e1",
+            "columnId": "f239d45f-f371-4f75-ae91-c57c12246705",
+            "content": "",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "d289e36e-d5c0-4340-8e13-a93a57dac94c",
+            "columnId": "0022f232-c970-484a-9b25-13ca5bbe470c",
+            "value": null,
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "b13e09af-88ee-4699-81ea-eb6e26852ca6",
+            "columnId": "b94c11e7-ceba-43ea-91b4-98e48cb12535",
+            "content": "Spark plug, Baster, etc",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "2c70441b-ddbd-487b-ae73-f83d0f9c7376",
+            "columnId": "e219c2c4-0936-4601-a266-5db0ee03b8c8",
+            "value": 31.17,
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "615f69db-b897-4d59-a10f-18c05c10667c",
+        "index": 2,
+        "sourceId": null,
+        "creationDateTime": "2026-01-06T00:49:44.448Z",
+        "lastEditedDateTime": "2026-01-06T00:50:18.584Z",
+        "cells": [
+          {
+            "id": "0e2d53c5-1bbc-477e-8137-c2b42a0893fb",
+            "columnId": "f239d45f-f371-4f75-ae91-c57c12246705",
+            "content": "",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "2ce03776-9f2a-4730-88f6-873b94b415d0",
+            "columnId": "0022f232-c970-484a-9b25-13ca5bbe470c",
+            "value": null,
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "dde5a52f-4cd5-4de8-b8c8-fc5720e5a1b8",
+            "columnId": "b94c11e7-ceba-43ea-91b4-98e48cb12535",
+            "content": "Walmart - Gas  Cans and sharpie.",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "85e57b25-1691-42ac-93a9-a365eb992d39",
+            "columnId": "e219c2c4-0936-4601-a266-5db0ee03b8c8",
+            "value": 29.93,
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "3211a780-cad3-4fa5-ac55-fe70670b83c9",
+        "index": 3,
+        "sourceId": null,
+        "creationDateTime": "2026-01-06T12:56:28.538Z",
+        "lastEditedDateTime": "2026-01-06T12:56:48.580Z",
+        "cells": [
+          {
+            "id": "fd88a1f8-d11c-4416-8dba-2514601d3106",
+            "columnId": "f239d45f-f371-4f75-ae91-c57c12246705",
+            "content": "",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "b5902095-036f-4455-bd58-cfe94ab55b39",
+            "columnId": "0022f232-c970-484a-9b25-13ca5bbe470c",
+            "value": null,
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "98992c69-001b-4b65-82e6-b117825f0c0d",
+            "columnId": "b94c11e7-ceba-43ea-91b4-98e48cb12535",
+            "content": "Amazon - Bed Tent",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "91085778-ece3-4299-ab01-7a59d703f712",
+            "columnId": "e219c2c4-0936-4601-a266-5db0ee03b8c8",
+            "value": 75.99,
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "76982ecd-e199-4474-aa5e-14850206028e",
+        "index": 4,
+        "sourceId": null,
+        "creationDateTime": "2026-01-09T12:24:13.346Z",
+        "lastEditedDateTime": "2026-01-09T12:24:25.995Z",
+        "cells": [
+          {
+            "id": "87d7fdef-f19b-458b-82c1-110eeebc65e0",
+            "columnId": "f239d45f-f371-4f75-ae91-c57c12246705",
+            "content": "",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "3cdd197a-8650-4d82-a6a4-6bc0c7c8e235",
+            "columnId": "0022f232-c970-484a-9b25-13ca5bbe470c",
+            "value": null,
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "7e07bb66-ca36-4902-a387-0ec664d634fd",
+            "columnId": "b94c11e7-ceba-43ea-91b4-98e48cb12535",
+            "content": "Bedding",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "45f22570-875d-41b4-8c06-0638efb51f19",
+            "columnId": "e219c2c4-0936-4601-a266-5db0ee03b8c8",
+            "value": 68.4,
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "e4a29a5c-51dd-43de-b86e-ec390b405707",
+        "index": 5,
+        "sourceId": null,
+        "creationDateTime": "2026-01-09T12:24:44.747Z",
+        "lastEditedDateTime": "2026-01-09T12:24:55.939Z",
+        "cells": [
+          {
+            "id": "aa759197-5c2a-44fa-a699-1c3b88f169b2",
+            "columnId": "f239d45f-f371-4f75-ae91-c57c12246705",
+            "content": "",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "7f8d0b9d-620a-4af0-82ac-ed21b4d2b6a6",
+            "columnId": "0022f232-c970-484a-9b25-13ca5bbe470c",
+            "value": null,
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "714b4149-cf56-4cdd-af8d-cea3116e1e7d",
+            "columnId": "b94c11e7-ceba-43ea-91b4-98e48cb12535",
+            "content": "Printer",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "ded5d8b0-fb73-478c-92be-a9707efa0191",
+            "columnId": "e219c2c4-0936-4601-a266-5db0ee03b8c8",
+            "value": 179,
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "ac1cf76f-b755-4b08-82a1-db41bd856c2b",
+        "index": 6,
+        "sourceId": null,
+        "creationDateTime": "2026-01-09T12:25:13.866Z",
+        "lastEditedDateTime": "2026-01-09T12:25:28.741Z",
+        "cells": [
+          {
+            "id": "2ecb73e1-3985-44bb-987c-28df12907947",
+            "columnId": "f239d45f-f371-4f75-ae91-c57c12246705",
+            "content": "",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "082f527c-ec45-41b9-ab01-173068f77795",
+            "columnId": "0022f232-c970-484a-9b25-13ca5bbe470c",
+            "value": null,
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "5eabaee4-7e6a-4f4a-9bdb-2acf22df09ce",
+            "columnId": "b94c11e7-ceba-43ea-91b4-98e48cb12535",
+            "content": "Curtains and Bedding",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "adc44f9f-643b-4551-b561-d5127af93656",
+            "columnId": "e219c2c4-0936-4601-a266-5db0ee03b8c8",
+            "value": 144.88,
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "d2ab08d4-021c-4ad0-8d0b-a98327a5cd52",
+        "index": 7,
+        "sourceId": null,
+        "creationDateTime": "2026-01-16T12:06:40.974Z",
+        "lastEditedDateTime": "2026-01-16T12:07:03.143Z",
+        "cells": [
+          {
+            "id": "5d9290fd-4464-4e16-90f1-bf103c8f0a72",
+            "columnId": "f239d45f-f371-4f75-ae91-c57c12246705",
+            "content": "",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "40927304-f933-482a-8cb8-8b4ec0744f2b",
+            "columnId": "0022f232-c970-484a-9b25-13ca5bbe470c",
+            "value": null,
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "470b409b-8b4b-4c4f-9548-dbbc0732d1a0",
+            "columnId": "b94c11e7-ceba-43ea-91b4-98e48cb12535",
+            "content": "Faux Stone ",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "ea2e2f3f-e64f-41df-85a7-4582e4b687cb",
+            "columnId": "e219c2c4-0936-4601-a266-5db0ee03b8c8",
+            "value": 115.98,
+            "hasValidFrontmatter": null
+          }
+        ]
+      }
+    ],
+    "filters": [],
+    "sources": [],
+    "settings": {
+      "numFrozenColumns": 1,
+      "showCalculationRow": true
+    },
+    "externalRowOrder": []
+  },
+  "pluginVersion": "8.16.1"
+}

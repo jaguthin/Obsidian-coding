@@ -2135,7 +2135,7 @@
         "index": 76,
         "sourceId": null,
         "creationDateTime": "2025-11-09T14:04:09.790Z",
-        "lastEditedDateTime": "2025-11-09T14:04:51.136Z",
+        "lastEditedDateTime": "2026-01-04T21:34:56.321Z",
         "cells": [
           {
             "id": "d29cd591-1470-46db-b062-aa506bbfffda",
@@ -2146,13 +2146,13 @@
           {
             "id": "48a3f54c-8c35-4f54-a1f7-a8a49e81da10",
             "columnId": "ec1fc0c8-c341-49a4-a5a7-da1ec790946f",
-            "value": false,
+            "value": true,
             "hasValidFrontmatter": null
           },
           {
             "id": "91e658bb-e2de-478e-9731-d25e3367e8d6",
             "columnId": "163e543a-0dc7-4b47-9678-dae19e3d6448",
-            "dateTime": null,
+            "dateTime": "2026-01-04T21:34:55.351Z",
             "hasValidFrontmatter": null
           }
         ]
@@ -2162,7 +2162,7 @@
         "index": 77,
         "sourceId": null,
         "creationDateTime": "2025-11-09T14:04:10.478Z",
-        "lastEditedDateTime": "2025-11-09T14:04:54.005Z",
+        "lastEditedDateTime": "2026-01-04T21:34:38.342Z",
         "cells": [
           {
             "id": "2a61a1a8-67e4-4575-8aaf-3af1062e5a71",
@@ -2173,13 +2173,13 @@
           {
             "id": "b4ed5499-7cbb-4963-9a42-34f9aa209b65",
             "columnId": "ec1fc0c8-c341-49a4-a5a7-da1ec790946f",
-            "value": false,
+            "value": true,
             "hasValidFrontmatter": null
           },
           {
             "id": "5ed60306-e429-426b-a8db-cef91d048769",
             "columnId": "163e543a-0dc7-4b47-9678-dae19e3d6448",
-            "dateTime": null,
+            "dateTime": "2026-01-04T21:34:37.092Z",
             "hasValidFrontmatter": null
           }
         ]
@@ -2189,7 +2189,7 @@
         "index": 78,
         "sourceId": null,
         "creationDateTime": "2025-11-09T14:04:11.200Z",
-        "lastEditedDateTime": "2025-11-09T14:04:57.755Z",
+        "lastEditedDateTime": "2026-01-04T21:34:47.649Z",
         "cells": [
           {
             "id": "235d967d-6e52-4b15-81a1-26dfea61fede",
@@ -2200,13 +2200,13 @@
           {
             "id": "6bd4de89-ee5e-437c-a131-e614c37135fe",
             "columnId": "ec1fc0c8-c341-49a4-a5a7-da1ec790946f",
-            "value": false,
+            "value": true,
             "hasValidFrontmatter": null
           },
           {
             "id": "72bb9375-207d-48ee-b290-fa5b4e0d1119",
             "columnId": "163e543a-0dc7-4b47-9678-dae19e3d6448",
-            "dateTime": null,
+            "dateTime": "2026-01-04T21:34:46.710Z",
             "hasValidFrontmatter": null
           }
         ]
@@ -2216,7 +2216,7 @@
         "index": 79,
         "sourceId": null,
         "creationDateTime": "2025-11-09T14:04:12.026Z",
-        "lastEditedDateTime": "2025-11-09T14:05:00.633Z",
+        "lastEditedDateTime": "2026-01-04T21:34:30.248Z",
         "cells": [
           {
             "id": "42fb2479-a34b-4a35-b44d-2654110be06b",
@@ -2227,13 +2227,13 @@
           {
             "id": "8a19d2e4-d32f-40c7-a55c-6d755a4ab5ad",
             "columnId": "ec1fc0c8-c341-49a4-a5a7-da1ec790946f",
-            "value": false,
+            "value": true,
             "hasValidFrontmatter": null
           },
           {
             "id": "d4c4249b-2d08-4c76-b147-e519c6107be8",
             "columnId": "163e543a-0dc7-4b47-9678-dae19e3d6448",
-            "dateTime": null,
+            "dateTime": "2026-01-04T21:34:27.236Z",
             "hasValidFrontmatter": null
           }
         ]
@@ -2243,7 +2243,7 @@
         "index": 80,
         "sourceId": null,
         "creationDateTime": "2025-11-09T14:04:12.738Z",
-        "lastEditedDateTime": "2025-11-09T14:05:04.093Z",
+        "lastEditedDateTime": "2026-01-04T21:35:08.287Z",
         "cells": [
           {
             "id": "b7fd2778-d10b-46e0-9c8a-203fdd790f77",
@@ -2254,13 +2254,13 @@
           {
             "id": "087042d9-da06-4980-91af-33947e2e160d",
             "columnId": "ec1fc0c8-c341-49a4-a5a7-da1ec790946f",
-            "value": false,
+            "value": true,
             "hasValidFrontmatter": null
           },
           {
             "id": "3f0f6caa-9267-4ecc-83e8-13ea33fce7f9",
             "columnId": "163e543a-0dc7-4b47-9678-dae19e3d6448",
-            "dateTime": null,
+            "dateTime": "2026-01-04T21:35:05.605Z",
             "hasValidFrontmatter": null
           }
         ]

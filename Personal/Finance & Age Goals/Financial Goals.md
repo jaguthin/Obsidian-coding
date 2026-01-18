@@ -1,4 +1,4 @@
-- [ ] Pay off Maxima
+- [x] Pay off Maxima ✅ 2026-01-17
 - [ ] Pay off Heloc
 - [ ] 401K to 250K
 - [ ] Freedom fund to 100K

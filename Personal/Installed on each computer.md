@@ -1,0 +1,28 @@
+
+---
+
+- Mail spring
+- Lutris
+- Obisidian
+- VSCodium
+	- Bash Extensions
+	- Python Extensions
+	- Go Extensions
+	- Ansible Extensions
+	- Bitwarden Secrets Explorer
+	- Database Client
+	- Code Runner
+- Go
+- Floor and/or Vivaldi
+- Blender
+- Moneyspire
+- Dungeon Draft
+- Wonder Draft ( When Bought )
+- Discord
+- Mutt
+- Remmina
+- Teams 
+- Telegram
+- Whatsie
+- gping
+- nala

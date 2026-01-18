@@ -2,15 +2,15 @@
   "model": {
     "columns": [
       {
-        "id": "301198e5-3227-42d1-9bf2-4bcaa0b20ad1",
+        "id": "72715f07-c943-42af-9e87-7030efbd3a96",
         "sortDir": "default",
         "isVisible": true,
-        "width": "140px",
+        "width": "783px",
         "type": "text",
         "numberPrefix": "",
         "numberSuffix": "",
         "numberSeparator": "",
-        "content": "Name",
+        "content": "Quote",
         "numberFormat": "number",
         "currencyType": "USD",
         "dateFormat": "mmddyyyy",
@@ -27,15 +27,15 @@
         "multiTagSortDir": "default"
       },
       {
-        "id": "d0016388-7c57-40ef-8457-62a255d16442",
+        "id": "f11dc68f-16f4-4e82-866c-dd364e267fe0",
         "sortDir": "default",
         "isVisible": true,
         "width": "140px",
-        "type": "number",
+        "type": "multi-tag",
         "numberPrefix": "",
         "numberSuffix": "",
         "numberSeparator": "",
-        "content": "Amount owed",
+        "content": "Author",
         "numberFormat": "number",
         "currencyType": "USD",
         "dateFormat": "mmddyyyy",
@@ -43,82 +43,18 @@
         "hour12": true,
         "includeTime": false,
         "shouldWrapOverflow": true,
-        "tags": [],
-        "calculationType": "sum",
-        "aspectRatio": "unset",
-        "horizontalPadding": "unset",
-        "verticalPadding": "unset",
-        "frontmatterKey": null,
-        "multiTagSortDir": "default"
-      },
-      {
-        "id": "f6723e78-2a3d-4715-8a0d-ab7cd7c3c8b5",
-        "sortDir": "default",
-        "isVisible": true,
-        "width": "140px",
-        "type": "text",
-        "numberPrefix": "",
-        "numberSuffix": "",
-        "numberSeparator": "",
-        "content": "Interest Rate",
-        "numberFormat": "number",
-        "currencyType": "USD",
-        "dateFormat": "mmddyyyy",
-        "dateFormatSeparator": "-",
-        "hour12": true,
-        "includeTime": false,
-        "shouldWrapOverflow": true,
-        "tags": [],
-        "calculationType": "none",
-        "aspectRatio": "unset",
-        "horizontalPadding": "unset",
-        "verticalPadding": "unset",
-        "frontmatterKey": null,
-        "multiTagSortDir": "default"
-      },
-      {
-        "id": "741185ab-2c56-47e5-8def-58b17996cd54",
-        "sortDir": "default",
-        "isVisible": true,
-        "width": "140px",
-        "type": "text",
-        "numberPrefix": "",
-        "numberSuffix": "",
-        "numberSeparator": "",
-        "content": "Pay Off Order",
-        "numberFormat": "number",
-        "currencyType": "USD",
-        "dateFormat": "mmddyyyy",
-        "dateFormatSeparator": "-",
-        "hour12": true,
-        "includeTime": false,
-        "shouldWrapOverflow": true,
-        "tags": [],
-        "calculationType": "none",
-        "aspectRatio": "unset",
-        "horizontalPadding": "unset",
-        "verticalPadding": "unset",
-        "frontmatterKey": null,
-        "multiTagSortDir": "default"
-      },
-      {
-        "id": "a0ab0465-0a20-468e-90f8-1d1f610deb0c",
-        "sortDir": "default",
-        "isVisible": true,
-        "width": "140px",
-        "type": "checkbox",
-        "numberPrefix": "",
-        "numberSuffix": "",
-        "numberSeparator": "",
-        "content": "Done? ",
-        "numberFormat": "number",
-        "currencyType": "USD",
-        "dateFormat": "mmddyyyy",
-        "dateFormatSeparator": "-",
-        "hour12": true,
-        "includeTime": false,
-        "shouldWrapOverflow": true,
-        "tags": [],
+        "tags": [
+          {
+            "id": "585bf8b9-d4f5-4b37-9df8-83004e1fce3f",
+            "content": "Maggie Kuhn",
+            "color": "orange"
+          },
+          {
+            "id": "8626153d-d928-448a-8132-b99564295706",
+            "content": "Mark Twain",
+            "color": "green"
+          }
+        ],
         "calculationType": "none",
         "aspectRatio": "unset",
         "horizontalPadding": "unset",
@@ -129,163 +65,89 @@
     ],
     "rows": [
       {
-        "id": "71d7b7cb-091f-4165-b571-c4fa811da1f4",
+        "id": "17f19c45-dbfa-436e-854e-f2834f759bd6",
         "index": 0,
         "sourceId": null,
-        "creationDateTime": "2025-10-06T21:20:08.979Z",
-        "lastEditedDateTime": "2025-12-24T18:41:51.478Z",
+        "creationDateTime": "2026-01-03T19:20:51.617Z",
+        "lastEditedDateTime": "2026-01-03T19:22:14.869Z",
         "cells": [
           {
-            "id": "8d48285a-a7c2-4dd1-91fa-64e59f8b455e",
-            "columnId": "301198e5-3227-42d1-9bf2-4bcaa0b20ad1",
-            "content": "HELOC",
+            "id": "3c2814ae-4ea2-442d-a488-ae5a11b930aa",
+            "columnId": "72715f07-c943-42af-9e87-7030efbd3a96",
+            "content": "Speak your mind, even if your voice shakes.",
             "hasValidFrontmatter": null
           },
           {
-            "id": "7bfbba60-6db8-428e-a52f-45426e45bd7a",
-            "columnId": "d0016388-7c57-40ef-8457-62a255d16442",
-            "value": 84327.18,
-            "hasValidFrontmatter": null
-          },
-          {
-            "id": "2fa8838d-f2b9-42fa-9727-bce1245f0be0",
-            "columnId": "f6723e78-2a3d-4715-8a0d-ab7cd7c3c8b5",
-            "content": "9.15",
-            "hasValidFrontmatter": null
-          },
-          {
-            "id": "5ad108b2-46db-4df4-8b49-9e60a7c77268",
-            "columnId": "741185ab-2c56-47e5-8def-58b17996cd54",
-            "content": "1",
-            "hasValidFrontmatter": null
-          },
-          {
-            "id": "4de5afca-0c05-4603-a5c8-db74a26558db",
-            "columnId": "a0ab0465-0a20-468e-90f8-1d1f610deb0c",
-            "value": true,
-            "hasValidFrontmatter": null
+            "id": "c7c5f3a2-06ca-4a57-92b6-429571569bda",
+            "columnId": "f11dc68f-16f4-4e82-866c-dd364e267fe0",
+            "tagIds": [
+              "585bf8b9-d4f5-4b37-9df8-83004e1fce3f"
+            ],
+            "hasValidFrontmatter": null,
+            "multiTagSortDir": "default"
           }
         ]
       },
       {
-        "id": "be000903-a70a-4d1d-8825-b15adacb0202",
+        "id": "a52a7487-adc4-4687-b75a-802b9de52cfb",
         "index": 1,
         "sourceId": null,
-        "creationDateTime": "2025-10-06T21:20:57.896Z",
-        "lastEditedDateTime": "2025-12-24T18:41:53.054Z",
+        "creationDateTime": "2026-01-03T19:22:28.530Z",
+        "lastEditedDateTime": "2026-01-03T19:24:26.250Z",
         "cells": [
           {
-            "id": "3b49aeaa-cd1b-46be-a182-f4fbebaeb7d4",
-            "columnId": "301198e5-3227-42d1-9bf2-4bcaa0b20ad1",
-            "content": "Car Refinanced",
+            "id": "8f3e2b38-6014-4a97-b1e2-0dbebd0ce4d3",
+            "columnId": "72715f07-c943-42af-9e87-7030efbd3a96",
+            "content": "Whenever you find yourself on the side of the majority, it is time to pause and reflect.",
             "hasValidFrontmatter": null
           },
           {
-            "id": "d5187311-ccac-4631-b655-77cb0d2fe9e8",
-            "columnId": "d0016388-7c57-40ef-8457-62a255d16442",
-            "value": 14593.26,
-            "hasValidFrontmatter": null
-          },
-          {
-            "id": "2e13a94d-6808-489f-8d19-ddc36f5036d4",
-            "columnId": "f6723e78-2a3d-4715-8a0d-ab7cd7c3c8b5",
-            "content": "9.00",
-            "hasValidFrontmatter": null
-          },
-          {
-            "id": "aa1b8f7c-28e2-4fac-9df5-c0949516da41",
-            "columnId": "741185ab-2c56-47e5-8def-58b17996cd54",
-            "content": "2",
-            "hasValidFrontmatter": null
-          },
-          {
-            "id": "5803e2ba-8833-4905-88c8-e2fbb5aa1487",
-            "columnId": "a0ab0465-0a20-468e-90f8-1d1f610deb0c",
-            "value": true,
-            "hasValidFrontmatter": null
+            "id": "dd78be68-5467-4f13-8883-df7806c78dde",
+            "columnId": "f11dc68f-16f4-4e82-866c-dd364e267fe0",
+            "tagIds": [
+              "8626153d-d928-448a-8132-b99564295706"
+            ],
+            "hasValidFrontmatter": null,
+            "multiTagSortDir": "default"
           }
         ]
       },
       {
-        "id": "395c2d55-a99a-4b23-a06d-dfea3cc500b3",
+        "id": "fa0fc075-c38c-43f9-b95c-211bf943f5f8",
         "index": 2,
         "sourceId": null,
-        "creationDateTime": "2025-10-06T21:27:50.598Z",
-        "lastEditedDateTime": "2025-12-24T18:41:53.766Z",
+        "creationDateTime": "2026-01-03T19:24:46.195Z",
+        "lastEditedDateTime": "2026-01-03T19:25:00.673Z",
         "cells": [
           {
-            "id": "d7cedce8-b87b-400b-b0a7-9ea4fc695bb7",
-            "columnId": "301198e5-3227-42d1-9bf2-4bcaa0b20ad1",
-            "content": "401K Loan",
+            "id": "7dd7cd38-6026-47a6-a5a7-657c8386f3ee",
+            "columnId": "72715f07-c943-42af-9e87-7030efbd3a96",
+            "content": "Forgiveness is the fragrance that the violet sheds on the heel that has crushed it.\n",
             "hasValidFrontmatter": null
           },
           {
-            "id": "1f859963-2fe8-47fc-a257-707dd687894b",
-            "columnId": "d0016388-7c57-40ef-8457-62a255d16442",
-            "value": 5834.06,
-            "hasValidFrontmatter": null
-          },
-          {
-            "id": "8d6fe1ce-8f30-4ec0-8864-e6202a27c39e",
-            "columnId": "f6723e78-2a3d-4715-8a0d-ab7cd7c3c8b5",
-            "content": "7.5",
-            "hasValidFrontmatter": null
-          },
-          {
-            "id": "636227ef-96f9-43d7-9b77-13ce9834464d",
-            "columnId": "741185ab-2c56-47e5-8def-58b17996cd54",
-            "content": "3",
-            "hasValidFrontmatter": null
-          },
-          {
-            "id": "35ea646b-ece4-46bf-b30d-d7af405b1166",
-            "columnId": "a0ab0465-0a20-468e-90f8-1d1f610deb0c",
-            "value": true,
-            "hasValidFrontmatter": null
-          }
-        ]
-      },
-      {
-        "id": "5a533a29-d16f-4a97-b575-7f3642d7f08e",
-        "index": 3,
-        "sourceId": null,
-        "creationDateTime": "2025-10-18T20:39:17.205Z",
-        "lastEditedDateTime": "2025-10-18T20:39:54.337Z",
-        "cells": [
-          {
-            "id": "cd46acf3-3320-4f0f-92f5-edd51739336f",
-            "columnId": "301198e5-3227-42d1-9bf2-4bcaa0b20ad1",
-            "content": "SFC - HVAC",
-            "hasValidFrontmatter": null
-          },
-          {
-            "id": "48c5ee7e-9b42-42d6-a422-3ef9b86406a2",
-            "columnId": "d0016388-7c57-40ef-8457-62a255d16442",
-            "value": 14250,
-            "hasValidFrontmatter": null
-          },
-          {
-            "id": "318dea90-d84d-417d-accb-f31a68c9949d",
-            "columnId": "f6723e78-2a3d-4715-8a0d-ab7cd7c3c8b5",
-            "content": "0",
-            "hasValidFrontmatter": null
-          },
-          {
-            "id": "e1c8b4bd-c68a-40c0-95d0-2c92fb2583bd",
-            "columnId": "741185ab-2c56-47e5-8def-58b17996cd54",
-            "content": "4",
-            "hasValidFrontmatter": null
-          },
-          {
-            "id": "2778aa11-e89d-44f5-8bb9-59f9412a51e7",
-            "columnId": "a0ab0465-0a20-468e-90f8-1d1f610deb0c",
-            "value": false,
-            "hasValidFrontmatter": null
+            "id": "0e0989fc-bde7-48ea-a8c0-d3879c7b9c83",
+            "columnId": "f11dc68f-16f4-4e82-866c-dd364e267fe0",
+            "tagIds": [
+              "8626153d-d928-448a-8132-b99564295706"
+            ],
+            "hasValidFrontmatter": null,
+            "multiTagSortDir": "default"
           }
         ]
       }
     ],
-    "filters": [],
+    "filters": [
+      {
+        "id": "73ba4577-d44b-4573-87bb-4e460a83fcba",
+        "columnId": "f11dc68f-16f4-4e82-866c-dd364e267fe0",
+        "operator": "or",
+        "isEnabled": true,
+        "type": "multi-tag",
+        "condition": "contains",
+        "tagIds": []
+      }
+    ],
     "sources": [],
     "settings": {
       "numFrozenColumns": 1,
