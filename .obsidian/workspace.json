@@ -39,12 +39,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Personal/Finance & Age Goals/Financial Goals.md",
+                "file": "Personal/Bug out car needs.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Financial Goals"
+              "title": "Bug out car needs"
             }
           },
           {
@@ -328,6 +328,8 @@
   },
   "active": "eb32de380f7dbd20",
   "lastOpenFiles": [
+    "Personal/Finance & Age Goals/Financial Goals.md",
+    "Personal/Bug out car needs.md",
     "Configs/Looms/R2-D2.loom",
     "Journal/2026/01/Jan 23.md",
     "Configs/Looms/What I owe to myself.loom",
@@ -344,7 +346,6 @@
     "Personal/To Save Money.md",
     "Personal/Technical stuff to try.md",
     "Journal/2026/01/Jan 18.md",
-    "Personal/Finance & Age Goals/Financial Goals.md",
     "Personal/Kickstart Stuff/Kickstart Stuff.md",
     "Personal/Education Path.md",
     "Personal/Jon Money.md",

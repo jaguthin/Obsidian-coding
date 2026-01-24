@@ -1,0 +1,24 @@
+
+- Car tent
+- Car setup with drawers and sleep platform
+- Camping stove
+- Refrigerator/freezer
+- Bedding - Pillows, sleep bags, blankets. 
+- Food
+- Cooking utensils
+- Cooking pots, etc
+- Plates, cups, bowls, etc. 
+- First aid kit
+- Flashlight
+- Headlamps
+- clothes
+- Car top container
+- Hitch
+- Toiletries. - Comb, toothpaste, soap, shampoo, toilet paper, paper towels
+- Windows covers
+- Meds
+- Chairs
+- Chargers for all electronics
+- lap desk
+- Bugspray 
+- Sunscreen
