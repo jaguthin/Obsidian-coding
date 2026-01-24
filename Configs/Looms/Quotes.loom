@@ -1,0 +1,159 @@
+{
+  "model": {
+    "columns": [
+      {
+        "id": "72715f07-c943-42af-9e87-7030efbd3a96",
+        "sortDir": "default",
+        "isVisible": true,
+        "width": "783px",
+        "type": "text",
+        "numberPrefix": "",
+        "numberSuffix": "",
+        "numberSeparator": "",
+        "content": "Quote",
+        "numberFormat": "number",
+        "currencyType": "USD",
+        "dateFormat": "mmddyyyy",
+        "dateFormatSeparator": "-",
+        "hour12": true,
+        "includeTime": false,
+        "shouldWrapOverflow": true,
+        "tags": [],
+        "calculationType": "none",
+        "aspectRatio": "unset",
+        "horizontalPadding": "unset",
+        "verticalPadding": "unset",
+        "frontmatterKey": null,
+        "multiTagSortDir": "default"
+      },
+      {
+        "id": "f11dc68f-16f4-4e82-866c-dd364e267fe0",
+        "sortDir": "default",
+        "isVisible": true,
+        "width": "140px",
+        "type": "multi-tag",
+        "numberPrefix": "",
+        "numberSuffix": "",
+        "numberSeparator": "",
+        "content": "Author",
+        "numberFormat": "number",
+        "currencyType": "USD",
+        "dateFormat": "mmddyyyy",
+        "dateFormatSeparator": "-",
+        "hour12": true,
+        "includeTime": false,
+        "shouldWrapOverflow": true,
+        "tags": [
+          {
+            "id": "585bf8b9-d4f5-4b37-9df8-83004e1fce3f",
+            "content": "Maggie Kuhn",
+            "color": "orange"
+          },
+          {
+            "id": "8626153d-d928-448a-8132-b99564295706",
+            "content": "Mark Twain",
+            "color": "green"
+          }
+        ],
+        "calculationType": "none",
+        "aspectRatio": "unset",
+        "horizontalPadding": "unset",
+        "verticalPadding": "unset",
+        "frontmatterKey": null,
+        "multiTagSortDir": "default"
+      }
+    ],
+    "rows": [
+      {
+        "id": "17f19c45-dbfa-436e-854e-f2834f759bd6",
+        "index": 0,
+        "sourceId": null,
+        "creationDateTime": "2026-01-03T19:20:51.617Z",
+        "lastEditedDateTime": "2026-01-03T19:22:14.869Z",
+        "cells": [
+          {
+            "id": "3c2814ae-4ea2-442d-a488-ae5a11b930aa",
+            "columnId": "72715f07-c943-42af-9e87-7030efbd3a96",
+            "content": "Speak your mind, even if your voice shakes.",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "c7c5f3a2-06ca-4a57-92b6-429571569bda",
+            "columnId": "f11dc68f-16f4-4e82-866c-dd364e267fe0",
+            "tagIds": [
+              "585bf8b9-d4f5-4b37-9df8-83004e1fce3f"
+            ],
+            "hasValidFrontmatter": null,
+            "multiTagSortDir": "default"
+          }
+        ]
+      },
+      {
+        "id": "a52a7487-adc4-4687-b75a-802b9de52cfb",
+        "index": 1,
+        "sourceId": null,
+        "creationDateTime": "2026-01-03T19:22:28.530Z",
+        "lastEditedDateTime": "2026-01-03T19:24:26.250Z",
+        "cells": [
+          {
+            "id": "8f3e2b38-6014-4a97-b1e2-0dbebd0ce4d3",
+            "columnId": "72715f07-c943-42af-9e87-7030efbd3a96",
+            "content": "Whenever you find yourself on the side of the majority, it is time to pause and reflect.",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "dd78be68-5467-4f13-8883-df7806c78dde",
+            "columnId": "f11dc68f-16f4-4e82-866c-dd364e267fe0",
+            "tagIds": [
+              "8626153d-d928-448a-8132-b99564295706"
+            ],
+            "hasValidFrontmatter": null,
+            "multiTagSortDir": "default"
+          }
+        ]
+      },
+      {
+        "id": "fa0fc075-c38c-43f9-b95c-211bf943f5f8",
+        "index": 2,
+        "sourceId": null,
+        "creationDateTime": "2026-01-03T19:24:46.195Z",
+        "lastEditedDateTime": "2026-01-03T19:25:00.673Z",
+        "cells": [
+          {
+            "id": "7dd7cd38-6026-47a6-a5a7-657c8386f3ee",
+            "columnId": "72715f07-c943-42af-9e87-7030efbd3a96",
+            "content": "Forgiveness is the fragrance that the violet sheds on the heel that has crushed it.\n",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "0e0989fc-bde7-48ea-a8c0-d3879c7b9c83",
+            "columnId": "f11dc68f-16f4-4e82-866c-dd364e267fe0",
+            "tagIds": [
+              "8626153d-d928-448a-8132-b99564295706"
+            ],
+            "hasValidFrontmatter": null,
+            "multiTagSortDir": "default"
+          }
+        ]
+      }
+    ],
+    "filters": [
+      {
+        "id": "73ba4577-d44b-4573-87bb-4e460a83fcba",
+        "columnId": "f11dc68f-16f4-4e82-866c-dd364e267fe0",
+        "operator": "or",
+        "isEnabled": true,
+        "type": "multi-tag",
+        "condition": "contains",
+        "tagIds": []
+      }
+    ],
+    "sources": [],
+    "settings": {
+      "numFrozenColumns": 1,
+      "showCalculationRow": true
+    },
+    "externalRowOrder": []
+  },
+  "pluginVersion": "8.16.1"
+}
