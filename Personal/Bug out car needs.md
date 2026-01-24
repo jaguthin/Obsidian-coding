@@ -1,7 +1,7 @@
 
 - Car tent
 - Car setup with drawers and sleep platform
-- Camping stove
+- Camping stove or camp kitchen
 - Refrigerator/freezer
 - Bedding - Pillows, sleep bags, blankets. 
 - Food
@@ -22,3 +22,10 @@
 - lap desk
 - Bugspray 
 - Sunscreen
+- Books
+- Writing paper and pens
+- Side shower
+- Portable toilet
+- Generator
+- Solar panels
+- Fuel for stove
