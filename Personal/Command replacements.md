@@ -32,7 +32,7 @@ Dog - Old - Not maintained.
 
 Procs
 ASCII cinema 
-Ollama
+Ollama - llm
 Zellij - Promising but not standard
 Doppler - Secrets management
 Pang

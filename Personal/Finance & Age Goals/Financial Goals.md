@@ -1,4 +1,4 @@
 - [x] Pay off Maxima ✅ 2026-01-17
-- [ ] Pay off Heloc
+- [ ] Pay off  Consolidation Loan
 - [ ] 401K to 250K
 - [ ] Freedom fund to 100K

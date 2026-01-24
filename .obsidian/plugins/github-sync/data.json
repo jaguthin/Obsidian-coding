@@ -1,7 +1,7 @@
 {
   "remoteURL": "git@github.com:jaguthin/Obsidian-Vault.git",
   "gitLocation": "",
-  "syncinterval": 0,
+  "syncinterval": 15,
   "isSyncOnLoad": false,
   "checkStatusOnLoad": true
 }

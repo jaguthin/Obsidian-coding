@@ -6,6 +6,16 @@
   "sessionStorage": "data",
   "sessions": [
     {
+      "start": "2026-01-24T02:12:58.052Z",
+      "total": 0,
+      "drafts": {
+        "Personal/Writing/Stories/The Survivalist/Index.md": {
+          "total": 0,
+          "scenes": {}
+        }
+      }
+    },
+    {
       "start": "2026-01-18T15:34:57.971Z",
       "total": 0,
       "drafts": {
@@ -287,16 +297,6 @@
     },
     {
       "start": "2025-10-23T23:34:01.463Z",
-      "total": 0,
-      "drafts": {
-        "Personal/Writing/Stories/The Survivalist/Index.md": {
-          "total": 0,
-          "scenes": {}
-        }
-      }
-    },
-    {
-      "start": "2025-10-19T20:17:31.665Z",
       "total": 0,
       "drafts": {
         "Personal/Writing/Stories/The Survivalist/Index.md": {

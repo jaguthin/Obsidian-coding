@@ -51,18 +51,30 @@
             "id": "f09a3a580cc2ff53",
             "type": "leaf",
             "state": {
+              "type": "dataloom",
+              "state": {
+                "file": "Configs/Looms/What I owe to myself.loom"
+              },
+              "icon": "lucide-file",
+              "title": "What I owe to myself"
+            }
+          },
+          {
+            "id": "38243bbf35ce7567",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "Personal/Command replacements.md",
-                "mode": "source",
+                "file": "Journal/2026/01/Jan 23.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Command replacements"
+              "title": "Jan 23"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -314,22 +326,31 @@
       "obsidian-day-planner:Open Multi-Day View": false
     }
   },
-  "active": "f09a3a580cc2ff53",
+  "active": "eb32de380f7dbd20",
   "lastOpenFiles": [
-    "Journal/2026/01/Jan 18.md",
+    "Configs/Looms/R2-D2.loom",
+    "Journal/2026/01/Jan 23.md",
+    "Configs/Looms/What I owe to myself.loom",
+    "Configs/Looms/How much money is needed each month.loom",
+    "Configs/Looms/Untitled.base",
+    "Configs/Looms/Untitled.loom",
+    "Personal/Bills and Income.loom",
     "Personal/Command replacements.md",
+    "Personal/Installed on each computer.md",
+    "Personal/PW.md",
+    "Personal/Task List.md",
+    "Personal/Task Management.md",
+    "Personal/To Pack.md",
+    "Personal/To Save Money.md",
+    "Personal/Technical stuff to try.md",
+    "Journal/2026/01/Jan 18.md",
     "Personal/Finance & Age Goals/Financial Goals.md",
     "Personal/Kickstart Stuff/Kickstart Stuff.md",
     "Personal/Education Path.md",
-    "Personal/Installed on each computer.md",
     "Personal/Jon Money.md",
-    "Personal/PW.md",
     "Personal/Unity.md",
-    "Configs/Looms/Untitled.loom",
-    "Configs/Looms/Untitled.base",
     "Personal/Inventory/Survival Equipment/Survival Equipment.md",
     "Trash/Bed Curtains.md",
-    "Personal/Bills and Income.loom",
     "Trash/Computer Rebuild 1.md",
     "Personal/Computer Rebuild.sync-conflict-20251230-134353-SSMWXWK.md",
     "Personal/Computer Rebuild.sync-conflict-20251230-135532-SSMWXWK.md",
@@ -337,21 +358,11 @@
     "Trash/PTO comparison.loom",
     "Personal/To Save Money.sync-conflict-20251230-135545-SSMWXWK.md",
     "Journal/2026/01/Jan 16.md",
-    "Configs/Looms/R2-D2.loom",
     "Personal/Projects/Coffee House - Still to do.sync-conflict-20260117-103455-SSMWXWK.md",
-    "Configs/Looms/What I owe to myself.loom",
     "Configs/Looms/Untitled.sync-conflict-20260117-104430-SSMWXWK.loom",
     "Configs/Looms/Untitled.sync-conflict-20251230-140939-AXUKNFF.loom",
-    "Configs/Looms/R2-D2.sync-conflict-20251230-140939-AXUKNFF.loom",
     "Personal/Technical stuff to try.sync-conflict-20260117-103432-SSMWXWK.md",
     "Personal/To Save Money.sync-conflict-20251230-140938-SSMWXWK.md",
-    "Journal/2026/01/Jan 15.md",
-    "Journal/2026/01/Jan 14.md",
-    "Personal/Projects/Coffee House - Still to do.md",
-    "Journal/2026/01/Jan 03.md",
-    "Personal/Python Test.md",
-    "Personal/Quotes.md",
-    "Configs/Archived/Tasks.md",
     "Personal/Projects/Models to Build/More Info/Banshee.canvas",
     "Personal/Projects/Models to Build/More Info/Calvin & Hobbes on sled.canvas",
     "Personal/Projects/Models to Build/More Info/Frankenstein's Monster.canvas",
