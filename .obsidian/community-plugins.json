@@ -21,9 +21,10 @@
   "obsidian-prozen",
   "obsidian-hider",
   "omnisearch",
-  "homepage",
-  "obsidian-day-planner",
   "google-calendar",
   "recent-files-obsidian",
-  "execute-code"
+  "execute-code",
+  "fantasy-content-generator",
+  "simple-dice-roller",
+  "obsidian-leaflet-plugin"
 ]

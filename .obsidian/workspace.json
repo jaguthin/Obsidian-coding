@@ -4,77 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "e9b91e7ef2be3ea4",
+        "id": "c5d8d0dfa62ee49b",
         "type": "tabs",
         "children": [
           {
-            "id": "dc8e06d0c81d391a",
-            "type": "leaf",
-            "state": {
-              "type": "dataloom",
-              "state": {
-                "file": "Configs/Looms/R2-D2.loom"
-              },
-              "icon": "lucide-file",
-              "title": "R2-D2"
-            }
-          },
-          {
-            "id": "fc2fc37ef0a5c4fb",
+            "id": "067c87b33187c018",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Personal/Installed on each computer.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Installed on each computer"
-            }
-          },
-          {
-            "id": "eb32de380f7dbd20",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Personal/The Future/Equipment that I want.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Equipment that I want"
-            }
-          },
-          {
-            "id": "f09a3a580cc2ff53",
-            "type": "leaf",
-            "state": {
-              "type": "dataloom",
-              "state": {
-                "file": "Configs/Looms/How much money is needed each month.loom"
-              },
-              "icon": "lucide-file",
-              "title": "How much money is needed each month"
-            }
-          },
-          {
-            "id": "38243bbf35ce7567",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Journal/2026/01/Jan 23.md",
+                "file": "Personal/Writing/Stories/The Survivalist/Index.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Jan 23"
+              "title": "Index"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -128,7 +75,8 @@
               "title": "Longform"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
         "id": "3d5546050f7d4462",
@@ -259,13 +207,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Configs/Looms/How much money is needed each month.loom",
+                "file": "Personal/Writing/Stories/The Survivalist/Index.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of How much money is needed each month"
+              "title": "Outline of Index"
             }
           }
         ]
@@ -291,10 +239,12 @@
       }
     ],
     "direction": "horizontal",
-    "width": 362.5
+    "width": 362.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-leaflet-plugin:Open Leaflet Map": false,
       "homepage:Open homepage": false,
       "bases:Create new base": false,
       "switcher:Open quick switcher": false,
@@ -313,28 +263,35 @@
       "widgets:Add widget": false,
       "omnisearch:Omnisearch": false,
       "obsidian-day-planner:Open Timeline": false,
-      "obsidian-day-planner:Open Multi-Day View": false
+      "obsidian-day-planner:Open Multi-Day View": false,
+      "fantasy-content-generator:Fantasy Generators": false,
+      "simple-dice-roller:Average all dice": false
     }
   },
-  "active": "f09a3a580cc2ff53",
+  "active": "6b074f0542da8c55",
   "lastOpenFiles": [
+    "Journal/2025/07/Jul 16.md",
+    "Personal/Campaigns/Threa.md",
+    "Personal/Writing/Stories/The Survivalist/Index.md",
+    "Personal/Writing/Stories/Misc/Untititled.md",
+    "Personal/Writing/Stories/Fools Gold.md",
+    "Personal/Writing/Stories/Untitled.base",
+    "Personal/Writing/Stories/Untitled area./Untitled area..md",
+    "Personal/The Future/Equipment that I want.md",
+    "Personal/Installed on each computer.md",
+    "Configs/Looms/R2-D2.loom",
+    "Configs/Looms/How much money is needed each month.loom",
     "Configs/Looms/Linux Mint & Ubuntu.loom",
     "Configs/Looms/Quotes.loom",
     "Personal/What I owe Myself/Paid/2026/January.loom",
     "Personal/What I owe Myself/Paid/2026",
     "Personal/What I owe Myself/Paid",
     "Personal/What I owe Myself",
-    "Personal/The Future/Equipment that I want.md",
     "Personal/The Future/Bug out car needs.md",
     "Personal/The Future",
     "Personal/Finance & Age Goals/Financial Goals.md",
-    "Configs/Looms/R2-D2.loom",
     "Journal/2026/01/Jan 23.md",
-    "Configs/Looms/How much money is needed each month.loom",
-    "Configs/Looms/Untitled.base",
-    "Personal/Bills and Income.loom",
     "Personal/Command replacements.md",
-    "Personal/Installed on each computer.md",
     "Personal/PW.md",
     "Personal/Task List.md",
     "Personal/Task Management.md",
@@ -349,11 +306,6 @@
     "Personal/Inventory/Survival Equipment/Survival Equipment.md",
     "Trash/Bed Curtains.md",
     "Trash/Computer Rebuild 1.md",
-    "Personal/Computer Rebuild.sync-conflict-20251230-134353-SSMWXWK.md",
-    "Personal/Computer Rebuild.sync-conflict-20251230-135532-SSMWXWK.md",
-    "Personal/To Save Money.sync-conflict-20251230-135545-SSMWXWK.md",
-    "Journal/2026/01/Jan 16.md",
-    "Personal/Projects/Coffee House - Still to do.sync-conflict-20260117-103455-SSMWXWK.md",
     "Personal/Projects/Models to Build/More Info/Banshee.canvas",
     "Personal/Projects/Models to Build/More Info/Calvin & Hobbes on sled.canvas",
     "Personal/Projects/Models to Build/More Info/Frankenstein's Monster.canvas",

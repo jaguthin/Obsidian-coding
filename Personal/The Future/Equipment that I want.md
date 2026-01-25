@@ -6,5 +6,9 @@
 - Reading material
 - Writing material
 - Backpack
-- Portable cup
-- 
+- Cup - Portable
+- Fire making stuff 
+	- Matches
+	- Lighters
+	- Tools
+	- Firestarter
