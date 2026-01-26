@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "c5d8d0dfa62ee49b",
+        "id": "8fb8fc44867707cf",
         "type": "tabs",
         "children": [
           {
-            "id": "067c87b33187c018",
+            "id": "2aebec9cd2c30e2e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Personal/Writing/Stories/The Survivalist/Index.md",
-                "mode": "preview",
+                "file": "Personal/Command replacements.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Index"
+              "title": "Command replacements"
             }
           }
         ]
@@ -33,7 +33,7 @@
       {
         "id": "a0b5c6d686350dbc",
         "type": "tabs",
-        "dimension": 49.33469805527124,
+        "dimension": 75.33333333333333,
         "children": [
           {
             "id": "156f5d302f985a1b",
@@ -54,7 +54,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "German",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -66,7 +66,7 @@
             }
           },
           {
-            "id": "6b074f0542da8c55",
+            "id": "efdc250f13658e67",
             "type": "leaf",
             "state": {
               "type": "VIEW_TYPE_LONGFORM_EXPLORER",
@@ -75,41 +75,19 @@
               "title": "Longform"
             }
           }
-        ],
-        "currentTab": 2
-      },
-      {
-        "id": "3d5546050f7d4462",
-        "type": "tabs",
-        "dimension": 30.194472876151487,
-        "children": [
-          {
-            "id": "e667b7b9f2c3b275",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "recent-files",
-              "state": {},
-              "pinned": true,
-              "icon": "clock",
-              "title": "Recent Files"
-            }
-          }
         ]
       },
       {
         "id": "4766fe3f4e63ade5",
         "type": "tabs",
-        "dimension": 20.470829068577277,
+        "dimension": 24.66666666666667,
         "children": [
           {
             "id": "cec46ecbbb6eac46",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "bookmarks",
               "state": {},
-              "pinned": true,
               "icon": "lucide-bookmark",
               "title": "Bookmarks"
             }
@@ -118,7 +96,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 242.5
+    "width": 300
   },
   "right": {
     "id": "456d370bea752a5c",
@@ -127,10 +105,20 @@
       {
         "id": "f7b33a658ae40f39",
         "type": "tabs",
-        "dimension": 48.34437086092716,
+        "dimension": 27.880741337630944,
         "children": [
           {
-            "id": "bb776a84b0ece9e8",
+            "id": "db50275e2b152262",
+            "type": "leaf",
+            "state": {
+              "type": "tenki",
+              "state": {},
+              "icon": "sun",
+              "title": "Tenki"
+            }
+          },
+          {
+            "id": "0a3715eb8a3dfb4e",
             "type": "leaf",
             "state": {
               "type": "calendar",
@@ -140,12 +128,12 @@
             }
           },
           {
-            "id": "91a839e11d08c2aa",
+            "id": "f6f1383cd01c7684",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Personal/Python Test.md",
+                "file": "Journal/2025/07/Jul 05.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,25 +143,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Python Test"
+              "title": "Backlinks for Jul 05"
             }
           },
           {
-            "id": "9e44cf3872be1e60",
+            "id": "491147828aff7831",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Personal/Python Test.md",
+                "file": "Journal/2025/07/Jul 05.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Python Test"
+              "title": "Outgoing links from Jul 05"
             }
           },
           {
-            "id": "95642c68fdd669ca",
+            "id": "e5f110da3385a688",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -188,7 +176,7 @@
             }
           },
           {
-            "id": "a430f16ed13cd515",
+            "id": "aff608e93c96827b",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -202,35 +190,71 @@
             }
           },
           {
-            "id": "f2cf7f66ab7a3552",
+            "id": "3fc13fe8b30668f8",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Personal/Writing/Stories/The Survivalist/Index.md",
+                "file": "Personal/Finances.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Index"
+              "title": "Outline of Finances"
+            }
+          },
+          {
+            "id": "4d03afb21b8271fb",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
+          },
+          {
+            "id": "965fe3e3b122fa35",
+            "type": "leaf",
+            "state": {
+              "type": "rpg-manager-options",
+              "state": {},
+              "icon": "d20",
+              "title": "RPG Manager"
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "bba8cd7497cdc52a",
+        "type": "tabs",
+        "dimension": 44.3190975020145,
+        "children": [
+          {
+            "id": "c642cf41bd2c5ab1",
+            "type": "leaf",
+            "state": {
+              "type": "keep-the-rhythm",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "keep-the-rhythm"
             }
           }
         ]
       },
       {
-        "id": "5cd2237920982eda",
+        "id": "d3680a54c182aa75",
         "type": "tabs",
-        "dimension": 51.65562913907285,
+        "dimension": 27.800161160354552,
         "children": [
           {
-            "id": "01a4b6a794d19ec6",
+            "id": "5193fccd50d3703c",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "tenki",
               "state": {},
-              "pinned": true,
               "icon": "sun",
               "title": "Tenki"
             }
@@ -239,14 +263,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 362.5,
-    "collapsed": true
+    "width": 363
   },
   "left-ribbon": {
     "hiddenItems": {
       "obsidian-leaflet-plugin:Open Leaflet Map": false,
-      "homepage:Open homepage": false,
       "bases:Create new base": false,
+      "github-sync:Sync with Remote": false,
+      "print:Print note": false,
+      "widgets:Add widget": false,
+      "omnisearch:Omnisearch": false,
+      "fantasy-content-generator:Fantasy Generators": false,
+      "simple-dice-roller:Average all dice": false,
+      "notion-like-tables:Create loom": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -255,24 +284,16 @@
       "command-palette:Open command palette": false,
       "workspaces:Manage workspace layouts": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "notion-like-tables:Create loom": false,
       "obsidian-excalidraw-plugin:New drawing": false,
-      "github-sync:Sync with Remote": false,
-      "print:Print note": false,
-      "rpg-manager:RPG Manager": false,
-      "widgets:Add widget": false,
-      "omnisearch:Omnisearch": false,
-      "obsidian-day-planner:Open Timeline": false,
-      "obsidian-day-planner:Open Multi-Day View": false,
-      "fantasy-content-generator:Fantasy Generators": false,
-      "simple-dice-roller:Average all dice": false
+      "rpg-manager:RPG Manager": false
     }
   },
-  "active": "6b074f0542da8c55",
+  "active": "2aebec9cd2c30e2e",
   "lastOpenFiles": [
     "Journal/2025/07/Jul 16.md",
-    "Personal/Campaigns/Threa.md",
+    "Untitled.canvas",
     "Personal/Writing/Stories/The Survivalist/Index.md",
+    "Personal/Campaigns/Threa.md",
     "Personal/Writing/Stories/Misc/Untititled.md",
     "Personal/Writing/Stories/Fools Gold.md",
     "Personal/Writing/Stories/Untitled.base",
@@ -305,7 +326,6 @@
     "Personal/Unity.md",
     "Personal/Inventory/Survival Equipment/Survival Equipment.md",
     "Trash/Bed Curtains.md",
-    "Trash/Computer Rebuild 1.md",
     "Personal/Projects/Models to Build/More Info/Banshee.canvas",
     "Personal/Projects/Models to Build/More Info/Calvin & Hobbes on sled.canvas",
     "Personal/Projects/Models to Build/More Info/Frankenstein's Monster.canvas",

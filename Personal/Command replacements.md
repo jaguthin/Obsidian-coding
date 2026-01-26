@@ -23,6 +23,7 @@ aliases:
 - Gh cli - git hub client.  
 - ifdata - part of moreutils - more utils to look at but acts to give you more info on your network interfaces
 - Ts - Prefixes timestamp. Can be used to run a series of commands. Use it in a pipe to get results of a command.
+- most instead of more or less
 
 ### Not yet installed.
 
