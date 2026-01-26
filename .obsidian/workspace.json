@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Personal/House Bug In/Generator.md",
+                "file": "Personal/House Bug In/Household needs.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Generator"
+              "title": "Household needs"
             }
           }
         ]
@@ -290,8 +290,9 @@
   },
   "active": "2aebec9cd2c30e2e",
   "lastOpenFiles": [
-    "Personal/Command replacements.md",
     "Personal/House Bug In/Generator.md",
+    "Personal/House Bug In/Household needs.md",
+    "Personal/Command replacements.md",
     "Personal/House Bug In",
     "Journal/2025/07/Jul 16.md",
     "Untitled.canvas",
@@ -326,7 +327,6 @@
     "Personal/Jon Money.md",
     "Personal/Unity.md",
     "Personal/Inventory/Survival Equipment/Survival Equipment.md",
-    "Trash/Bed Curtains.md",
     "Personal/Projects/Models to Build/More Info/Banshee.canvas",
     "Personal/Projects/Models to Build/More Info/Calvin & Hobbes on sled.canvas",
     "Personal/Projects/Models to Build/More Info/Frankenstein's Monster.canvas",
