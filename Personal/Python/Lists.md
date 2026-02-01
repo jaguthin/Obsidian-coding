@@ -2,6 +2,7 @@
 tags:
   - Programming
   - Python
+  - Education
 ---
 
 Can split .split(',') == Divider specified if not a space.

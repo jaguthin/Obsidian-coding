@@ -1,3 +1,9 @@
+---
+tags:
+  - Programming
+  - Python
+  - Education
+---
 --- 
 12/26/24
 

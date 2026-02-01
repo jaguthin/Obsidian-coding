@@ -1,3 +1,9 @@
+---
+tags:
+  - Education
+  - Programming
+  - Python
+---
 
 #### Beginner
 ~~1~~ - December 25, 2024
