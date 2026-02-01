@@ -1,4 +1,6 @@
 {
   "encore-settings@@theme-dark": "encore-theme-dark",
-  "encore-settings@@encore-translucency": true
+  "encore-settings@@encore-translucency": true,
+  "tenki@@tenki-background@@light": "#19ACA2",
+  "tenki@@tenki-background@@dark": "#044743"
 }

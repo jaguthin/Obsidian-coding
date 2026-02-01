@@ -8,13 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "4cbab76d4ddcac48",
+            "id": "c1f7bde14d7a8054",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Personal/Python/Lists.md",
+                "mode": "preview",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Lists"
             }
           }
         ]
@@ -169,8 +173,10 @@
       "notebook-navigator:Notebook Navigator": false
     }
   },
-  "active": "3c800a20ddc47da7",
+  "active": "c1f7bde14d7a8054",
   "lastOpenFiles": [
+    "Personal/Writing/Stories/Fools Gold.md",
+    "Personal/Writing/Stories/The Survivalist/Index.md",
     "Untitled.md",
     "Untitled.canvas",
     "Journal/2026/01/Jan 31.md",
@@ -185,10 +191,8 @@
     "Personal/Command replacements.md",
     "Personal/House Bug In",
     "Journal/2025/07/Jul 16.md",
-    "Personal/Writing/Stories/The Survivalist/Index.md",
     "Personal/Campaigns/Threa.md",
     "Personal/Writing/Stories/Misc/Untititled.md",
-    "Personal/Writing/Stories/Fools Gold.md",
     "Personal/Writing/Stories/Untitled.base",
     "Personal/Writing/Stories/Untitled area./Untitled area..md",
     "Personal/Installed on each computer.md",

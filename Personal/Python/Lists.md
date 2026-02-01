@@ -1,3 +1,8 @@
+---
+tags:
+  - Programming
+  - Python
+---
 
 Can split .split(',') == Divider specified if not a space.
 .append to add to a list. 

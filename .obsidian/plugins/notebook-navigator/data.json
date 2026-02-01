@@ -165,7 +165,7 @@
   "tagSortOrder": "alpha-asc",
   "keepEmptyTagsProperty": false,
   "defaultListMode": "standard",
-  "includeDescendantNotes": true,
+  "includeDescendantNotes": false,
   "defaultFolderSort": "title-asc",
   "propertySortKey": "",
   "revealFileOnListChanges": true,

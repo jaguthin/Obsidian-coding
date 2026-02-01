@@ -6,4 +6,7 @@ longform:
   sceneFolder: /
   scenes: []
   ignoredFiles: []
+tags:
+  - Writing
+  - Short-Stories
 ---
