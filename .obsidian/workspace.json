@@ -13,10 +13,10 @@
             "state": {
               "type": "dataloom",
               "state": {
-                "file": "Configs/Looms/Fiancial Spreadsheet.loom"
+                "file": "Configs/Looms/R2-D2.loom"
               },
               "icon": "lucide-file",
-              "title": "Fiancial Spreadsheet"
+              "title": "R2-D2"
             }
           }
         ]
@@ -173,6 +173,7 @@
   },
   "active": "c1f7bde14d7a8054",
   "lastOpenFiles": [
+    "Configs/Looms/Fiancial Spreadsheet.loom",
     "Personal/Kickstart Stuff/Kickstart Stuff.md",
     "Personal/Writing/Stories/Short Stories/Fools Gold/Draft 1.md",
     "Personal/Writing/Stories/Short Stories/The Survivalist/Index.md",
@@ -204,7 +205,6 @@
     "Personal/Learning/Programming/Python/Lists.md",
     "Personal/Writing/Stories/Misc/Untititled.md",
     "Personal/Learning/Programming/Python/100 Days of Pytthon/001-050/000 - Notes.md",
-    "Personal/Learning/Programming/Python/100 Days of Pytthon/001-050/001 - Printing Text to Console and input.md",
     "Untitled.canvas",
     "2026",
     "Personal/Survival",
