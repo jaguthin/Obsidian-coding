@@ -1,7 +1,7 @@
 {
   "version": 3,
   "projects": {},
-  "selectedDraftVaultPath": "Personal/Writing/Stories/The Survivalist/Index.md",
+  "selectedDraftVaultPath": "Personal/Writing/Stories/Short Stories/The Survivalist/Index.md",
   "userScriptFolder": null,
   "sessionStorage": "data",
   "sessions": [
@@ -10,6 +10,10 @@
       "total": 0,
       "drafts": {
         "Personal/Writing/Stories/The Survivalist/Index.md": {
+          "total": 0,
+          "scenes": {}
+        },
+        "Personal/Writing/Stories/Short Stories/The Survivalist/Index.md": {
           "total": 0,
           "scenes": {}
         }

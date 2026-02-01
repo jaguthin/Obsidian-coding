@@ -1,7 +1,8 @@
 ---
 tags:
   - Education
-  - Blender
+  - 3D-Art/Blender
+  - 3D-Art
 ---
 
 - Complete Blender Course - Section 1 - Light house.

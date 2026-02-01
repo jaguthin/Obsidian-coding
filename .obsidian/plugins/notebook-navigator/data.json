@@ -394,16 +394,34 @@
   "folderIcons": {
     "Journal": "bootstrap-icons:journal-album",
     "Personal": "emoji:💻",
-    "Personal/Python": "simple-icons:python",
-    "Personal/Python/100 Days of Pytthon": "simple-icons:python",
-    "Personal/Python/100 Days of Pytthon/001-050": "simple-icons:python"
+    "Configs": "settings",
+    "Configs/Archived": "archive",
+    "Configs/Attachments": "material-icons:attachment",
+    "Configs/Looms": "simple-icons:loom",
+    "Configs/Tasks": "material-icons:task",
+    "Configs/Templates": "layout-template",
+    "Configs/Templates/Journal": "layout-template",
+    "Journal/2026": "emoji:📅",
+    "Journal/2025": "emoji:📅",
+    "Lists": "list",
+    "Personal/Learning/Programming/Python": "simple-icons:python",
+    "Personal/Learning/Programming/Python/100 Days of Pytthon": "simple-icons:python",
+    "Personal/Learning/Programming/Python/100 Days of Pytthon/001-050": "simple-icons:python",
+    "Personal/Learning/Languages/German": "emoji:🇩🇪",
+    "Personal/Learning/Languages/Spanish": "emoji:🇪🇸",
+    "Personal/Learning/Languages": "languages",
+    "Personal/Learning/Programming": "square-code",
+    "Personal/Books": "emoji:📒",
+    "Personal/Campaigns": "material-icons:campaign",
+    "Personal/Finance & Age Goals": "emoji:📡"
   },
   "folderColors": {
     "Journal": "#14b8a6",
     "Personal": "#64748b",
-    "Personal/Python": "#84cc16",
-    "Personal/Python/100 Days of Pytthon": "#84cc16",
-    "Personal/Python/100 Days of Pytthon/001-050": "#84cc16"
+    "Journal/2025": "#14b8a6",
+    "Personal/Learning/Programming/Python": "#22c55e",
+    "Personal/Learning/Programming/Python/100 Days of Pytthon": "#22c55e",
+    "Personal/Learning/Programming/Python/100 Days of Pytthon/001-050": "#22c55e"
   },
   "folderBackgroundColors": {},
   "folderSortOverrides": {
@@ -411,8 +429,12 @@
   },
   "folderTreeSortOverrides": {},
   "folderAppearances": {},
-  "tagIcons": {},
-  "tagColors": {},
+  "tagIcons": {
+    "education/programming/python": "simple-icons:python"
+  },
+  "tagColors": {
+    "education/programming/python": "#22c55e"
+  },
   "tagBackgroundColors": {},
   "tagSortOverrides": {},
   "tagTreeSortOverrides": {},
