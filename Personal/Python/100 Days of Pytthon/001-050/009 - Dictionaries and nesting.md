@@ -1,3 +1,9 @@
+---
+tags:
+  - Education
+  - Education/Programming
+  - Education/Programming/Python
+---
 --- 
 01/02/25
 

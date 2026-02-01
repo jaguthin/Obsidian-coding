@@ -1,7 +1,7 @@
 ---
 tags:
-  - Programming
-  - Python
+  - Education/Programming
+  - Education/Programming/Python
   - Education
 ---
 --- 

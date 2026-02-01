@@ -8,5 +8,5 @@ longform:
   ignoredFiles: []
 tags:
   - Writing
-  - Short-Stories
+  - Writing/Short-Stories
 ---

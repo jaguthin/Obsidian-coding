@@ -151,7 +151,7 @@
   "inheritFolderColors": true,
   "folderSortOrder": "alpha-asc",
   "inheritTagColors": true,
-  "enableFolderNotes": false,
+  "enableFolderNotes": true,
   "folderNoteType": "markdown",
   "folderNoteName": "",
   "folderNoteProperties": "",
@@ -393,11 +393,17 @@
   "fileColors": {},
   "folderIcons": {
     "Journal": "bootstrap-icons:journal-album",
-    "Personal": "emoji:💻"
+    "Personal": "emoji:💻",
+    "Personal/Python": "simple-icons:python",
+    "Personal/Python/100 Days of Pytthon": "simple-icons:python",
+    "Personal/Python/100 Days of Pytthon/001-050": "simple-icons:python"
   },
   "folderColors": {
     "Journal": "#14b8a6",
-    "Personal": "#64748b"
+    "Personal": "#64748b",
+    "Personal/Python": "#84cc16",
+    "Personal/Python/100 Days of Pytthon": "#84cc16",
+    "Personal/Python/100 Days of Pytthon/001-050": "#84cc16"
   },
   "folderBackgroundColors": {},
   "folderSortOverrides": {

@@ -1,8 +1,8 @@
 ---
 tags:
   - Education
-  - Programming
-  - Python
+  - Education/Programming
+  - Education/Programming/Python
 ---
 
 ---

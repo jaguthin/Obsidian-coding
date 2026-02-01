@@ -1,3 +1,10 @@
+---
+tags:
+  - Education
+  - Education/Programming
+  - Education/Programming/Python
+  - Games
+---
 ```python
 from turtle import Screen, Turtle  
 from snake import Snake  

@@ -1,8 +1,8 @@
 ---
 tags:
   - Education
-  - Programming
-  - CSS
+  - Education/Programming
+  - Education/Programming/CSS
 ---
 
 ---

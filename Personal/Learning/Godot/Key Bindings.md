@@ -1,8 +1,8 @@
 ---
 tags:
   - Education
-  - Programming
-  - Godot
+  - Education/Programming
+  - Education/Programming/Godot
 ---
 
 When hold right mouse button can use WASD to move around and EQ to go up and down.   Shift will increase speed

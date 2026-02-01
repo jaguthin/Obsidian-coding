@@ -1,7 +1,7 @@
 ---
 tags:
   - Writing
-  - Short-Stories
+  - Writing/Short-Stories
 ---
 
 
