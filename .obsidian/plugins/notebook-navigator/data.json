@@ -12,6 +12,32 @@
       "navigationBanner": null,
       "periodicNotesFolder": "",
       "shortcuts": []
+    },
+    {
+      "id": "ml359qii-aze9ys",
+      "name": "Role Playing",
+      "fileVisibility": "supported",
+      "hiddenFolders": [],
+      "hiddenTags": [],
+      "hiddenFileNames": [],
+      "hiddenFileTags": [],
+      "hiddenFileProperties": [],
+      "navigationBanner": null,
+      "periodicNotesFolder": "",
+      "shortcuts": []
+    },
+    {
+      "id": "ml35a0pi-ai4uvr",
+      "name": "Writing",
+      "fileVisibility": "supported",
+      "hiddenFolders": [],
+      "hiddenTags": [],
+      "hiddenFileNames": [],
+      "hiddenFileTags": [],
+      "hiddenFileProperties": [],
+      "navigationBanner": null,
+      "periodicNotesFolder": "",
+      "shortcuts": []
     }
   ],
   "vaultProfile": "default",
@@ -366,10 +392,12 @@
   "fileIcons": {},
   "fileColors": {},
   "folderIcons": {
-    "Journal": "bootstrap-icons:journal-album"
+    "Journal": "bootstrap-icons:journal-album",
+    "Personal": "emoji:💻"
   },
   "folderColors": {
-    "Journal": "#14b8a6"
+    "Journal": "#14b8a6",
+    "Personal": "#64748b"
   },
   "folderBackgroundColors": {},
   "folderSortOverrides": {
