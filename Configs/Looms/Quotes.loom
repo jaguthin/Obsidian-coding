@@ -137,17 +137,7 @@
         ]
       }
     ],
-    "filters": [
-      {
-        "id": "73ba4577-d44b-4573-87bb-4e460a83fcba",
-        "columnId": "f11dc68f-16f4-4e82-866c-dd364e267fe0",
-        "operator": "or",
-        "isEnabled": true,
-        "type": "multi-tag",
-        "condition": "contains",
-        "tagIds": []
-      }
-    ],
+    "filters": [],
     "sources": [],
     "settings": {
       "numFrozenColumns": 1,
