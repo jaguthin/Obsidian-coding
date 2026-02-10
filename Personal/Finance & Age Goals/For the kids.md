@@ -16,7 +16,7 @@ My intention is:
 3) ~~Pay back my 401K~~
 4) ~~Freedom Fund to 60K~~
 5) Freedom fund to 100K.
-6) Pay off the Maxima
+6) ~~Pay off the Maxima~~
 7) Pay off the  HELOC Loan.
 8) Pay down the house when freedom fund is where I want it. 
 9) Sell the house and buy a boat or a tiny house then live there.
