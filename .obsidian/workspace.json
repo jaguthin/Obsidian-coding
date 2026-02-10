@@ -27,10 +27,10 @@
             "state": {
               "type": "dataloom",
               "state": {
-                "file": "Configs/Looms/Personal Budget.loom"
+                "file": "Configs/Looms/Budget with less expenses.loom"
               },
               "icon": "lucide-file",
-              "title": "Personal Budget"
+              "title": "Budget with less expenses"
             }
           }
         ],
@@ -145,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Configs/Looms/Personal Budget.loom",
+                "file": "Configs/Looms/Budget with less expenses.loom",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +155,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Personal Budget"
+              "title": "Backlinks for Budget with less expenses"
             }
           },
           {
@@ -164,12 +164,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Configs/Looms/Personal Budget.loom",
+                "file": "Configs/Looms/Budget with less expenses.loom",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Personal Budget"
+              "title": "Outgoing links from Budget with less expenses"
             }
           },
           {
@@ -207,13 +207,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Configs/Looms/Personal Budget.loom",
+                "file": "Configs/Looms/Budget with less expenses.loom",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Personal Budget"
+              "title": "Outline of Budget with less expenses"
             }
           }
         ]
@@ -264,8 +264,9 @@
   },
   "active": "156f5d302f985a1b",
   "lastOpenFiles": [
-    "Personal/Writing/Stories/Short Stories/Fools Gold/Draft 1.md",
     "Configs/Looms/Personal Budget.loom",
+    "Configs/Looms/Budget with less expenses.loom",
+    "Personal/Writing/Stories/Short Stories/Fools Gold/Draft 1.md",
     "Trash/Computer Rebuild 1.md",
     "Trash/Installed on each computer.md",
     "Personal/Jon Money.md",
