@@ -27,10 +27,10 @@
             "state": {
               "type": "dataloom",
               "state": {
-                "file": "Configs/Looms/Untitled.loom"
+                "file": "Configs/Looms/Personal Budget.loom"
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "Personal Budget"
             }
           }
         ],
@@ -145,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Configs/Looms/Untitled.loom",
+                "file": "Configs/Looms/Personal Budget.loom",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +155,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Untitled"
+              "title": "Backlinks for Personal Budget"
             }
           },
           {
@@ -164,12 +164,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Configs/Looms/Untitled.loom",
+                "file": "Configs/Looms/Personal Budget.loom",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Untitled"
+              "title": "Outgoing links from Personal Budget"
             }
           },
           {
@@ -207,13 +207,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Configs/Looms/Untitled.loom",
+                "file": "Configs/Looms/Personal Budget.loom",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Untitled"
+              "title": "Outline of Personal Budget"
             }
           }
         ]
@@ -262,10 +262,10 @@
       "notebook-navigator:Notebook Navigator": false
     }
   },
-  "active": "0e309ffc4b0f3de9",
+  "active": "156f5d302f985a1b",
   "lastOpenFiles": [
     "Personal/Writing/Stories/Short Stories/Fools Gold/Draft 1.md",
-    "Configs/Looms/Untitled.loom",
+    "Configs/Looms/Personal Budget.loom",
     "Trash/Computer Rebuild 1.md",
     "Trash/Installed on each computer.md",
     "Personal/Jon Money.md",
