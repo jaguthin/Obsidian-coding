@@ -13,9 +13,9 @@ Be moved and out of Debt by 08/12/2030
 
 2026 - Aug 12
 	- Take out 401K loan and pay off ( Full amount available )
-		- Car - Pay Off
-		-  Current 401K Loan - Pay Off
-		- A/C - Pay Off
+		- ~~Car - Pay Off~~
+		-  ~~Current 401K Loan - Pay Off~~
+		- ~~A/C - Pay Off~~
 		- Pay Down HELOC
 		- If shed is needed, replace. 
 		- Only HELOC and 401K loan will be billed.

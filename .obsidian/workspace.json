@@ -13,15 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Personal/Game Notes/Fallout/Fallout 1.md",
-                "mode": "preview",
+                "file": "Personal/Writing/Stories/Short Stories/Fools Gold/Draft 1.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Fallout 1"
+              "title": "Draft 1"
+            }
+          },
+          {
+            "id": "0e309ffc4b0f3de9",
+            "type": "leaf",
+            "state": {
+              "type": "dataloom",
+              "state": {
+                "file": "Configs/Looms/Untitled.loom"
+              },
+              "icon": "lucide-file",
+              "title": "Untitled"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -132,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Personal/Game Notes/Fallout/Fallout 1.md",
+                "file": "Configs/Looms/Untitled.loom",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +155,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Fallout 1"
+              "title": "Backlinks for Untitled"
             }
           },
           {
@@ -151,12 +164,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Personal/Game Notes/Fallout/Fallout 1.md",
+                "file": "Configs/Looms/Untitled.loom",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Fallout 1"
+              "title": "Outgoing links from Untitled"
             }
           },
           {
@@ -194,13 +207,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Personal/Game Notes/Fallout/Fallout 1.md",
+                "file": "Configs/Looms/Untitled.loom",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Fallout 1"
+              "title": "Outline of Untitled"
             }
           }
         ]
@@ -249,16 +262,29 @@
       "notebook-navigator:Notebook Navigator": false
     }
   },
-  "active": "c1f7bde14d7a8054",
+  "active": "0e309ffc4b0f3de9",
   "lastOpenFiles": [
-    "Personal/Books/Indhira out of school..md",
+    "Personal/Writing/Stories/Short Stories/Fools Gold/Draft 1.md",
+    "Configs/Looms/Untitled.loom",
+    "Trash/Computer Rebuild 1.md",
+    "Trash/Installed on each computer.md",
+    "Personal/Jon Money.md",
+    "Personal/PW.md",
+    "Personal/Task Management.md",
+    "Personal/Task List.md",
+    "Personal/To Pack.md",
+    "Personal/To Save Money.md",
+    "Personal/Financial Plan.md",
+    "Personal/Indhira out of school..md",
+    "Personal/The Future/Bug out car needs.md",
+    "Personal/Household/Stuff to get done.sync-conflict-20251230-140939-SSMWXWK.md",
+    "Personal/Household/Stuff to get done.sync-conflict-20251230-135538-SSMWXWK.md",
+    "Personal/The Future/Equipment that I want.md",
+    "Personal/The Future/Procedure.md",
+    "Personal/The Future/What I owe Myself/Games - 50 ( See if I can get this to 25 ) - Digital does not count..md",
     "Personal/Game Notes/Fallout/Fallout 1.md",
     "Personal/Game Notes/Fallout",
     "Personal/Game Notes",
-    "Personal/The Future/What I owe Myself/Games - 50 ( See if I can get this to 25 ) - Digital does not count..md",
-    "Personal/The Future/Bug out car needs.md",
-    "Personal/The Future/Equipment that I want.md",
-    "Personal/The Future/Procedure.md",
     "Personal/The Future/What I owe Myself/February.loom",
     "Personal/The Future/What I owe Myself/Paid/2026/January.loom",
     "Personal/Finance & Age Goals/For the kids.md",
@@ -268,25 +294,11 @@
     "Configs/Looms/How much money is needed each month.loom",
     "Configs/Looms/R2-D2.loom",
     "Configs/Looms/Quotes.loom",
-    "Configs/Looms/Jon Money.loom",
     "Personal/Kickstart Stuff/Kickstart Stuff.md",
-    "Personal/Writing/Stories/Short Stories/Fools Gold/Draft 1.md",
     "Personal/Writing/Stories/Short Stories/The Survivalist/Index.md",
     "Personal/Writing/Stories/Fools Gold.md",
     "Personal/Learning/Languages/Spanish.md",
     "Personal/Learning/Languages/German.md",
-    "Personal/Learning/Blender/Blender Course.md",
-    "Personal/Learning/Programming/Python/100 Days of Pytthon/053 - Capstone - Scraping Data for Apartment Listings..md",
-    "Personal/Learning/Programming/Python/100 Days of Pytthon/001-050/025 - CSV Data and the Pandas library..md",
-    "Personal/Learning/Programming/Python/100 Days of Pytthon/001-050/027 - args, kwargs and tkinter gui programming.md",
-    "Personal/Learning/Programming/Python/100 Days of Pytthon/001-050/026 - List and Dictionary comprehension and the Nato Alphabet.md",
-    "Personal/Learning/Game Development/Godot/Key Bindings.md",
-    "Personal/Learning/Programming/Python/100 Days of Pytthon/001-050/010 - Functions with Output.md",
-    "Personal/Learning/Programming/Python/100 Days of Pytthon/001-050/009 - Dictionaries and nesting.md",
-    "Personal/Learning/Programming/Python/100 Days of Pytthon/001-050/007 - Hangman.md",
-    "Personal/Learning/Programming/Python/100 Days of Pytthon/001-050/011 - Blackjack.md",
-    "Personal/Learning/Programming/Python/100 Days of Pytthon/001-050/014 - Higher or Lower game..md",
-    "Personal/Learning/Programming/Python/100 Days of Pytthon/001-050/018 - Turtle graphics, tuples and importing modules.md",
     "Untitled.canvas",
     "Personal/Projects/Models to Build/More Info/Banshee.canvas",
     "Personal/Projects/Models to Build/More Info/Calvin & Hobbes on sled.canvas",
