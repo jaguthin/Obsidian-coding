@@ -19,3 +19,7 @@
 18. Castle Panic
 19. Grackles
 20. 21 Days
+21. Wabbit's Revenge
+22. Wabbit Wampage
+23. Wings of Glory
+24. 
