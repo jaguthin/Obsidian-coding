@@ -33,4 +33,10 @@
 32. Tiny Epic Mechs
 33. Tiny Epic Kingdoms
 34. Tiny Epic Zombies
-35. 
+35. Trailer Park Life
+36. Redneck Wars
+37. House of Danger
+38. Puzzle Dungeon
+39. 8 Bit Dungeon
+40. Don't go in there. 
+41. 
