@@ -39,4 +39,6 @@
 38. Puzzle Dungeon
 39. 8 Bit Dungeon
 40. Don't go in there. 
-41. 
+41. Boss Monster
+42. Exploding Kittens
+43. 
