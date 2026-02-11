@@ -10,27 +10,27 @@
 9. Firefly Monopoly
 10. Hako Ono
 11. <font color="#2DC26B">Chess</font>
-12.<font color="#2DC26B"> Othello</font>
-12. <font color="#2DC26B">Go</font>
-13.<font color="#2DC26B"> Scrabble</font>
-13. <font color="#2DC26B">Mancala</font>
-14. Firefly Clue
-15. Castle Panic
-16. Grackles
-17. 21 Days
-18. Wabbit's Revenge
-19. Wabbit Wampage
-20. Wings of Glory
-21. Wreckland Run
-22. Zombicide II
-23. Backgammon
-24. Tiny Epic Dinosaurs
-25. Thunder Road
-26. Red Dragon Inn
-27. Tiny Epic Dungeons
-28. Paleo
-29. Tiny Epic Galaxies
-30. Tiny Epic Mechs
-31. Tiny Epic Kingdoms
-32. Tiny Epic Zombies
-33. 
+12. <font color="#2DC26B"> Othello</font>
+13. <font color="#2DC26B">Go</font>
+14. <font color="#2DC26B"> Scrabble</font>
+15. <font color="#2DC26B">Mancala</font>
+16. Firefly Clue
+17. Castle Panic
+18. Grackles
+19. 21 Days
+20. Wabbit's Revenge
+21. Wabbit Wampage
+22. <font color="#2DC26B"> Wings of Glory</font>
+23. Wreckland Run
+24. Zombicide II
+25. <font color="#2DC26B">Backgammon</font>
+26. Tiny Epic Dinosaurs
+27. Thunder Road
+28. Red Dragon Inn
+29. Tiny Epic Dungeons
+30. Paleo
+31. Tiny Epic Galaxies
+32. Tiny Epic Mechs
+33. Tiny Epic Kingdoms
+34. Tiny Epic Zombies
+35. 
