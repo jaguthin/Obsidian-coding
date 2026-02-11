@@ -21,12 +21,12 @@
 20. <font color="#2DC26B"> Wabbit's Revenge</font>
 21. <font color="#2DC26B">Wabbit Wampage</font>
 22. <font color="#2DC26B"> Wings of Glory</font>
-23. Wreckland Run
-24. Zombicide II
+23. Wreckland Run - Going Away
+24. Zombicide II - Not sure
 25. <font color="#2DC26B">Backgammon</font>
 26. Tiny Epic Dinosaurs
-27. Thunder Road
-28. Red Dragon Inn
+27. Thunder Road - Going Away
+28. Red Dragon Inn - Going Away
 29. Tiny Epic Dungeons
 30. Paleo
 31. Tiny Epic Galaxies
@@ -35,10 +35,10 @@
 34. Tiny Epic Zombies
 35. Trailer Park Life
 36. Redneck Wars
-37. House of Danger
-38. Puzzle Dungeon
+37. House of Danger - Going Away
+38. Puzzle Dungeon  
 39. 8 Bit Dungeon
-40. Don't go in there. 
+40. Don't go in there.  - Going Away
 41. Boss Monster
 42. Exploding Kittens
 43. Netrunner
