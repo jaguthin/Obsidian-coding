@@ -41,4 +41,4 @@
 40. Don't go in there. 
 41. Boss Monster
 42. Exploding Kittens
-43. 
+43. Netrunner
