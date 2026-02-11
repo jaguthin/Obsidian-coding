@@ -25,14 +25,12 @@
             "id": "0e309ffc4b0f3de9",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "dataloom",
               "state": {
-                "file": "Personal/The Future/What I owe Myself/Games - 50 ( See if I can get this to 25 ) - Digital does not count..md",
-                "mode": "source",
-                "source": false
+                "file": "Personal/The Future/What I owe Myself/February.loom"
               },
               "icon": "lucide-file",
-              "title": "Games - 50 ( See if I can get this to 25 ) - Digital does not count."
+              "title": "February"
             }
           }
         ],
@@ -147,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Personal/The Future/What I owe Myself/Games - 50 ( See if I can get this to 25 ) - Digital does not count..md",
+                "file": "Personal/The Future/What I owe Myself/February.loom",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +155,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Games - 50 ( See if I can get this to 25 ) - Digital does not count."
+              "title": "Backlinks for February"
             }
           },
           {
@@ -166,12 +164,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Personal/The Future/What I owe Myself/Games - 50 ( See if I can get this to 25 ) - Digital does not count..md",
+                "file": "Personal/The Future/What I owe Myself/February.loom",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Games - 50 ( See if I can get this to 25 ) - Digital does not count."
+              "title": "Outgoing links from February"
             }
           },
           {
@@ -209,13 +207,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Personal/The Future/What I owe Myself/Games - 50 ( See if I can get this to 25 ) - Digital does not count..md",
+                "file": "Personal/The Future/What I owe Myself/February.loom",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Games - 50 ( See if I can get this to 25 ) - Digital does not count."
+              "title": "Outline of February"
             }
           }
         ]
@@ -266,6 +264,7 @@
   },
   "active": "0e309ffc4b0f3de9",
   "lastOpenFiles": [
+    "Personal/The Future/What I owe Myself/Games - 50 ( See if I can get this to 25 ) - Digital does not count..md",
     "Configs/Looms/Budget with less expenses.loom",
     "Configs/Looms/Personal Budget.loom",
     "Personal/Writing/Stories/Short Stories/Fools Gold/Draft 1.md",
@@ -284,7 +283,6 @@
     "Personal/Household/Stuff to get done.sync-conflict-20251230-135538-SSMWXWK.md",
     "Personal/The Future/Equipment that I want.md",
     "Personal/The Future/Procedure.md",
-    "Personal/The Future/What I owe Myself/Games - 50 ( See if I can get this to 25 ) - Digital does not count..md",
     "Personal/Game Notes/Fallout/Fallout 1.md",
     "Personal/Game Notes/Fallout",
     "Personal/Game Notes",
@@ -296,7 +294,6 @@
     "Configs/Looms/Fiancial Spreadsheet.loom",
     "Configs/Looms/How much money is needed each month.loom",
     "Configs/Looms/R2-D2.loom",
-    "Configs/Looms/Quotes.loom",
     "Personal/Kickstart Stuff/Kickstart Stuff.md",
     "Personal/Writing/Stories/Short Stories/The Survivalist/Index.md",
     "Personal/Writing/Stories/Fools Gold.md",

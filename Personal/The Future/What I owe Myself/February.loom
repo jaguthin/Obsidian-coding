@@ -108,7 +108,7 @@
         "index": 0,
         "sourceId": null,
         "creationDateTime": "2026-01-06T00:31:43.445Z",
-        "lastEditedDateTime": "2026-02-10T13:35:43.687Z",
+        "lastEditedDateTime": "2026-02-11T12:12:14.580Z",
         "cells": [
           {
             "id": "086d128d-6ea7-4798-9ca1-36993bcdde89",
@@ -125,13 +125,13 @@
           {
             "id": "b4f50e7b-1d39-4756-b55d-204f71b25b63",
             "columnId": "b94c11e7-ceba-43ea-91b4-98e48cb12535",
-            "content": "",
+            "content": "Amazon -Stone wall corner covers.",
             "hasValidFrontmatter": null
           },
           {
             "id": "3770f0f6-5ee3-468d-b9df-12d2321946cb",
             "columnId": "e219c2c4-0936-4601-a266-5db0ee03b8c8",
-            "value": null,
+            "value": 79.99,
             "hasValidFrontmatter": null
           }
         ]
