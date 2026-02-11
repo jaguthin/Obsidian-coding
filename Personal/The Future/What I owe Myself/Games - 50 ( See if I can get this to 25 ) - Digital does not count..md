@@ -43,3 +43,6 @@
 42. Exploding Kittens
 43. Netrunner
 44. Payday
+45. Forbidden Desert
+46. Forbidden Island
+47. 
