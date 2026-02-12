@@ -22,27 +22,26 @@
 21. <font color="#2DC26B">Wabbit Wampage</font>
 22. <font color="#2DC26B"> Wings of Glory</font>
 23. Wreckland Run - Going Away
-24. Zombicide II - Not sure
-25. <font color="#2DC26B">Backgammon</font>
-26. Tiny Epic Dinosaurs
-27. Thunder Road - Going Away
-28. Red Dragon Inn - Going Away
-29. Tiny Epic Dungeons
-30. Paleo
-31. Tiny Epic Galaxies
-32. Tiny Epic Mechs
-33. Tiny Epic Kingdoms
-34. Tiny Epic Zombies
-35. Trailer Park Life
-36. Redneck Wars
-37. House of Danger - Going Away
-38. Puzzle Dungeon  
-39. 8 Bit Dungeon
-40. Don't go in there.  - Going Away
-41. Boss Monster
-42. Exploding Kittens
-43. Netrunner
-44. Payday
-45. Forbidden Desert
-46. Forbidden Island
-47. 
+24. <font color="#2DC26B">Backgammon</font>
+25. Tiny Epic Dinosaurs
+26. Thunder Road - Going Away
+27. Red Dragon Inn - Going Away
+28. Tiny Epic Dungeons
+29. Paleo
+30. Tiny Epic Galaxies
+31. Tiny Epic Mechs
+32. Tiny Epic Kingdoms
+33. Tiny Epic Zombies
+34. Trailer Park Life
+35. Redneck Wars
+36. House of Danger - Going Away
+37. Puzzle Dungeon  
+38. 8 Bit Dungeon
+39. Don't go in there.  - Going Away
+40. Boss Monster
+41. Exploding Kittens
+42. Netrunner
+43. Payday
+44. Forbidden Desert
+45. Forbidden Island
+46. Village Crone
