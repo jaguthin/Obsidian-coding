@@ -45,3 +45,5 @@
 44. Forbidden Desert
 45. Forbidden Island
 46. Village Crone
+47. Monster Slaughter
+48. Survival of the Fattest
