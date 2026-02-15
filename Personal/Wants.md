@@ -18,16 +18,18 @@
 - Babylon Five - Disk
 - Twin Peaks - Disk
 - Outside reading chaise lounge with covering
+- Animal Kingdom - Series Disk.
 
 ###### Books
-- Watership Down - Electronic
-- Tales of Watership Down - Electronic
-- The Broken Empire Series - Mark Lawrence
-- The Broken Earth Trilogy - M.K. Jemisin
-- Dinky Hocker Shoots Smack
-- Battlefield Earth
-- Amazing Spiderman Masterworks 27
-- Mobility
-- Songs from the Drowned Lands
+- Watership Down - Kobo - On wishlist
+- Tales of Watership Down - Kobo - On wishlist
+- The Broken Empire Series - Mark Lawrence - Kobo - On wishlist
+- The Broken Earth Trilogy - M.K. Jemisin - Kobo - On wishlist
+- Dinky Hocker Shoots Smack - Kobo - On wishlist
+- Battlefield Earth - Kobo - On wishlist
+- Amazing Spiderman Masterworks 27 - Kobo - On wishlist
+- Mobility - Kobo - On Wishlist
+- Songs from the Drowned Lands - Ebay
 ###### Other Stuff
 - Chuwi - 2 in 1 laptop
+- G(IDLE) CD with Queen Card on it. 
