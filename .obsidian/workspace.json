@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian Configuration/Configuration.md",
+                "file": "Configs/Attachments/Attachments.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Configuration"
+              "title": "Attachments"
             }
           }
         ]
@@ -66,16 +66,6 @@
             }
           },
           {
-            "id": "efdc250f13658e67",
-            "type": "leaf",
-            "state": {
-              "type": "VIEW_TYPE_LONGFORM_EXPLORER",
-              "state": {},
-              "icon": "longform",
-              "title": "Longform"
-            }
-          },
-          {
             "id": "3c800a20ddc47da7",
             "type": "leaf",
             "state": {
@@ -86,7 +76,7 @@
             }
           },
           {
-            "id": "2636bdae8f9ce265",
+            "id": "5cd9420af84516bf",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -95,8 +85,7 @@
               "title": "Navigator"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       },
       {
         "id": "4766fe3f4e63ade5",
@@ -127,16 +116,6 @@
         "id": "9ac170e7a1162c20",
         "type": "tabs",
         "children": [
-          {
-            "id": "dfad496dbb2fc8b6",
-            "type": "leaf",
-            "state": {
-              "type": "notebook-navigator-calendar",
-              "state": {},
-              "icon": "notebook-navigator",
-              "title": "Calendar"
-            }
-          },
           {
             "id": "a7617210a78ff68f",
             "type": "leaf",
@@ -210,8 +189,19 @@
               "icon": "lucide-list",
               "title": "Outline"
             }
+          },
+          {
+            "id": "912d796f6c82fdd8",
+            "type": "leaf",
+            "state": {
+              "type": "tenki",
+              "state": {},
+              "icon": "sun",
+              "title": "Tenki"
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       },
       {
         "id": "d3680a54c182aa75",
@@ -228,6 +218,22 @@
             }
           }
         ]
+      },
+      {
+        "id": "666b32c1a49728a5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7b728eec031cf8f9",
+            "type": "leaf",
+            "state": {
+              "type": "notebook-navigator-calendar",
+              "state": {},
+              "icon": "notebook-navigator",
+              "title": "Calendar"
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
@@ -235,29 +241,22 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "bases:Create new base": false,
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "workspaces:Manage workspace layouts": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "notion-like-tables:Create loom": false,
-      "obsidian-excalidraw-plugin:New drawing": false,
-      "github-sync:Sync with Remote": false,
-      "print:Print note": false,
-      "rpg-manager:RPG Manager": false,
-      "widgets:Add widget": false,
-      "omnisearch:Omnisearch": false,
-      "fantasy-content-generator:Fantasy Generators": false,
-      "simple-dice-roller:Average all dice": false,
-      "obsidian-leaflet-plugin:Open Leaflet Map": false,
-      "notebook-navigator:Notebook Navigator": false,
-      "obsidian-book-search-plugin:Create new book note": false,
-      "templater-obsidian:Templater": false,
-      "callout-manager:Insert Callout": false,
+      "bases:Create new base": true,
+      "switcher:Open quick switcher": true,
+      "graph:Open graph view": true,
+      "canvas:Create new canvas": true,
+      "daily-notes:Open today's daily note": true,
+      "templates:Insert template": true,
+      "command-palette:Open command palette": true,
+      "workspaces:Manage workspace layouts": true,
+      "table-editor-obsidian:Advanced Tables Toolbar": true,
+      "notion-like-tables:Create loom": true,
+      "obsidian-excalidraw-plugin:New drawing": true,
+      "print:Print note": true,
+      "omnisearch:Omnisearch": true,
+      "notebook-navigator:Notebook Navigator": true,
+      "templater-obsidian:Templater": true,
+      "callout-manager:Insert Callout": true,
       "start-page:Open start page": false
     }
   },
@@ -310,14 +309,10 @@
                 "id": "38541b6b1052647a",
                 "type": "leaf",
                 "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Home Folder/Home Page.md",
-                    "mode": "preview",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Home Page"
+                  "type": "start-page-view",
+                  "state": {},
+                  "icon": "home",
+                  "title": "Start page"
                 }
               }
             ]
@@ -333,12 +328,14 @@
       }
     ]
   },
-  "active": "d9f47989f4fa4a78",
+  "active": "156f5d302f985a1b",
   "lastOpenFiles": [
+    "Configs/Attachments/Painting reference/Painting reference.md",
+    "Configs/Attachments/Attachments.md",
+    "Home Folder/Home Page.md",
     "Home Folder/Book List.base",
     "Journal/2026/02/Feb 16.md",
     "Journal/2026/02",
-    "Home Folder/Home Page.md",
     "Personal/Campaigns/Threa.md",
     "Personal/Campaigns/Campaigns.md",
     "Personal/Reading/Books I have read/Older/What the Hell Did I Just Read.md",
@@ -365,7 +362,6 @@
     "Personal/Reading/Books I have read/2025/Fascinate.md",
     "Personal/Reading/Books I have read/2025/The Charisma Myth.md",
     "Personal/Reading/Books I have read/2025/Turtles all the Way Down.md",
-    "Personal/Reading/Books I have read/2025/The Ghostly Tales of Amherst New Hampshire.md",
     "Configs/Attachments/Books/30 Days of Worldbuilding.jpg",
     "Obsidian Configuration",
     "Personal/Miscellaneous",

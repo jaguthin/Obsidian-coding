@@ -1,9 +1,0 @@
-{
-	"nodes":[
-		{"id":"3b4fc81b96ef9225","type":"file","file":"Configs/Attachments/Painting reference/ship.jpeg","x":-220,"y":-466,"width":400,"height":281},
-		{"id":"76031a5b03b7768d","type":"file","file":"Configs/Attachments/Painting reference/shooting.png","x":-220,"y":-100,"width":400,"height":368},
-		{"id":"9500e566279129c4","type":"file","file":"Configs/Attachments/Painting reference/face closeup.png","x":260,"y":-440,"width":400,"height":229},
-		{"id":"b7593ffd0a4d3f0c","type":"file","file":"Configs/Attachments/Painting reference/standing.png","x":260,"y":-132,"width":323,"height":400}
-	],
-	"edges":[]
-}

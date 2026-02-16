@@ -5,7 +5,6 @@
       "name": "Default",
       "fileVisibility": "supported",
       "hiddenFolders": [
-        "/Configs",
         "/Tags"
       ],
       "hiddenTags": [],
@@ -14,12 +13,7 @@
       "hiddenFileProperties": [],
       "navigationBanner": null,
       "periodicNotesFolder": "",
-      "shortcuts": [
-        {
-          "type": "folder",
-          "path": "Personal/Reading"
-        }
-      ]
+      "shortcuts": []
     }
   ],
   "vaultProfile": "default",
@@ -379,37 +373,10 @@
   "fileIcons": {},
   "fileColors": {},
   "folderIcons": {
-    "Journal": "bootstrap-icons:journal-album",
-    "Personal": "emoji:💻",
     "Configs": "settings",
-    "Configs/Archived": "archive",
-    "Configs/Attachments": "material-icons:attachment",
-    "Configs/Looms": "simple-icons:loom",
-    "Configs/Tasks": "material-icons:task",
-    "Configs/Templates": "layout-template",
-    "Configs/Templates/Journal": "layout-template",
-    "Journal/2026": "emoji:📅",
-    "Journal/2025": "emoji:📅",
-    "Personal/Learning/Programming/Python": "simple-icons:python",
-    "Personal/Learning/Programming/Python/100 Days of Pytthon": "simple-icons:python",
-    "Personal/Learning/Programming/Python/100 Days of Pytthon/001-050": "simple-icons:python",
-    "Personal/Learning/Languages/German": "emoji:🇩🇪",
-    "Personal/Learning/Languages/Spanish": "emoji:🇪🇸",
-    "Personal/Learning/Languages": "languages",
-    "Personal/Learning/Programming": "square-code",
-    "Personal/Campaigns": "material-icons:campaign",
-    "Personal/Finance & Age Goals": "emoji:📡",
-    "Configs/Lists": "list",
-    "Personal/Reading/Banned Books/Books": "emoji:📒"
+    "Configs/Attachments": "material-icons:attachment"
   },
-  "folderColors": {
-    "Journal": "#14b8a6",
-    "Personal": "#64748b",
-    "Journal/2025": "#14b8a6",
-    "Personal/Learning/Programming/Python": "#22c55e",
-    "Personal/Learning/Programming/Python/100 Days of Pytthon": "#22c55e",
-    "Personal/Learning/Programming/Python/100 Days of Pytthon/001-050": "#22c55e"
-  },
+  "folderColors": {},
   "folderBackgroundColors": {},
   "folderSortOverrides": {
     "/": "modified-desc"

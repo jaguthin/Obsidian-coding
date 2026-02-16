@@ -45,7 +45,10 @@
     "//Personal/Personal/Reading/Personal/Reading/Books I have read/Personal/Reading/Books I have read/2025",
     "//Configs/Configs/Templates",
     "//Home Folder",
-    "//Obsidian Configuration"
+    "//Obsidian Configuration",
+    "//Configs",
+    "//Configs/Configs/Archived",
+    "//Configs/Configs/Lists"
   ],
   "expandFolderOnClick": true,
   "spacesFolder": "Tags",
@@ -80,7 +83,7 @@
   "enableDefaultSpaces": true,
   "showSpacePinIcon": true,
   "experimental": false,
-  "systemName": "Vault",
+  "systemName": "Coding",
   "defaultSpaceTemplate": "",
   "selectedKit": "default",
   "actionMaxSteps": 100,

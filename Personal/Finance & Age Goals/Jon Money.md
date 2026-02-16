@@ -1,3 +1,0 @@
-
-![[Jon Money.loom]]
-

@@ -1,7 +1,0 @@
-{
-	"nodes":[
-		{"id":"b64dafb59875e229","type":"file","file":"Configs/Attachments/Painting reference/Calvin_And_Hobbes-Snow_Day.webp","x":-520,"y":-460,"width":400,"height":263},
-		{"id":"d63c5dac35f02276","type":"file","file":"Configs/Attachments/Painting reference/drzklr-fd705339-9779-4774-8293-9d0f6cf6e3be.png","x":-60,"y":-460,"width":400,"height":300}
-	],
-	"edges":[]
-}
