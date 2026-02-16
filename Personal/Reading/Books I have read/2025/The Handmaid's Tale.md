@@ -18,7 +18,7 @@ description: "** THE SUNDAY TIMES NO. 1 BESTSELLER ** Discover the dystopian nov
 Read or Listened: Read
 DateRead: 2025-07-02
 tags:
-  - 📚Book
+  - Books
 status: Read
 ---
 

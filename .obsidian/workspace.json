@@ -25,13 +25,14 @@
             "id": "8bd7c13eb4035ebe",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "markdown",
               "state": {
-                "file": "Bases/Book List.base",
-                "viewName": "2026"
+                "file": "Personal/PW.md",
+                "mode": "preview",
+                "source": false
               },
-              "icon": "lucide-layout-grid",
-              "title": "Book List"
+              "icon": "lucide-file",
+              "title": "PW"
             }
           }
         ],
@@ -109,7 +110,8 @@
               "title": "Navigator"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       },
       {
         "id": "4766fe3f4e63ade5",
@@ -408,9 +410,25 @@
       }
     ]
   },
-  "active": "8bd7c13eb4035ebe",
+  "active": "3c800a20ddc47da7",
   "lastOpenFiles": [
+    "Personal/Miscellaneous/Wants.md",
+    "Personal/Miscellaneous",
+    "Personal/Education/Unity.md",
+    "Personal/Finance & Age Goals/To Save Money.md",
+    "Personal/Finance & Age Goals/To Pack.md",
+    "Personal/Task List.md",
+    "Personal/Education/Task Management.md",
+    "Personal/Finance & Age Goals/Jon Money.md",
+    "Bases/Book List.base",
+    "Personal/Education",
+    "Personal/Projects/Coffee House - Still to do.md",
+    "Personal/Reading/Books I have read/2026/Something Wicked This Way Comes.md",
+    "Personal/Reading/Books I have read/2026/Uncle Tom's Cabin.md",
+    "Personal/Reading/Books I have read/2026/The Munckin's Guide to Power Gaming.md",
     "Personal/Reading/Books I have read/2026/Heartwood.md",
+    "Personal/Reading/Books I have read/2026/Reading Robert Holdstock's Mythago Novels.md",
+    "Configs/Attachments/Books/Heartwood.jpg",
     "Personal/Reading/Books I have read/Slaughterhouse-Five.md",
     "Configs/Templates/Books.md",
     "Configs/Templates/New Books.md",
@@ -426,36 +444,20 @@
     "Configs/Attachments/Banners/banner_oldbooks2-e1329523813604.jpg",
     "Configs/Attachments/Painting reference/71nbFoLB3DL._AC_SL1500_.jpg",
     "Configs/Attachments/Books/Slaughterhouse-Five.jpg",
-    "Personal/Reading/Books I have read/2026/Something Wicked This Way Comes.md",
     "Configs/Attachments/Painting reference/Calvin_And_Hobbes-Snow_Day.webp",
     "Configs/Attachments/Painting reference/standing.png",
     "Configs/Attachments/Painting reference/shooting.png",
     "Configs/Attachments/Painting reference/th-2339337808.jpg",
     "Configs/Attachments/Painting reference/vlcsnap-2023-09-21-17h10m30s866.png",
-    "Configs/Attachments/Painting reference/vlcsnap-2023-09-21-17h15m59s081.png",
     "Configs/Attachments/Painting reference/Painting reference.md",
     "Configs/Attachments/Attachments.md",
     "Configs/Attachments/Painting reference",
-    "Configs/Attachments/Banners/Banners.md",
     "Configs/Attachments/Banners",
     "Tags",
-    "Configs/Templates/Journal/Daily.md",
-    "Bases/Book List.base",
-    "Personal/Reading/Books I have read/2025/Do the Creepy Thing.md",
-    "Personal/Reading/Books I have read/2025/An Abundance of Katherines.md",
-    "Personal/Reading/Books I have read/2025/Secluded Cabin Sleeps Six.md",
-    "Personal/Reading/Books I have read/2025/King Sorrow.md",
-    "Personal/Reading/Books I have read/2025/Firefly - Life Signs.md",
-    "Personal/Reading/Books I have read/2025/Fascinate.md",
     "Configs/Looms/R2-D2.loom",
     "Configs/Attachments/Painting Reference",
     "Configs/Looms/Personal Budget.loom",
-    "Personal/Bills and Income.loom",
-    "Personal/Finance & Age Goals/For the kids.md",
-    "Personal/Finance & Age Goals/Financial Goals.md",
-    "Personal/Writing/Stories/Short Stories/Fools Gold/Draft 1.md",
-    "Personal/Reading/Banned Books/Books/Banned Books.loom",
-    "Personal/Reading/Banned Books",
+    "Personal/Finance & Age Goals/Bills and Income.loom",
     "Untitled.canvas",
     "Personal/Projects/Models to Build/More Info/Banshee.canvas",
     "Personal/Projects/Models to Build/More Info/Calvin & Hobbes on sled.canvas",

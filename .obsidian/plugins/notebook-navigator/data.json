@@ -4,7 +4,9 @@
       "id": "default",
       "name": "Default",
       "fileVisibility": "supported",
-      "hiddenFolders": [],
+      "hiddenFolders": [
+        "/Configs"
+      ],
       "hiddenTags": [],
       "hiddenFileNames": [],
       "hiddenFileTags": [],
@@ -130,7 +132,7 @@
   "springLoadedFoldersInitialDelay": 0.5,
   "springLoadedFoldersSubsequentDelay": 0.5,
   "showFolderIcons": true,
-  "showRootFolder": true,
+  "showRootFolder": false,
   "inheritFolderColors": true,
   "folderSortOrder": "alpha-asc",
   "inheritTagColors": true,
