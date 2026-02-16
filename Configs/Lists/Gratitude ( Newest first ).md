@@ -1,0 +1,438 @@
+---
+- Blender
+- Filipino Women
+- Heat
+- Running water
+- Tutorials
+- Tits
+- Plumbing
+- Heat
+- Books
+- Water
+- Blender
+- Jon
+- Getting the snow cleared.
+- Gatorade
+- My Glasses
+- Rose
+- Blender
+- Polygon Runway
+- Amy - Likely Fake ( I have to look up Lily Love - Probably a porn star. )
+- Emily - Also likely Fake
+- Suggestive selfies. 
+- Anna - So damn pretty with awesome lips.
+- Online tutorials.
+- Games
+- Beautiful women that invoke desire. 
+- Polygon Runway.
+- Learning to slow down. 
+- Learning about oneself. 
+- Tits
+- Lawyers with teeth. 
+- Blender
+- Tutorials
+- Alexandra Gater
+- Joe Hill
+- A good book
+- A good appraisal.
+- Change
+- Water ( Drinking )
+- Understanding
+- Cleavage
+- Tits
+- Women that do not mind that you look.
+- Gratitude
+- Gatorade
+- Paper
+- Toast
+- Eggs
+- Coffee
+- Precious - Weird that that is her name. 
+- Coffee
+- Quickly going into an appointment.
+- Honesty
+- Cleaning
+- Progress
+- Being Alive
+- Albina again
+- Honesty
+- A clean garage. 
+- A usb extender. 
+- A calculator
+- Power Tools
+- Cleaning Up.
+- Albina - One more time.   I can't shake the feeling that I am being played but she looks so fucking pretty.  
+- Venco
+- Cherie Dimaline
+- Joe King
+- Albina again.  So sweet her lips and skin. I want to taste them.
+- Cancelled appointments. 
+- Letting a cat out of a carrier so she will shut up.
+- Progress
+- Hot Chocolate
+- Free food
+- Albina
+- Computer that do not freeze.
+- KDE
+- Dorcas
+- Water
+- My Glasses
+- Michael Cudlitz
+- Flavored Coffee
+- Put together furniture. 
+- Band of Brothers
+- The Pacific
+- Pizza
+- Good credit
+- Loans
+- A car that I can rely on. 
+- Igho
+- BBQ Burger
+- Cravings
+- Emptying the shed
+- Cafe Francais
+- Showers
+- Potential
+- Paying stuff off.
+- Being able to see. 
+- Harley Quinn
+- Leaves
+- Cool nights and days. 
+- Fall
+- Halloween
+- Getting to take something off of my to-do list. 
+- Getting the house reorganized. 
+- Knocking stuff off of my to-do list.
+- Showers
+- Larissa
+- Jia
+- Kitty
+- Amy ( likely not real but still. )
+- Clear instructions.
+- Getting stuff done. 
+- Heat
+- Warm Showers
+- A clean yard
+- Jon
+- Allison
+- Indhira
+- Linh
+- The fact that I can handle financial crises when they come up. 
+- Air Conditioning. 
+- The Learn to Live website.
+- Adding books to the Banned Books list.
+- Reading
+- Cool air
+- Water
+- Cats
+- Walks
+- Sleep
+- Accomplishments. Finishing projects. 
+- Geckos
+- Quiet cats
+- Pillows
+- Books
+- Crafts
+- Paint
+- Wisdom
+- Blankets
+- Money
+- Godot
+- Blender
+- Coffee
+- Nail Trimmers
+- Glasses
+- Long Showers
+- Long slow blow jobs. 
+- Tits.
+- Pussy
+- Flights
+- Talking to Jon
+- Realizations
+- Minor accidents
+- Having options
+- Model kits
+- Sleep
+- Hiking
+- Camping
+- Minimal groceries.
+- Help. 
+- Learning new things. 
+- Meditation
+- Showers
+- Employment
+- Grass
+- Options
+- Lawn Mower
+- The Leaf Blower
+- My Car
+- Good Gas Mileage
+- Socks
+- Blankets
+- Pop Tarts
+- Godot
+- Blender
+- Linux 
+- New PCs
+- Learning
+- Orange Cream Popsicles.
+- Refrigerator
+- Slow mornings.
+- paper
+- Writing. 
+- Crafting
+- The Lake
+- A warm or cold car
+- Not being with the wrong person.
+- Making progress on a craft.
+- White glue. 
+- Unity
+- Simplicity
+- Finishing projects
+- Cat food
+- Attractive women that I want to see naked.
+- Riku, even though she is a pain in the ass. 
+- New Books.
+- Inspiration
+- Recycling
+- Rain 
+- Dollhouse furniture.
+- Gatorade.
+- Alice ( she is crazy gorgeous )
+- Linux
+- My Office
+- Dodging bullets.
+- Action Figures
+- Chess
+- Super Glue
+- Nicole
+- Alice
+- Diana
+- Getting blocked because of a misunderstanding. Another bullet dodged. 
+- Highways.
+- A reliable car. 
+- Having a job
+- Paying stuff off
+- Linux
+- Magdana
+- Laptops
+- Flavored coffee
+- We are flying to Florida
+- Chargers
+- Furniture
+- Sonia
+- Female beauty
+- Trees
+- Riku
+- Groceries
+- Keyboards
+- Strawberries
+- Blueberries
+- Beautiful blonde women
+- Learning
+- My mouse
+- Pop Tarts
+- Pizza
+- Alice Smith
+- Jalapeno Poppers
+- Pastrami
+- Vacations
+- Feeling seen
+- Water
+- Alice
+- House Boats
+- Potentially Meeting the Right Woman.
+- Being true to myself and not capitulating for a pretty face.
+- Rain
+- The comfort of my car.
+- Learning Unity.
+- Words.
+- My car.
+- Employment
+- The lake
+- My Driveway
+- WFH
+- General Mills Internation Coffee
+- Birthday Dinners
+- Repeated Gratitudes.
+- Not having thrown stuff out. 
+- No reason at all.
+- Tessy
+- Senegal
+- Beautiful black women. 
+- Walking
+- Showers
+- My House
+- Rust
+- Unity
+- Tovala
+- Iced Coffee
+- Ice Cubes
+- Cold Brew
+- Female hair
+- Long Showers
+- Blankets
+- Pillows
+- A Warm Bed
+- Plex
+- Blender
+- Music
+- Made Beds.
+- Grant Abbitt
+- Hot Chocolate
+- My Mug
+- Color
+- My chair
+- My computer(s)
+- Walks
+- Cats
+- Uncrustables
+- Real women
+- Monitors
+- Laptops
+- Loop cuts
+- extrusions
+- grab in blender. 
+- Female nudity
+- Learning how to reprogram shortcuts in linux.
+- Better browsers that do not freeze. 
+- Visiting Jon
+- Education
+- A new doctor
+- Rainy Days
+- Boats
+- Crafts
+- Starting the day off with gratitude.
+- Learning blender
+- Coffee
+- Sexual attraction
+- Hot Cocoa
+- Grits
+- The Heron
+- Our Lake
+- Getting a good picture
+- Blender Rendering
+- Trash Day
+- Mail order pharmacy
+- Investments
+- Hot Cocoa
+- Grits
+- Boats
+- The Ocean
+- Maybe seeing a whale. 
+- Not getting seasick.
+- Kung Pao Chicken.
+- Hanging out with a friend. 
+- Hot Cocoa
+- MakeMKV
+- Notebooks
+- Women that listen
+- Iced coffee
+- Putting stuff away and down sizing. 
+- Feeling Well
+- Working from Home
+- Blender tutorials. 
+- Walking
+- The Microwave
+- Hot Chocolate
+- Gatorade
+- Long Drives
+- Hamburgers
+- EggNog
+- Taquitos
+- Gasoline
+- Toilets
+- Pussy
+- Blankets at Night
+- Female Horniness - Even when it is not true. 
+- Wet Pussy
+- My dick in a pussy. 
+- Rain
+- Covers
+- Mugs
+- Nail cutting
+- Water
+- Paper
+- Video Calls
+- Long walks.
+- Naps
+- Long Walks
+- Peanut Butter
+- Kung Pao Chicken.
+- Boats
+- MakeMKV
+- My Glasses
+- Blender
+- Hot Chocolate
+- Hand Brake
+- Seeing Jon
+- Allie driving
+- McDonald's
+- Anyn
+- Beautiful women
+- Fantasizing
+- Annie
+- Asian women ( beautiful )
+- Iced coffee
+- Monica
+- Learning
+- Quesadillas
+- Pictures where you know the woman is naked and you can see just enough to get your imagination going. 
+- A clean yard.
+- Tasty warm beverage in the morning. 
+- Gatorade
+- Army Painter Marking Pens
+- Velcro
+- Random connections.
+- General Mills International Coffee
+- Ham and cheese croissants.
+- Water
+- My phone
+- Glasses
+- Ihgo
+- Quick delivery
+- Hot Chocolate
+- Jie ( even though she is too young, I really enjoy talking to her)
+- McDonald's coffee
+- Craft Projects.
+- Blender
+- Egg Nog
+- Pens
+- Realizations
+- Making progress toward goals.
+- Jia
+- Diana ( though not real, the pictures are very thirst inducing. If I ever met her, I would want to hold her tits in my hand while I stood behind her.  The pictures she shows show some amazing tits that look like they would be heavy and feel good in the hands. )
+- Rain
+- WFH
+- Gratitude
+- My yard
+- Books
+- Almost finished with a book. 
+- Iced Coffee
+- Breakfast sandwiches. 
+- Trees
+- Grass
+- My driveway
+- Paying stuff off
+- Fall ( Autumn )
+- Egg Nog
+- The No Kings Rally - The support was incredible. 
+- Blender
+- Learning
+- My kids, always. 
+- Mustard pretzels.
+- Movies.
+- Milk
+- Ovaltine
+- Pod Casts
+- Python
+- Natalia ( too young but so, so pretty )
+- Gaslands
+- Aaliya( too young but scrumptious tits )
+- Juice
+- Doing dishes by hand. 
+- Sleep. 
+- Pillows
+- Blankets
+
+

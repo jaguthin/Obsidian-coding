@@ -1,0 +1,5491 @@
+{
+  "model": {
+    "columns": [
+      {
+        "id": "ba6e4dc2-00af-46b2-8496-40bdfdd62a4d",
+        "sortDir": "default",
+        "isVisible": true,
+        "width": "191px",
+        "type": "text",
+        "numberPrefix": "",
+        "numberSuffix": "",
+        "numberSeparator": "",
+        "content": "Title",
+        "numberFormat": "number",
+        "currencyType": "USD",
+        "dateFormat": "mmddyyyy",
+        "dateFormatSeparator": "-",
+        "hour12": true,
+        "includeTime": false,
+        "shouldWrapOverflow": true,
+        "tags": [],
+        "calculationType": "count-all",
+        "aspectRatio": "unset",
+        "horizontalPadding": "unset",
+        "verticalPadding": "unset",
+        "frontmatterKey": null,
+        "multiTagSortDir": "default"
+      },
+      {
+        "id": "376ee6ff-1f3c-429a-b07d-50af7c162291",
+        "sortDir": "default",
+        "isVisible": true,
+        "width": "140px",
+        "type": "text",
+        "numberPrefix": "",
+        "numberSuffix": "",
+        "numberSeparator": "",
+        "content": "Author",
+        "numberFormat": "number",
+        "currencyType": "USD",
+        "dateFormat": "mmddyyyy",
+        "dateFormatSeparator": "-",
+        "hour12": true,
+        "includeTime": false,
+        "shouldWrapOverflow": true,
+        "tags": [],
+        "calculationType": "none",
+        "aspectRatio": "unset",
+        "horizontalPadding": "unset",
+        "verticalPadding": "unset",
+        "frontmatterKey": null,
+        "multiTagSortDir": "default"
+      },
+      {
+        "id": "0a224bd8-4575-453d-bee3-c8e01e9c49bb",
+        "sortDir": "default",
+        "isVisible": true,
+        "width": "140px",
+        "type": "checkbox",
+        "numberPrefix": "",
+        "numberSuffix": "",
+        "numberSeparator": "",
+        "content": "Read?",
+        "numberFormat": "number",
+        "currencyType": "USD",
+        "dateFormat": "mmddyyyy",
+        "dateFormatSeparator": "-",
+        "hour12": true,
+        "includeTime": false,
+        "shouldWrapOverflow": true,
+        "tags": [],
+        "calculationType": "none",
+        "aspectRatio": "unset",
+        "horizontalPadding": "unset",
+        "verticalPadding": "unset",
+        "frontmatterKey": null,
+        "multiTagSortDir": "default"
+      }
+    ],
+    "rows": [
+      {
+        "id": "df5caf3d-3b36-42b8-ba13-cd2dcc4bfd7d",
+        "index": 0,
+        "sourceId": null,
+        "creationDateTime": "2025-06-24T12:21:44.791Z",
+        "lastEditedDateTime": "2025-06-24T12:24:17.104Z",
+        "cells": [
+          {
+            "id": "fa9f481f-172d-44bf-9c69-3ee2f2c93169",
+            "columnId": "ba6e4dc2-00af-46b2-8496-40bdfdd62a4d",
+            "content": "Absolutely True Diary of a Part-Time Indian, The",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "88636a54-158a-46a6-818c-8d40da5bba23",
+            "columnId": "376ee6ff-1f3c-429a-b07d-50af7c162291",
+            "content": "Sherman Alexie",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "d2685656-f869-4e4c-bda7-80f48f7db1f7",
+            "columnId": "0a224bd8-4575-453d-bee3-c8e01e9c49bb",
+            "value": false,
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "19534f3c-556f-4792-acba-baa7990ff539",
+        "index": 1,
+        "sourceId": null,
+        "creationDateTime": "2025-06-24T12:24:18.739Z",
+        "lastEditedDateTime": "2025-06-24T12:24:43.938Z",
+        "cells": [
+          {
+            "id": "6e1780a6-1c79-4302-97a5-c7c73b11f7cd",
+            "columnId": "ba6e4dc2-00af-46b2-8496-40bdfdd62a4d",
+            "content": "A Stolen Life",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "8ad293b3-01c0-4a84-9416-f5bdcc7eb2fa",
+            "columnId": "376ee6ff-1f3c-429a-b07d-50af7c162291",
+            "content": "Jaycee Dugard",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "5d12cc4d-a4a5-4af5-9aac-2755f8936b68",
+            "columnId": "0a224bd8-4575-453d-bee3-c8e01e9c49bb",
+            "value": false,
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "c67eea6c-dc21-4ae2-a655-afbfffefaae0",
+        "index": 2,
+        "sourceId": null,
+        "creationDateTime": "2025-06-24T12:24:45.312Z",
+        "lastEditedDateTime": "2025-06-24T12:28:40.795Z",
+        "cells": [
+          {
+            "id": "48b93f93-dcfc-48df-8765-83c549de3c2f",
+            "columnId": "ba6e4dc2-00af-46b2-8496-40bdfdd62a4d",
+            "content": "Adventures of Huckleberry Finn, The",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "265e1bc9-17fd-403b-b950-973d58974ffe",
+            "columnId": "376ee6ff-1f3c-429a-b07d-50af7c162291",
+            "content": "Mark Twain",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "2df6a7b6-e0e5-4367-9b8b-fdd3c92d01a0",
+            "columnId": "0a224bd8-4575-453d-bee3-c8e01e9c49bb",
+            "value": true,
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "7488523e-b562-4215-a516-eb3ac69942ef",
+        "index": 3,
+        "sourceId": null,
+        "creationDateTime": "2025-06-24T12:25:10.537Z",
+        "lastEditedDateTime": "2025-06-24T12:25:32.139Z",
+        "cells": [
+          {
+            "id": "c11efcd7-e378-4ec2-adba-759968c5b628",
+            "columnId": "ba6e4dc2-00af-46b2-8496-40bdfdd62a4d",
+            "content": "Adventures of Super Diaper Baby, The",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "06a8e704-20e1-4f28-bb92-77cc1794e607",
+            "columnId": "376ee6ff-1f3c-429a-b07d-50af7c162291",
+            "content": "George Beard and Harold Hutchins",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "4f6ee43e-7ce0-4a4b-8486-3de35cf64f2c",
+            "columnId": "0a224bd8-4575-453d-bee3-c8e01e9c49bb",
+            "value": false,
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "b01e8afc-a859-42d4-acf0-08b061355eb8",
+        "index": 4,
+        "sourceId": null,
+        "creationDateTime": "2025-06-24T12:25:33.032Z",
+        "lastEditedDateTime": "2025-06-24T12:28:41.757Z",
+        "cells": [
+          {
+            "id": "2c508007-ff13-453b-ba22-a5e08d313891",
+            "columnId": "ba6e4dc2-00af-46b2-8496-40bdfdd62a4d",
+            "content": "Adventures of Tom Sawyer, The",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "b92fac9f-aba6-4b2a-a81b-8131ac6fde61",
+            "columnId": "376ee6ff-1f3c-429a-b07d-50af7c162291",
+            "content": "Mark Twain",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "5671fe38-240f-4ae6-be1b-a6a2ce50ad56",
+            "columnId": "0a224bd8-4575-453d-bee3-c8e01e9c49bb",
+            "value": true,
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "e1a50a19-8bc7-4467-ae3d-0c55d425b9ab",
+        "index": 5,
+        "sourceId": null,
+        "creationDateTime": "2025-06-24T12:26:04.283Z",
+        "lastEditedDateTime": "2025-06-24T12:26:32.095Z",
+        "cells": [
+          {
+            "id": "6b58c013-4d27-4385-9e20-031156cc9330",
+            "columnId": "ba6e4dc2-00af-46b2-8496-40bdfdd62a4d",
+            "content": "Alice series",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "f5801947-1a89-4888-900e-df82214ef1ff",
+            "columnId": "376ee6ff-1f3c-429a-b07d-50af7c162291",
+            "content": "Phyllis Reynolds Naylor",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "2a82c664-6d05-494f-92e3-40471e133ed5",
+            "columnId": "0a224bd8-4575-453d-bee3-c8e01e9c49bb",
+            "value": false,
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "524bd31a-29e3-499d-a569-7dc2b228c1fc",
+        "index": 6,
+        "sourceId": null,
+        "creationDateTime": "2025-06-24T12:26:38.508Z",
+        "lastEditedDateTime": "2025-06-24T12:27:07.819Z",
+        "cells": [
+          {
+            "id": "360fec20-44a0-40ec-aae1-f334d9bd8f83",
+            "columnId": "ba6e4dc2-00af-46b2-8496-40bdfdd62a4d",
+            "content": "All the King's Men",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "c47b6a8e-173f-44e0-8872-0e2195e43368",
+            "columnId": "376ee6ff-1f3c-429a-b07d-50af7c162291",
+            "content": "Robert Penn Warren",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "34fd2e85-eedc-49d8-96a6-84a6d6ca2b47",
+            "columnId": "0a224bd8-4575-453d-bee3-c8e01e9c49bb",
+            "value": false,
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "aa2e08ef-ea27-4016-83f7-0b9e80c15f63",
+        "index": 7,
+        "sourceId": null,
+        "creationDateTime": "2025-06-24T12:26:39.533Z",
+        "lastEditedDateTime": "2025-06-24T12:27:38.345Z",
+        "cells": [
+          {
+            "id": "a483df5c-5f55-4c37-add7-5abd385bc9f7",
+            "columnId": "ba6e4dc2-00af-46b2-8496-40bdfdd62a4d",
+            "content": "Always Running",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "e16fde1a-735a-46d2-b5da-c266689f401f",
+            "columnId": "376ee6ff-1f3c-429a-b07d-50af7c162291",
+            "content": "Luis J. Rodriguez",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "eb4ac18f-ccb6-45dd-8a85-8d03ad5610fb",
+            "columnId": "0a224bd8-4575-453d-bee3-c8e01e9c49bb",
+            "value": false,
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "1ad30e68-7f05-4903-87a2-1b3831e8d169",
+        "index": 8,
+        "sourceId": null,
+        "creationDateTime": "2025-06-24T12:26:40.365Z",
+        "lastEditedDateTime": "2025-06-24T12:28:02.195Z",
+        "cells": [
+          {
+            "id": "c2dac8e1-5575-4516-acb8-68de1f7e0c0d",
+            "columnId": "ba6e4dc2-00af-46b2-8496-40bdfdd62a4d",
+            "content": "America: A Novel",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "b2d3873c-1ed0-437f-888f-379608ecb89c",
+            "columnId": "376ee6ff-1f3c-429a-b07d-50af7c162291",
+            "content": "E.R. Frank",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "c692ccb5-3ffa-47ae-bcb3-e628e989442d",
+            "columnId": "0a224bd8-4575-453d-bee3-c8e01e9c49bb",
+            "value": false,
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "599774d5-7d29-4065-b26b-e10b1f13ac62",
+        "index": 9,
+        "sourceId": null,
+        "creationDateTime": "2025-06-24T12:26:41.311Z",
+        "lastEditedDateTime": "2025-06-24T12:28:23.985Z",
+        "cells": [
+          {
+            "id": "79927b14-2282-434b-999b-90a8238112b8",
+            "columnId": "ba6e4dc2-00af-46b2-8496-40bdfdd62a4d",
+            "content": "American Psycho",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "53aef4db-a2eb-49e1-8928-2b2d5795552c",
+            "columnId": "376ee6ff-1f3c-429a-b07d-50af7c162291",
+            "content": "Bret Easton Ellis",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "ddaaa134-7373-4794-bc1e-59574ed5f0f2",
+            "columnId": "0a224bd8-4575-453d-bee3-c8e01e9c49bb",
+            "value": false,
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "3239e386-36e7-4567-a292-327b1a1d2e01",
+        "index": 10,
+        "sourceId": null,
+        "creationDateTime": "2025-06-25T12:01:22.629Z",
+        "lastEditedDateTime": "2025-06-25T12:02:24.151Z",
+        "cells": [
+          {
+            "id": "46fc9d7a-6424-4612-807b-fb11543cf594",
+            "columnId": "ba6e4dc2-00af-46b2-8496-40bdfdd62a4d",
+            "content": "American Tragedy, An",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "e53c8430-f79b-4636-b643-ead6c4290193",
+            "columnId": "376ee6ff-1f3c-429a-b07d-50af7c162291",
+            "content": "Theodore Dreiser",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "8cad583b-9181-43c2-80fa-dc36675b5e90",
+            "columnId": "0a224bd8-4575-453d-bee3-c8e01e9c49bb",
+            "value": false,
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "69088b6a-573a-4276-a94f-640dd6cc8c77",
+        "index": 11,
+        "sourceId": null,
+        "creationDateTime": "2025-06-25T12:01:24.263Z",
+        "lastEditedDateTime": "2025-06-25T12:02:44.244Z",
+        "cells": [
+          {
+            "id": "a71c4cf9-63eb-4753-b024-939a7a654a24",
+            "columnId": "ba6e4dc2-00af-46b2-8496-40bdfdd62a4d",
+            "content": "Anarchist Cookbook, The",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "abbd60c8-2009-417f-8bd5-63b716c9a990",
+            "columnId": "376ee6ff-1f3c-429a-b07d-50af7c162291",
+            "content": "William Powell",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "3687f165-dc60-4b08-9db6-6c9b95f6e84b",
+            "columnId": "0a224bd8-4575-453d-bee3-c8e01e9c49bb",
+            "value": false,
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "7f9360c0-5048-464e-81d9-44ba5bca1ccc",
+        "index": 12,
+        "sourceId": null,
+        "creationDateTime": "2025-06-25T12:01:25.681Z",
+        "lastEditedDateTime": "2025-06-25T12:03:18.951Z",
+        "cells": [
+          {
+            "id": "eb6be363-17eb-46c0-a896-004abae83bf3",
+            "columnId": "ba6e4dc2-00af-46b2-8496-40bdfdd62a4d",
+            "content": "Anastasia Krupnic (series)",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "41e85da9-79a4-474b-b088-f971e2244803",
+            "columnId": "376ee6ff-1f3c-429a-b07d-50af7c162291",
+            "content": "Lois Lowry",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "743f1c2b-70b4-4529-91cf-8cb81b3290ce",
+            "columnId": "0a224bd8-4575-453d-bee3-c8e01e9c49bb",
+            "value": false,
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "a5b311cc-c911-4219-8cfb-9dfbd0a25fac",
+        "index": 13,
+        "sourceId": null,
+        "creationDateTime": "2025-06-25T12:01:26.393Z",
+        "lastEditedDateTime": "2025-06-25T12:03:39.727Z",
+        "cells": [
+          {
+            "id": "c7f43534-efd3-4ef1-9d59-1ff6b874ac9e",
+            "columnId": "ba6e4dc2-00af-46b2-8496-40bdfdd62a4d",
+            "content": "And Tango Makes Three",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "054667fc-75fb-4282-8777-f8934c28f9b9",
+            "columnId": "376ee6ff-1f3c-429a-b07d-50af7c162291",
+            "content": "Justin Richardson and Peter Parnell",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "1dde1e14-26e8-4ef1-bde3-e0769e1e3707",
+            "columnId": "0a224bd8-4575-453d-bee3-c8e01e9c49bb",
+            "value": false,
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "eec24f12-927b-4656-bbcf-936babc1c264",
+        "index": 14,
+        "sourceId": null,
+        "creationDateTime": "2025-06-25T12:01:27.162Z",
+        "lastEditedDateTime": "2025-06-25T12:03:52.317Z",
+        "cells": [
+          {
+            "id": "318f0889-484d-4799-ab05-df2fd770f3ff",
+            "columnId": "ba6e4dc2-00af-46b2-8496-40bdfdd62a4d",
+            "content": "Angus, Thongs and Full-Frontal Snogging",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "417ded9b-9551-4b11-abfb-4b7d3725f8ea",
+            "columnId": "376ee6ff-1f3c-429a-b07d-50af7c162291",
+            "content": "Louise Rennison",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "28317cc7-d91d-4918-a3ba-0bef4349dff1",
+            "columnId": "0a224bd8-4575-453d-bee3-c8e01e9c49bb",
+            "value": false,
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "d5ca6192-e0d6-41ed-a20c-b3aac6a727b1",
+        "index": 15,
+        "sourceId": null,
+        "creationDateTime": "2025-06-25T12:01:28.029Z",
+        "lastEditedDateTime": "2025-06-25T12:04:54.939Z",
+        "cells": [
+          {
+            "id": "a3f13e1c-f77a-4502-8e56-bf4327ce1e35",
+            "columnId": "ba6e4dc2-00af-46b2-8496-40bdfdd62a4d",
+            "content": "Annie on My Mind",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "cef804e5-5ef1-4e3f-bc0e-3d32997279eb",
+            "columnId": "376ee6ff-1f3c-429a-b07d-50af7c162291",
+            "content": "Nancy Garden",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "e5ea27e7-3d8a-4c09-b07f-1b8a5b3e931f",
+            "columnId": "0a224bd8-4575-453d-bee3-c8e01e9c49bb",
+            "value": false,
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "b7b3decd-d2cb-4611-aa51-6b1a638b4eae",
+        "index": 16,
+        "sourceId": null,
+        "creationDateTime": "2025-06-25T12:01:28.685Z",
+        "lastEditedDateTime": "2025-06-25T12:05:13.532Z",
+        "cells": [
+          {
+            "id": "0ffd6b4d-f7f4-467e-bd6c-5a6363d29064",
+            "columnId": "ba6e4dc2-00af-46b2-8496-40bdfdd62a4d",
+            "content": "Are You There God? It's Me, Margaret",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "bc5e527f-2b49-4686-bcbf-d0a026561e3e",
+            "columnId": "376ee6ff-1f3c-429a-b07d-50af7c162291",
+            "content": "Judy Blume",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "a5c6950a-9cc0-4161-9ea2-3db369e4e9b5",
+            "columnId": "0a224bd8-4575-453d-bee3-c8e01e9c49bb",
+            "value": false,
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "431eb705-c467-49db-ae69-29a291e9b23f",
+        "index": 17,
+        "sourceId": null,
+        "creationDateTime": "2025-06-25T12:01:29.589Z",
+        "lastEditedDateTime": "2025-06-25T12:05:27.085Z",
+        "cells": [
+          {
+            "id": "65048fe8-c9ab-4a64-a28f-a4700b54f54b",
+            "columnId": "ba6e4dc2-00af-46b2-8496-40bdfdd62a4d",
+            "content": "Arizona Kid",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "6d606108-03a0-4e64-9ea5-72184a3a4023",
+            "columnId": "376ee6ff-1f3c-429a-b07d-50af7c162291",
+            "content": "Ron Koertge",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "e12faa48-5a4b-457d-ac1f-a3b3c41702d4",
+            "columnId": "0a224bd8-4575-453d-bee3-c8e01e9c49bb",
+            "value": false,
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "ae3bdab7-f073-40ee-a3f3-998a68b984b5",
+        "index": 18,
+        "sourceId": null,
+        "creationDateTime": "2025-06-25T12:01:30.343Z",
+        "lastEditedDateTime": "2025-06-25T12:05:59.953Z",
+        "cells": [
+          {
+            "id": "353c5543-c456-4d49-b785-a708844972b1",
+            "columnId": "ba6e4dc2-00af-46b2-8496-40bdfdd62a4d",
+            "content": "Arming America",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "d6e2f773-414e-43b0-bb6d-f503e3c908e5",
+            "columnId": "376ee6ff-1f3c-429a-b07d-50af7c162291",
+            "content": "Michael Bellasiles",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "15f5d442-67f1-4981-ade7-292e651f9446",
+            "columnId": "0a224bd8-4575-453d-bee3-c8e01e9c49bb",
+            "value": false,
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "ae871a18-acc1-44fc-8b57-601d45d08ed6",
+        "index": 19,
+        "sourceId": null,
+        "creationDateTime": "2025-06-25T12:01:30.975Z",
+        "lastEditedDateTime": "2025-06-25T12:06:22.353Z",
+        "cells": [
+          {
+            "id": "fb0709cf-1c65-42b6-a9fc-9a6ff65a2a5d",
+            "columnId": "ba6e4dc2-00af-46b2-8496-40bdfdd62a4d",
+            "content": "As I Lay Dying",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "e9e2c282-227a-4223-b5b0-2722d79467b5",
+            "columnId": "376ee6ff-1f3c-429a-b07d-50af7c162291",
+            "content": "William Faulkner",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "2e970455-7193-4e2c-af2a-314ff3183175",
+            "columnId": "0a224bd8-4575-453d-bee3-c8e01e9c49bb",
+            "value": false,
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "dde4d643-e36d-4d69-bf8e-ef5360a01f61",
+        "index": 20,
+        "sourceId": null,
+        "creationDateTime": "2025-06-26T12:24:41.414Z",
+        "lastEditedDateTime": "2025-06-26T12:25:16.560Z",
+        "cells": [
+          {
+            "id": "1e4eff3d-0d5f-4aed-8733-612e770935de",
+            "columnId": "ba6e4dc2-00af-46b2-8496-40bdfdd62a4d",
+            "content": "Asking About Sex and Growing Up",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "7a8892a2-975c-41cc-a9d6-5ad66ca0dfdb",
+            "columnId": "376ee6ff-1f3c-429a-b07d-50af7c162291",
+            "content": "Joanna Cole",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "a0d7203d-07d9-452c-9bcc-7cc144214a29",
+            "columnId": "0a224bd8-4575-453d-bee3-c8e01e9c49bb",
+            "value": false,
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "95668d32-4afa-48d3-99d5-1cc1286a4632",
+        "index": 21,
+        "sourceId": null,
+        "creationDateTime": "2025-06-26T12:24:42.192Z",
+        "lastEditedDateTime": "2025-06-26T12:25:35.930Z",
+        "cells": [
+          {
+            "id": "aaa7ddac-a541-4099-9aec-9cfe789e7872",
+            "columnId": "ba6e4dc2-00af-46b2-8496-40bdfdd62a4d",
+            "content": "Athletic Shorts",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "7617a04e-0e04-4cbe-b0cd-a2066efbf17a",
+            "columnId": "376ee6ff-1f3c-429a-b07d-50af7c162291",
+            "content": "Chris Crutcher",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "52f2809a-2a21-4cc0-a8a0-e59c20afb054",
+            "columnId": "0a224bd8-4575-453d-bee3-c8e01e9c49bb",
+            "value": false,
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "ac3fea27-2879-4f6d-a14e-cef296598c76",
+        "index": 22,
+        "sourceId": null,
+        "creationDateTime": "2025-06-26T12:24:42.816Z",
+        "lastEditedDateTime": "2025-06-26T12:25:47.442Z",
+        "cells": [
+          {
+            "id": "172d6ada-9c42-4300-8d73-5a4903ae7b2a",
+            "columnId": "ba6e4dc2-00af-46b2-8496-40bdfdd62a4d",
+            "content": "Beloved",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "0796de29-9676-4f56-bef3-6fd5c7d30aa4",
+            "columnId": "376ee6ff-1f3c-429a-b07d-50af7c162291",
+            "content": "Toni Morrison",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "a9d4e44b-39dc-4705-ab25-b0d01c0ec81c",
+            "columnId": "0a224bd8-4575-453d-bee3-c8e01e9c49bb",
+            "value": false,
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "1df5d695-4af1-40b2-b744-762cd467e66f",
+        "index": 23,
+        "sourceId": null,
+        "creationDateTime": "2025-06-26T12:24:43.402Z",
+        "lastEditedDateTime": "2025-06-26T12:25:59.763Z",
+        "cells": [
+          {
+            "id": "4046dd0e-4635-4bb0-9087-4b5a9f11fa33",
+            "columnId": "ba6e4dc2-00af-46b2-8496-40bdfdd62a4d",
+            "content": "Black Boy",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "3fd32c93-2f4b-4f2e-ab3e-a0c6dab2a94c",
+            "columnId": "376ee6ff-1f3c-429a-b07d-50af7c162291",
+            "content": "Richard Wright",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "0c4cc586-cfc7-4ad5-a7ab-4940dcfbef59",
+            "columnId": "0a224bd8-4575-453d-bee3-c8e01e9c49bb",
+            "value": false,
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "109b172e-a144-402f-b6fb-4ce6772f621e",
+        "index": 24,
+        "sourceId": null,
+        "creationDateTime": "2025-06-26T12:24:43.946Z",
+        "lastEditedDateTime": "2025-06-26T12:26:27.865Z",
+        "cells": [
+          {
+            "id": "e0e12be0-33f3-441d-8e66-646c1d82b4a8",
+            "columnId": "ba6e4dc2-00af-46b2-8496-40bdfdd62a4d",
+            "content": "Bless Me, Ultima",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "9f2f0409-6d3a-4777-9c88-a63f312d3ab0",
+            "columnId": "376ee6ff-1f3c-429a-b07d-50af7c162291",
+            "content": "Rudolfo A. Anaya",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "b420e0fb-f846-4b5b-9042-bfe78ca9864e",
+            "columnId": "0a224bd8-4575-453d-bee3-c8e01e9c49bb",
+            "value": false,
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "f6ee9191-b76a-4171-9730-78de5ebbd473",
+        "index": 25,
+        "sourceId": null,
+        "creationDateTime": "2025-06-26T12:24:44.506Z",
+        "lastEditedDateTime": "2025-06-26T12:26:57.418Z",
+        "cells": [
+          {
+            "id": "875cd6fb-7da7-4c51-a685-a6e5c234e0ed",
+            "columnId": "ba6e4dc2-00af-46b2-8496-40bdfdd62a4d",
+            "content": "Blood and Chocolate",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "127b6a5f-665b-4336-ac3f-40d0e0563e26",
+            "columnId": "376ee6ff-1f3c-429a-b07d-50af7c162291",
+            "content": "Annette Curtis Klause",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "e569857e-7962-4080-bbae-3eb57cf501f9",
+            "columnId": "0a224bd8-4575-453d-bee3-c8e01e9c49bb",
+            "value": false,
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "13de1a18-b3d0-4b66-9ea5-a59eb9c12ecc",
+        "index": 26,
+        "sourceId": null,
+        "creationDateTime": "2025-06-26T12:24:45.020Z",
+        "lastEditedDateTime": "2025-06-26T12:27:12.612Z",
+        "cells": [
+          {
+            "id": "ecd23302-c2ad-4f0e-a5e1-bdbc0e11d3e4",
+            "columnId": "ba6e4dc2-00af-46b2-8496-40bdfdd62a4d",
+            "content": "Blubber ",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "e5fdd22f-6e69-4d17-abeb-8a8b0c4ad941",
+            "columnId": "376ee6ff-1f3c-429a-b07d-50af7c162291",
+            "content": "Judy Blume",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "e6ae38b9-7013-4ae2-8e30-5807fcd51956",
+            "columnId": "0a224bd8-4575-453d-bee3-c8e01e9c49bb",
+            "value": true,
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "d94edb12-dd40-442e-b0be-c2ee9fdeb2b3",
+        "index": 27,
+        "sourceId": null,
+        "creationDateTime": "2025-06-26T12:24:45.524Z",
+        "lastEditedDateTime": "2025-06-26T12:27:28.544Z",
+        "cells": [
+          {
+            "id": "19d7aa0a-7ff1-4401-a18c-58e098c42638",
+            "columnId": "ba6e4dc2-00af-46b2-8496-40bdfdd62a4d",
+            "content": "Bluest Eye",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "9727f0aa-ed15-4ea0-8a03-df812c809e20",
+            "columnId": "376ee6ff-1f3c-429a-b07d-50af7c162291",
+            "content": "Toni Morrison",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "28eb9fd4-94a5-4518-a3dc-6badf60d299a",
+            "columnId": "0a224bd8-4575-453d-bee3-c8e01e9c49bb",
+            "value": false,
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "09dc5b2c-319f-4518-8038-646c58f10d0b",
+        "index": 28,
+        "sourceId": null,
+        "creationDateTime": "2025-06-26T12:24:46.078Z",
+        "lastEditedDateTime": "2025-06-27T11:37:37.783Z",
+        "cells": [
+          {
+            "id": "1d433016-da57-4738-9073-03c82edcc511",
+            "columnId": "ba6e4dc2-00af-46b2-8496-40bdfdd62a4d",
+            "content": "Boy Who Lost His Face, The",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "e5d93807-79a0-4856-91d5-547c4b0a4312",
+            "columnId": "376ee6ff-1f3c-429a-b07d-50af7c162291",
+            "content": "Louis Sachar",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "054cf736-9507-44d7-8271-2e005a3764f9",
+            "columnId": "0a224bd8-4575-453d-bee3-c8e01e9c49bb",
+            "value": false,
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "db987349-8fc4-47e4-bd2c-b62a007226d4",
+        "index": 29,
+        "sourceId": null,
+        "creationDateTime": "2025-06-26T12:24:46.654Z",
+        "lastEditedDateTime": "2025-06-27T11:38:07.980Z",
+        "cells": [
+          {
+            "id": "fc1333d2-7d3e-4610-b0f7-de117c881d75",
+            "columnId": "ba6e4dc2-00af-46b2-8496-40bdfdd62a4d",
+            "content": "Boys and Sex",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "8edce4dc-1838-4e3a-ac8a-4d6cf89294cb",
+            "columnId": "376ee6ff-1f3c-429a-b07d-50af7c162291",
+            "content": "Wardell Pomeroy",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "1df35030-26f5-4224-86d2-bd5fe726caed",
+            "columnId": "0a224bd8-4575-453d-bee3-c8e01e9c49bb",
+            "value": false,
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "bd2590ee-00b9-40f1-8194-ba19427f863c",
+        "index": 30,
+        "sourceId": null,
+        "creationDateTime": "2025-06-27T11:36:48.258Z",
+        "lastEditedDateTime": "2025-06-27T11:38:21.341Z",
+        "cells": [
+          {
+            "id": "7bfc1410-50df-43b2-b39a-cc8d14dfa1d8",
+            "columnId": "ba6e4dc2-00af-46b2-8496-40bdfdd62a4d",
+            "content": "Brave New World",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "8346049f-0435-4cfd-ae5f-a2f8299c698a",
+            "columnId": "376ee6ff-1f3c-429a-b07d-50af7c162291",
+            "content": "Aldous Huxley",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "dd048e31-de8b-40b0-9330-9eeb92ca47df",
+            "columnId": "0a224bd8-4575-453d-bee3-c8e01e9c49bb",
+            "value": true,
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "a8363981-3474-4094-bca2-68e25bf027d3",
+        "index": 31,
+        "sourceId": null,
+        "creationDateTime": "2025-06-27T11:36:49.020Z",
+        "lastEditedDateTime": "2025-06-27T11:38:41.681Z",
+        "cells": [
+          {
+            "id": "7e21e0bd-38dd-4c81-9ea9-e814169d4a69",
+            "columnId": "ba6e4dc2-00af-46b2-8496-40bdfdd62a4d",
+            "content": "Bridge to Terabithia",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "0bcb7135-9503-4748-907b-977750bf848d",
+            "columnId": "376ee6ff-1f3c-429a-b07d-50af7c162291",
+            "content": "Katherine Paterson",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "b39cdd85-45ce-4eb5-b289-af86a22671ea",
+            "columnId": "0a224bd8-4575-453d-bee3-c8e01e9c49bb",
+            "value": false,
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "e76022bd-a34a-4267-9f6f-223a33797903",
+        "index": 32,
+        "sourceId": null,
+        "creationDateTime": "2025-06-27T11:36:49.757Z",
+        "lastEditedDateTime": "2025-06-27T11:39:02.574Z",
+        "cells": [
+          {
+            "id": "3988b656-3d5d-478d-9c95-6334af7ab66b",
+            "columnId": "ba6e4dc2-00af-46b2-8496-40bdfdd62a4d",
+            "content": "Bumps in the Night",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "5a64ed46-8169-44e0-8a37-7ee1ea32f390",
+            "columnId": "376ee6ff-1f3c-429a-b07d-50af7c162291",
+            "content": "Harry Allard",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "99a4b9bb-1a7e-41cd-abbb-ce20dcadd69c",
+            "columnId": "0a224bd8-4575-453d-bee3-c8e01e9c49bb",
+            "value": false,
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "a70839f0-40aa-46f1-a2da-c80a2d7d4c48",
+        "index": 33,
+        "sourceId": null,
+        "creationDateTime": "2025-06-27T11:36:50.415Z",
+        "lastEditedDateTime": "2025-06-27T11:39:27.931Z",
+        "cells": [
+          {
+            "id": "c3b691eb-cc8d-4705-bbee-cda6807102ff",
+            "columnId": "ba6e4dc2-00af-46b2-8496-40bdfdd62a4d",
+            "content": "Call of the Wild, The",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "7cb62a7d-17ef-463a-a71e-fd8ede65f3c6",
+            "columnId": "376ee6ff-1f3c-429a-b07d-50af7c162291",
+            "content": "Jack London",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "2a784942-0672-4a03-b696-003c0730b1e7",
+            "columnId": "0a224bd8-4575-453d-bee3-c8e01e9c49bb",
+            "value": true,
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "bee7de71-332f-4eda-9a38-096cdd4df6ad",
+        "index": 34,
+        "sourceId": null,
+        "creationDateTime": "2025-06-27T11:36:55.713Z",
+        "lastEditedDateTime": "2025-06-27T11:39:59.490Z",
+        "cells": [
+          {
+            "id": "00d6c28b-c214-49a7-bfef-40da224c3941",
+            "columnId": "ba6e4dc2-00af-46b2-8496-40bdfdd62a4d",
+            "content": "Captain Un derpants",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "0efaac0e-9f9b-4a98-b144-b40313b4c3af",
+            "columnId": "376ee6ff-1f3c-429a-b07d-50af7c162291",
+            "content": "Dav Pilkey",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "77b832ca-271e-4e03-a212-65ab7e8eec75",
+            "columnId": "0a224bd8-4575-453d-bee3-c8e01e9c49bb",
+            "value": false,
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "c092b258-ed16-4f3d-87ef-b0bbb09a7d4e",
+        "index": 35,
+        "sourceId": null,
+        "creationDateTime": "2025-06-27T11:36:56.515Z",
+        "lastEditedDateTime": "2025-06-27T11:40:12.835Z",
+        "cells": [
+          {
+            "id": "ae0a9049-74e9-4b69-b153-9eff8772a58c",
+            "columnId": "ba6e4dc2-00af-46b2-8496-40bdfdd62a4d",
+            "content": "Carrie",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "2f7b165c-bbb1-4505-9b67-2285b0648229",
+            "columnId": "376ee6ff-1f3c-429a-b07d-50af7c162291",
+            "content": "Stephen King",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "9f9fc304-40ac-44e6-903f-669ca76b8b04",
+            "columnId": "0a224bd8-4575-453d-bee3-c8e01e9c49bb",
+            "value": true,
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "f95a102f-7313-4660-a94f-c4a76b146d4c",
+        "index": 36,
+        "sourceId": null,
+        "creationDateTime": "2025-06-27T11:36:57.212Z",
+        "lastEditedDateTime": "2025-06-27T11:40:28.689Z",
+        "cells": [
+          {
+            "id": "6712c851-0d51-4fd4-8489-5064ff84ace1",
+            "columnId": "ba6e4dc2-00af-46b2-8496-40bdfdd62a4d",
+            "content": "Catch-22",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "23318909-58a3-4631-b0d5-079b51b9d672",
+            "columnId": "376ee6ff-1f3c-429a-b07d-50af7c162291",
+            "content": "Joseph Heller",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "2c39cce4-d4c5-47c3-975f-152f47dadbfc",
+            "columnId": "0a224bd8-4575-453d-bee3-c8e01e9c49bb",
+            "value": true,
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "bb5709a7-3537-403c-85e8-5799ff8995ad",
+        "index": 37,
+        "sourceId": null,
+        "creationDateTime": "2025-06-27T11:36:57.923Z",
+        "lastEditedDateTime": "2025-06-27T11:41:19.683Z",
+        "cells": [
+          {
+            "id": "f66a3a8d-0990-4e6b-afec-19632ac05cca",
+            "columnId": "ba6e4dc2-00af-46b2-8496-40bdfdd62a4d",
+            "content": "Catcher in the Rye, The",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "564c8970-1ca0-44fc-a492-3253bcb4c220",
+            "columnId": "376ee6ff-1f3c-429a-b07d-50af7c162291",
+            "content": "J.D. Salinger",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "901f6a68-09a2-4702-aef3-e4154cbcc977",
+            "columnId": "0a224bd8-4575-453d-bee3-c8e01e9c49bb",
+            "value": true,
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "3afcf96e-80fb-4cc2-affe-68a3989ea8fc",
+        "index": 38,
+        "sourceId": null,
+        "creationDateTime": "2025-06-27T11:36:58.651Z",
+        "lastEditedDateTime": "2025-06-27T11:41:17.327Z",
+        "cells": [
+          {
+            "id": "652c6b45-80df-4275-b1b3-a270d8ca025d",
+            "columnId": "ba6e4dc2-00af-46b2-8496-40bdfdd62a4d",
+            "content": "Cat's Cradle",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "f945cfa7-870f-4da6-82a9-f04a5b1177c8",
+            "columnId": "376ee6ff-1f3c-429a-b07d-50af7c162291",
+            "content": "Kurt Vonnegut",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "1f90bdb9-ff51-48e5-9e24-1a604b380532",
+            "columnId": "0a224bd8-4575-453d-bee3-c8e01e9c49bb",
+            "value": true,
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "9daccc43-c136-4a90-98cb-6ce73221a547",
+        "index": 39,
+        "sourceId": null,
+        "creationDateTime": "2025-06-27T11:36:59.381Z",
+        "lastEditedDateTime": "2025-06-27T11:41:41.272Z",
+        "cells": [
+          {
+            "id": "76ff33b4-b98f-4a5e-a480-292270bda6e4",
+            "columnId": "ba6e4dc2-00af-46b2-8496-40bdfdd62a4d",
+            "content": "Chocolate War, The",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "5f43fa3a-d47c-4433-9072-c82fb0898ac7",
+            "columnId": "376ee6ff-1f3c-429a-b07d-50af7c162291",
+            "content": "Robert Cormier",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "e5a7ecef-7211-4ecf-9c67-5093c370bd72",
+            "columnId": "0a224bd8-4575-453d-bee3-c8e01e9c49bb",
+            "value": true,
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "f631b21f-13be-491e-8087-8d1a9bb661bb",
+        "index": 40,
+        "sourceId": null,
+        "creationDateTime": "2025-06-28T12:12:33.010Z",
+        "lastEditedDateTime": "2025-06-28T12:15:54.810Z",
+        "cells": [
+          {
+            "id": "5a5fd031-2490-4fef-8240-eead41a0c49e",
+            "columnId": "ba6e4dc2-00af-46b2-8496-40bdfdd62a4d",
+            "content": "Christine",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "6e439278-b77b-4cad-ab4f-eb0cabb4e315",
+            "columnId": "376ee6ff-1f3c-429a-b07d-50af7c162291",
+            "content": "Stephen King",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "41112700-4418-4f11-9c03-ecc96eebc55b",
+            "columnId": "0a224bd8-4575-453d-bee3-c8e01e9c49bb",
+            "value": true,
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "d042dc5f-7ca5-4241-9d68-59b2445ce69d",
+        "index": 41,
+        "sourceId": null,
+        "creationDateTime": "2025-06-28T12:12:33.860Z",
+        "lastEditedDateTime": "2025-06-28T12:15:55.578Z",
+        "cells": [
+          {
+            "id": "8e2006c9-a317-410f-8a52-06f14841f8f6",
+            "columnId": "ba6e4dc2-00af-46b2-8496-40bdfdd62a4d",
+            "content": "Clockwork Orange, A",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "7b3d77a8-5882-4624-8d17-cb409f78546d",
+            "columnId": "376ee6ff-1f3c-429a-b07d-50af7c162291",
+            "content": "Anthony Burgess",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "b5f9ff16-1b49-4276-aea1-2ffe3795dc25",
+            "columnId": "0a224bd8-4575-453d-bee3-c8e01e9c49bb",
+            "value": true,
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "3d7aceb3-9674-4f86-a1d5-6bdc96ca822f",
+        "index": 42,
+        "sourceId": null,
+        "creationDateTime": "2025-06-28T12:12:34.580Z",
+        "lastEditedDateTime": "2025-06-28T12:13:40.502Z",
+        "cells": [
+          {
+            "id": "2b1ad635-dce5-41fe-93ae-970c5ff6bc73",
+            "columnId": "ba6e4dc2-00af-46b2-8496-40bdfdd62a4d",
+            "content": "Color Purple, The",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "79646011-dd92-433c-912e-5c03f664fa72",
+            "columnId": "376ee6ff-1f3c-429a-b07d-50af7c162291",
+            "content": "Alice Walker",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "4a64b3e4-0330-46ee-b1e4-ae109adadd80",
+            "columnId": "0a224bd8-4575-453d-bee3-c8e01e9c49bb",
+            "value": false,
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "b40b718a-cfec-4fd9-877a-c214bd19d422",
+        "index": 43,
+        "sourceId": null,
+        "creationDateTime": "2025-06-28T12:12:35.316Z",
+        "lastEditedDateTime": "2025-06-28T12:13:59.909Z",
+        "cells": [
+          {
+            "id": "5a95dfdc-4c1e-4e97-9611-0da723451dde",
+            "columnId": "ba6e4dc2-00af-46b2-8496-40bdfdd62a4d",
+            "content": "Crank",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "036b8e48-504f-4def-b372-fdbf79dc43ad",
+            "columnId": "376ee6ff-1f3c-429a-b07d-50af7c162291",
+            "content": "Ellen Hopkins",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "a2253448-ed2c-4379-92dc-ff85496c9d90",
+            "columnId": "0a224bd8-4575-453d-bee3-c8e01e9c49bb",
+            "value": false,
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "1b38455b-3196-44f7-92ee-b7005e2670ed",
+        "index": 44,
+        "sourceId": null,
+        "creationDateTime": "2025-06-28T12:12:36.100Z",
+        "lastEditedDateTime": "2025-06-28T12:14:19.128Z",
+        "cells": [
+          {
+            "id": "15c1a28f-edf4-4616-963d-dd11e97d3dcb",
+            "columnId": "ba6e4dc2-00af-46b2-8496-40bdfdd62a4d",
+            "content": "Crazy Lady!",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "83d23331-dd5d-4905-84e9-2f2691854648",
+            "columnId": "376ee6ff-1f3c-429a-b07d-50af7c162291",
+            "content": "Jane Conly",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "3471ffdb-6df0-48d6-8cc0-d5e34d102d7e",
+            "columnId": "0a224bd8-4575-453d-bee3-c8e01e9c49bb",
+            "value": false,
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "88479626-08a0-4196-8f3f-bc3811ecd443",
+        "index": 45,
+        "sourceId": null,
+        "creationDateTime": "2025-06-28T12:12:36.750Z",
+        "lastEditedDateTime": "2025-06-28T12:14:39.611Z",
+        "cells": [
+          {
+            "id": "454adbe9-e3d0-491d-88bd-ac9c741fa762",
+            "columnId": "ba6e4dc2-00af-46b2-8496-40bdfdd62a4d",
+            "content": "Crazy: A Novel",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "4c618b6a-4f07-4159-9ef0-2a516df40b8e",
+            "columnId": "376ee6ff-1f3c-429a-b07d-50af7c162291",
+            "content": "Benjamin Lebert",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "1ceaad0f-7c3a-4b2b-8fe3-47f56b01448b",
+            "columnId": "0a224bd8-4575-453d-bee3-c8e01e9c49bb",
+            "value": false,
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "6ecfdf04-44dc-470f-b92f-e9206045231d",
+        "index": 46,
+        "sourceId": null,
+        "creationDateTime": "2025-06-28T12:12:37.384Z",
+        "lastEditedDateTime": "2025-06-28T12:15:14.129Z",
+        "cells": [
+          {
+            "id": "738bd78b-3125-4c3b-8a05-c2a1e2945fe6",
+            "columnId": "ba6e4dc2-00af-46b2-8496-40bdfdd62a4d",
+            "content": "Cross Your Fingers, Spit in Your Hat",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "28b1162f-6821-4cca-b40c-b0807bdfffb8",
+            "columnId": "376ee6ff-1f3c-429a-b07d-50af7c162291",
+            "content": "Alvin Schwartz",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "5a24a9f7-6c32-4fa1-b2c5-5e627caba29b",
+            "columnId": "0a224bd8-4575-453d-bee3-c8e01e9c49bb",
+            "value": false,
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "4494774a-f4ee-483f-8696-d9efc0d46be5",
+        "index": 47,
+        "sourceId": null,
+        "creationDateTime": "2025-06-28T12:12:38.024Z",
+        "lastEditedDateTime": "2025-06-28T12:15:57.878Z",
+        "cells": [
+          {
+            "id": "9a3e2f24-dc9f-4d5c-9c31-cc98a071b538",
+            "columnId": "ba6e4dc2-00af-46b2-8496-40bdfdd62a4d",
+            "content": "Cujo",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "83bf98ef-0141-4baa-833a-05b73b488315",
+            "columnId": "376ee6ff-1f3c-429a-b07d-50af7c162291",
+            "content": "Stephen King",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "1d3a51e5-e09b-4de8-b07a-b82d3ba48cce",
+            "columnId": "0a224bd8-4575-453d-bee3-c8e01e9c49bb",
+            "value": true,
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "7560de0e-e57f-439b-a1da-dd5bc781949a",
+        "index": 48,
+        "sourceId": null,
+        "creationDateTime": "2025-06-28T12:12:38.664Z",
+        "lastEditedDateTime": "2025-06-28T12:15:52.711Z",
+        "cells": [
+          {
+            "id": "b47c9e46-a478-4e10-aecb-eb3b3cd9099e",
+            "columnId": "ba6e4dc2-00af-46b2-8496-40bdfdd62a4d",
+            "content": "Curses, Hexes and Spells",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "59ec0bc8-6773-4ac7-b4ea-1ee90adf158e",
+            "columnId": "376ee6ff-1f3c-429a-b07d-50af7c162291",
+            "content": "Daniel Cohen",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "60281741-2010-4673-810a-3df6056d24ad",
+            "columnId": "0a224bd8-4575-453d-bee3-c8e01e9c49bb",
+            "value": false,
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "c1b7171d-f60c-4e67-a4a3-24ba9e2b5e71",
+        "index": 49,
+        "sourceId": null,
+        "creationDateTime": "2025-06-28T12:12:39.322Z",
+        "lastEditedDateTime": "2025-06-28T12:16:23.178Z",
+        "cells": [
+          {
+            "id": "c816d8a8-ad67-4c75-9e07-d238f4d10e08",
+            "columnId": "ba6e4dc2-00af-46b2-8496-40bdfdd62a4d",
+            "content": "Cut",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "315d126d-2fbd-4a69-8227-2baeec5acae9",
+            "columnId": "376ee6ff-1f3c-429a-b07d-50af7c162291",
+            "content": "Patricia McCormick",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "4f206057-cb59-4654-a474-d2fab41d9798",
+            "columnId": "0a224bd8-4575-453d-bee3-c8e01e9c49bb",
+            "value": false,
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "b296b56d-f7e1-40e2-a0d9-594f3972f00b",
+        "index": 50,
+        "sourceId": null,
+        "creationDateTime": "2025-06-29T12:27:56.737Z",
+        "lastEditedDateTime": "2025-06-29T12:28:27.340Z",
+        "cells": [
+          {
+            "id": "0f067e6a-d565-4d2c-bd6d-ba986ae423fc",
+            "columnId": "ba6e4dc2-00af-46b2-8496-40bdfdd62a4d",
+            "content": "Daddy's Roommate",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "53e89383-6b3e-4aa7-b86a-b90c7f9fec1d",
+            "columnId": "376ee6ff-1f3c-429a-b07d-50af7c162291",
+            "content": "Michael Willhoite",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "6698bf4c-fb32-4258-9b0c-8fde33334f59",
+            "columnId": "0a224bd8-4575-453d-bee3-c8e01e9c49bb",
+            "value": false,
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "90662a5a-72c4-40e5-b60c-76beb6de6d0e",
+        "index": 51,
+        "sourceId": null,
+        "creationDateTime": "2025-06-29T12:27:57.683Z",
+        "lastEditedDateTime": "2025-06-29T12:28:47.364Z",
+        "cells": [
+          {
+            "id": "15849065-69aa-4882-9013-11a3aa1ba139",
+            "columnId": "ba6e4dc2-00af-46b2-8496-40bdfdd62a4d",
+            "content": "Daughter's of Eve",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "787f4f6e-0799-4d2d-a485-91c6f9643b34",
+            "columnId": "376ee6ff-1f3c-429a-b07d-50af7c162291",
+            "content": "Lois Duncan",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "6ccc2f21-1e7e-4ec9-a13b-c2cf3d82ad0d",
+            "columnId": "0a224bd8-4575-453d-bee3-c8e01e9c49bb",
+            "value": false,
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "74113f1a-2835-4fd0-91e5-99993850f247",
+        "index": 52,
+        "sourceId": null,
+        "creationDateTime": "2025-06-29T12:27:58.426Z",
+        "lastEditedDateTime": "2025-06-29T12:29:17.451Z",
+        "cells": [
+          {
+            "id": "940d5b61-66ee-4635-89aa-9d065ebed566",
+            "columnId": "ba6e4dc2-00af-46b2-8496-40bdfdd62a4d",
+            "content": "Day No Pigs Would die, A",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "f789ebf3-24a0-40b7-92f7-6e2017f90e6d",
+            "columnId": "376ee6ff-1f3c-429a-b07d-50af7c162291",
+            "content": "Robert Newton Peck",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "a1c92aec-157d-4545-ab23-3d58de057375",
+            "columnId": "0a224bd8-4575-453d-bee3-c8e01e9c49bb",
+            "value": false,
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "3c6b716b-f97a-4abb-bf7a-d56de67604bf",
+        "index": 53,
+        "sourceId": null,
+        "creationDateTime": "2025-06-29T12:27:59.220Z",
+        "lastEditedDateTime": "2025-06-29T12:32:20.331Z",
+        "cells": [
+          {
+            "id": "88728bd6-6e06-43e5-a4a6-3ca8280d29d0",
+            "columnId": "ba6e4dc2-00af-46b2-8496-40bdfdd62a4d",
+            "content": "Dead Zone, The ",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "732559c4-f8d2-4a71-b049-4edd1ea43bca",
+            "columnId": "376ee6ff-1f3c-429a-b07d-50af7c162291",
+            "content": "Stephen King",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "9fa2ea2a-319c-4da1-ad0a-a854f2b5ee9e",
+            "columnId": "0a224bd8-4575-453d-bee3-c8e01e9c49bb",
+            "value": true,
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "0bb5bc4b-3a1d-43f2-91a2-af43ac41ac58",
+        "index": 54,
+        "sourceId": null,
+        "creationDateTime": "2025-06-29T12:27:59.893Z",
+        "lastEditedDateTime": "2025-06-29T12:29:55.302Z",
+        "cells": [
+          {
+            "id": "5dc8ddc4-62d5-4b3f-8921-1ab1be6bdb03",
+            "columnId": "ba6e4dc2-00af-46b2-8496-40bdfdd62a4d",
+            "content": "Deal With It!",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "c89b2af1-326e-4a80-99ec-f55e6fce58fd",
+            "columnId": "376ee6ff-1f3c-429a-b07d-50af7c162291",
+            "content": "Esther Drill",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "d6270dee-9d6a-461a-8e5f-15269f439d9b",
+            "columnId": "0a224bd8-4575-453d-bee3-c8e01e9c49bb",
+            "value": false,
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "86f947d4-db0b-4f05-89ad-336e9034f267",
+        "index": 55,
+        "sourceId": null,
+        "creationDateTime": "2025-06-29T12:28:00.532Z",
+        "lastEditedDateTime": "2025-06-29T12:30:09.801Z",
+        "cells": [
+          {
+            "id": "4d23a12a-4fc6-4074-8243-b8b50e54ef73",
+            "columnId": "ba6e4dc2-00af-46b2-8496-40bdfdd62a4d",
+            "content": "Dreenie",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "717cd4b3-4cc1-4484-9878-7c6b8c747f79",
+            "columnId": "376ee6ff-1f3c-429a-b07d-50af7c162291",
+            "content": "Judy Blume",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "7cb37671-7396-4d3b-85d8-92dfb5601e2f",
+            "columnId": "0a224bd8-4575-453d-bee3-c8e01e9c49bb",
+            "value": false,
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "2109a2fd-3b48-4295-a157-4de6799aded8",
+        "index": 56,
+        "sourceId": null,
+        "creationDateTime": "2025-06-29T12:28:01.165Z",
+        "lastEditedDateTime": "2025-06-29T12:30:38.503Z",
+        "cells": [
+          {
+            "id": "24759459-1813-4053-9a5e-16e04f0e6f7b",
+            "columnId": "ba6e4dc2-00af-46b2-8496-40bdfdd62a4d",
+            "content": "Detour for Emmy",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "a0af94f0-1d4e-41fb-8d20-a3008d4163a7",
+            "columnId": "376ee6ff-1f3c-429a-b07d-50af7c162291",
+            "content": "Marilyn Reynolds",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "ff102f07-5da7-4467-8da6-52d30e1a0b9d",
+            "columnId": "0a224bd8-4575-453d-bee3-c8e01e9c49bb",
+            "value": false,
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "8212a082-d812-41dc-b04c-98f463696f96",
+        "index": 57,
+        "sourceId": null,
+        "creationDateTime": "2025-06-29T12:28:01.806Z",
+        "lastEditedDateTime": "2025-06-29T12:30:57.567Z",
+        "cells": [
+          {
+            "id": "a7fad748-60c7-4e82-9800-d12f4001b74f",
+            "columnId": "ba6e4dc2-00af-46b2-8496-40bdfdd62a4d",
+            "content": "Drama",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "4fa0e544-1886-4719-9923-9642856ba037",
+            "columnId": "376ee6ff-1f3c-429a-b07d-50af7c162291",
+            "content": "Raine Telgemeter",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "0e1cab38-cb2b-481d-8def-1a98651caf8d",
+            "columnId": "0a224bd8-4575-453d-bee3-c8e01e9c49bb",
+            "value": false,
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "2a983c58-6bc6-4c6a-9d1e-af81adce14e1",
+        "index": 58,
+        "sourceId": null,
+        "creationDateTime": "2025-06-29T12:28:02.432Z",
+        "lastEditedDateTime": "2025-06-29T12:31:13.255Z",
+        "cells": [
+          {
+            "id": "1b4467f7-39c2-45e6-91fc-c5b21eb8fe09",
+            "columnId": "ba6e4dc2-00af-46b2-8496-40bdfdd62a4d",
+            "content": "Draw Me A Star",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "8f0d9e48-6cef-4d75-8ef3-ed7d81ebac15",
+            "columnId": "376ee6ff-1f3c-429a-b07d-50af7c162291",
+            "content": "Eric Carle",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "631102be-08e5-422f-99be-f354603a0f30",
+            "columnId": "0a224bd8-4575-453d-bee3-c8e01e9c49bb",
+            "value": false,
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "ef08e1e3-7018-48cb-ab5a-e826c08dd446",
+        "index": 59,
+        "sourceId": null,
+        "creationDateTime": "2025-06-29T12:28:03.064Z",
+        "lastEditedDateTime": "2025-06-29T12:31:38.213Z",
+        "cells": [
+          {
+            "id": "ff72759d-c5c5-4278-a494-5ee7f463aadf",
+            "columnId": "ba6e4dc2-00af-46b2-8496-40bdfdd62a4d",
+            "content": "Drowning of Stephan Jones, The",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "e7afa9e5-c371-4f55-8dd9-88dfaa097364",
+            "columnId": "376ee6ff-1f3c-429a-b07d-50af7c162291",
+            "content": "Bette Greene",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "8d28f5dc-a16b-4834-822a-ee92a37d2148",
+            "columnId": "0a224bd8-4575-453d-bee3-c8e01e9c49bb",
+            "value": false,
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "81c6fea1-c7bc-4613-a45f-9d836128a817",
+        "index": 60,
+        "sourceId": null,
+        "creationDateTime": "2025-06-29T12:31:41.762Z",
+        "lastEditedDateTime": "2025-06-29T12:32:14.761Z",
+        "cells": [
+          {
+            "id": "932944b5-4439-4fb9-8b29-9a5c8ff5f2d7",
+            "columnId": "ba6e4dc2-00af-46b2-8496-40bdfdd62a4d",
+            "content": "Earth, My Butt, and Other Big, Round Things, The",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "eeafbae4-1524-4dd1-9d35-50b6147796c9",
+            "columnId": "376ee6ff-1f3c-429a-b07d-50af7c162291",
+            "content": "Carolyn Mackler",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "cae55a3b-cac1-4e5f-a019-804cbd9ad670",
+            "columnId": "0a224bd8-4575-453d-bee3-c8e01e9c49bb",
+            "value": false,
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "83e21d5d-a0f3-4263-a49c-9217f5cfe234",
+        "index": 61,
+        "sourceId": null,
+        "creationDateTime": "2025-06-30T12:26:16.913Z",
+        "lastEditedDateTime": "2025-06-30T12:26:49.090Z",
+        "cells": [
+          {
+            "id": "ff480d8c-e705-4d0b-abb6-6eac0ba7ecab",
+            "columnId": "ba6e4dc2-00af-46b2-8496-40bdfdd62a4d",
+            "content": "Earth's Children (Series ) ",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "4bb5ba01-eeb0-429d-8dd0-e1a2a816b1c0",
+            "columnId": "376ee6ff-1f3c-429a-b07d-50af7c162291",
+            "content": "Jean M. Auel",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "04198dbc-83a5-4472-834b-8c8131af6268",
+            "columnId": "0a224bd8-4575-453d-bee3-c8e01e9c49bb",
+            "value": false,
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "03cf2b4b-462d-48fc-866d-7ae86f587011",
+        "index": 62,
+        "sourceId": null,
+        "creationDateTime": "2025-06-30T12:26:17.643Z",
+        "lastEditedDateTime": "2025-06-30T12:27:05.996Z",
+        "cells": [
+          {
+            "id": "23b88c64-eb62-4756-96d2-dfc3fb47eda9",
+            "columnId": "ba6e4dc2-00af-46b2-8496-40bdfdd62a4d",
+            "content": "Exorcist, The ",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "3ff6f837-414f-4812-8813-d7c602321f9c",
+            "columnId": "376ee6ff-1f3c-429a-b07d-50af7c162291",
+            "content": "William Peter Blatty",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "e92f9d8e-3302-471d-8358-253967686ad8",
+            "columnId": "0a224bd8-4575-453d-bee3-c8e01e9c49bb",
+            "value": true,
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "c997e9d9-f861-4f61-99c6-a38979422cab",
+        "index": 63,
+        "sourceId": null,
+        "creationDateTime": "2025-06-30T12:26:18.331Z",
+        "lastEditedDateTime": "2025-06-30T12:27:27.390Z",
+        "cells": [
+          {
+            "id": "2f60b60f-f5e2-4913-876e-05a5e7ca3c40",
+            "columnId": "ba6e4dc2-00af-46b2-8496-40bdfdd62a4d",
+            "content": "Face on the Milk Carton, The",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "7cc781e7-174d-43fc-abd2-d850498bf361",
+            "columnId": "376ee6ff-1f3c-429a-b07d-50af7c162291",
+            "content": "Caroline B. Cooney",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "8af5113c-31d0-4a9f-8bea-1d4293a7f04f",
+            "columnId": "0a224bd8-4575-453d-bee3-c8e01e9c49bb",
+            "value": false,
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "64cdef83-c156-4da7-b3d8-a373c9665de9",
+        "index": 64,
+        "sourceId": null,
+        "creationDateTime": "2025-06-30T12:26:18.986Z",
+        "lastEditedDateTime": "2025-06-30T12:27:52.271Z",
+        "cells": [
+          {
+            "id": "bcf75406-3fcf-49f8-8352-ce35b7b00b7f",
+            "columnId": "ba6e4dc2-00af-46b2-8496-40bdfdd62a4d",
+            "content": "Facts Speak for Themselves, The",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "7ea6c6f0-a73c-4870-b4e7-429b1e3816b2",
+            "columnId": "376ee6ff-1f3c-429a-b07d-50af7c162291",
+            "content": "Brock Cole",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "d6a55dcb-5d9d-4105-84d9-0a4444152e31",
+            "columnId": "0a224bd8-4575-453d-bee3-c8e01e9c49bb",
+            "value": false,
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "1be82b2b-62a9-48b5-a2ef-5e2f05979195",
+        "index": 65,
+        "sourceId": null,
+        "creationDateTime": "2025-06-30T12:26:19.580Z",
+        "lastEditedDateTime": "2025-09-08T11:29:57.572Z",
+        "cells": [
+          {
+            "id": "0fc80b09-e425-4f03-be33-de6f8bd0e4ed",
+            "columnId": "ba6e4dc2-00af-46b2-8496-40bdfdd62a4d",
+            "content": "Fade",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "2c44fe2d-e2d0-496d-820b-80ae6036d489",
+            "columnId": "376ee6ff-1f3c-429a-b07d-50af7c162291",
+            "content": "Robert Cormier",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "08a24cb4-7d34-4b2f-861a-f09582ad4a44",
+            "columnId": "0a224bd8-4575-453d-bee3-c8e01e9c49bb",
+            "value": true,
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "ca68402c-702c-4f96-8ace-d37a6b3b14a7",
+        "index": 66,
+        "sourceId": null,
+        "creationDateTime": "2025-06-30T12:26:20.229Z",
+        "lastEditedDateTime": "2025-06-30T12:28:26.402Z",
+        "cells": [
+          {
+            "id": "dab4d172-91c6-4241-a8e2-48d3a2e4bffc",
+            "columnId": "ba6e4dc2-00af-46b2-8496-40bdfdd62a4d",
+            "content": "Fahrenheit 451",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "9dc85410-cfd6-4d7f-ad24-5089273f6355",
+            "columnId": "376ee6ff-1f3c-429a-b07d-50af7c162291",
+            "content": "Ray Bradbury",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "8911a69a-417c-4fbd-b41b-652611ff1fd0",
+            "columnId": "0a224bd8-4575-453d-bee3-c8e01e9c49bb",
+            "value": true,
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "f9cac1b8-8ba6-4d86-9c0a-ac424d0ea7e7",
+        "index": 67,
+        "sourceId": null,
+        "creationDateTime": "2025-06-30T12:26:20.797Z",
+        "lastEditedDateTime": "2025-06-30T12:28:45.598Z",
+        "cells": [
+          {
+            "id": "bbd65581-61a6-414a-a7db-d8bf605a2d89",
+            "columnId": "ba6e4dc2-00af-46b2-8496-40bdfdd62a4d",
+            "content": "Fallen Angels",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "41645ad8-707f-4cc9-8307-08de9e297fae",
+            "columnId": "376ee6ff-1f3c-429a-b07d-50af7c162291",
+            "content": "Walter Dean Myers",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "f0f8e102-9f50-4cca-a3c1-f053e38ec217",
+            "columnId": "0a224bd8-4575-453d-bee3-c8e01e9c49bb",
+            "value": false,
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "0382ab79-02bf-468b-9e65-a872e91d5c53",
+        "index": 68,
+        "sourceId": null,
+        "creationDateTime": "2025-06-30T12:26:21.439Z",
+        "lastEditedDateTime": "2025-06-30T12:29:02.297Z",
+        "cells": [
+          {
+            "id": "05cf4da5-46b4-44a9-8885-03b45754a121",
+            "columnId": "ba6e4dc2-00af-46b2-8496-40bdfdd62a4d",
+            "content": "Family Secrets",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "676bda28-5a32-4d22-9769-2da36626b08a",
+            "columnId": "376ee6ff-1f3c-429a-b07d-50af7c162291",
+            "content": "Norma Klein",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "1f154228-3405-49e6-9306-86447b81ff3f",
+            "columnId": "0a224bd8-4575-453d-bee3-c8e01e9c49bb",
+            "value": false,
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "53dee10c-0d0f-4372-b91a-ff7545608412",
+        "index": 69,
+        "sourceId": null,
+        "creationDateTime": "2025-06-30T12:26:22.105Z",
+        "lastEditedDateTime": "2025-06-30T12:29:32.737Z",
+        "cells": [
+          {
+            "id": "535f4da9-262a-426b-8205-489d3e49e1d8",
+            "columnId": "ba6e4dc2-00af-46b2-8496-40bdfdd62a4d",
+            "content": "Farewell to Arms, A",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "795a12bb-4a67-4158-8320-d6ff36d1c59f",
+            "columnId": "376ee6ff-1f3c-429a-b07d-50af7c162291",
+            "content": "Ernest Hemingway",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "e471a335-464f-4eef-9d7a-cb17fb850aea",
+            "columnId": "0a224bd8-4575-453d-bee3-c8e01e9c49bb",
+            "value": false,
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "66f30511-b734-461d-b095-e4ac769369dc",
+        "index": 70,
+        "sourceId": null,
+        "creationDateTime": "2025-06-30T12:26:22.735Z",
+        "lastEditedDateTime": "2025-06-30T12:29:57.785Z",
+        "cells": [
+          {
+            "id": "5ba13f58-9193-45b5-9acc-578bd68a67e1",
+            "columnId": "ba6e4dc2-00af-46b2-8496-40bdfdd62a4d",
+            "content": "Fat Kid Rules the World",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "a36a964a-55a3-41a3-92dc-65a96f86b39a",
+            "columnId": "376ee6ff-1f3c-429a-b07d-50af7c162291",
+            "content": "K.L.Going",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "2457c3b2-daf0-4709-aff4-dd8586b8b0c6",
+            "columnId": "0a224bd8-4575-453d-bee3-c8e01e9c49bb",
+            "value": false,
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "4e8a7917-e3e6-474f-a703-6a2ec60bad68",
+        "index": 71,
+        "sourceId": null,
+        "creationDateTime": "2025-07-01T11:42:37.287Z",
+        "lastEditedDateTime": "2025-07-01T11:43:10.131Z",
+        "cells": [
+          {
+            "id": "9acedbf1-8d79-4a5c-8426-4d6616cc0c35",
+            "columnId": "ba6e4dc2-00af-46b2-8496-40bdfdd62a4d",
+            "content": "Fifty Shades of Grey",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "d1e9bfcc-210e-4598-ba1e-9010ed7c958f",
+            "columnId": "376ee6ff-1f3c-429a-b07d-50af7c162291",
+            "content": "E.L. James",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "3d06b21b-c0cd-4d43-8152-adfb605114ee",
+            "columnId": "0a224bd8-4575-453d-bee3-c8e01e9c49bb",
+            "value": false,
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "fe6684bd-04b5-443c-a839-b5682583be27",
+        "index": 72,
+        "sourceId": null,
+        "creationDateTime": "2025-07-01T11:42:38.001Z",
+        "lastEditedDateTime": "2025-07-01T11:43:28.155Z",
+        "cells": [
+          {
+            "id": "7de32a5b-0d26-4d04-b362-1fc517951d1b",
+            "columnId": "ba6e4dc2-00af-46b2-8496-40bdfdd62a4d",
+            "content": "Fighting Ground, The",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "7547f9c7-50d2-452e-b183-ed65146e6f3a",
+            "columnId": "376ee6ff-1f3c-429a-b07d-50af7c162291",
+            "content": "Avi",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "eaea48de-e2f4-428a-9890-9492f31af385",
+            "columnId": "0a224bd8-4575-453d-bee3-c8e01e9c49bb",
+            "value": false,
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "a4ca56da-b7a5-4fbf-a14a-0bfb43d81fe9",
+        "index": 73,
+        "sourceId": null,
+        "creationDateTime": "2025-07-01T11:42:38.656Z",
+        "lastEditedDateTime": "2025-07-01T11:43:48.104Z",
+        "cells": [
+          {
+            "id": "45d8bfd9-075a-414b-b073-673f6fa0f5bf",
+            "columnId": "ba6e4dc2-00af-46b2-8496-40bdfdd62a4d",
+            "content": "Final Exit",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "b3c595f2-c735-4ac2-bd25-f92854367e26",
+            "columnId": "376ee6ff-1f3c-429a-b07d-50af7c162291",
+            "content": "Derek Humphry",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "1e3f576e-53bb-434d-a009-8dad1ad2002a",
+            "columnId": "0a224bd8-4575-453d-bee3-c8e01e9c49bb",
+            "value": false,
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "3f317340-46f8-48b0-a2a5-9d4993910fe7",
+        "index": 74,
+        "sourceId": null,
+        "creationDateTime": "2025-07-01T11:42:39.257Z",
+        "lastEditedDateTime": "2025-07-01T11:44:04.425Z",
+        "cells": [
+          {
+            "id": "d59a8756-60a4-426b-a1c4-661aefdff5b8",
+            "columnId": "ba6e4dc2-00af-46b2-8496-40bdfdd62a4d",
+            "content": "Flowers for Algernon",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "c63247ee-0445-4f69-b91a-934760d5474a",
+            "columnId": "376ee6ff-1f3c-429a-b07d-50af7c162291",
+            "content": "Daniel Keyes",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "373fa008-7586-43cd-8732-44d22b8035ea",
+            "columnId": "0a224bd8-4575-453d-bee3-c8e01e9c49bb",
+            "value": true,
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "76b6eddb-f44c-43b2-aa21-2ff6d1042119",
+        "index": 75,
+        "sourceId": null,
+        "creationDateTime": "2025-07-01T11:42:39.746Z",
+        "lastEditedDateTime": "2025-07-01T11:44:21.128Z",
+        "cells": [
+          {
+            "id": "12f1890c-41a0-488a-b789-99f4462a8568",
+            "columnId": "ba6e4dc2-00af-46b2-8496-40bdfdd62a4d",
+            "content": "For Whom The Bell Tolls",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "9822e9fa-8d49-497a-a797-e3db35686b82",
+            "columnId": "376ee6ff-1f3c-429a-b07d-50af7c162291",
+            "content": "Ernest Hemingway",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "9384c7c7-df6c-46a1-bf81-95640edab50d",
+            "columnId": "0a224bd8-4575-453d-bee3-c8e01e9c49bb",
+            "value": false,
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "e9fb2e84-5a1c-4112-96aa-795ab09ad264",
+        "index": 76,
+        "sourceId": null,
+        "creationDateTime": "2025-07-01T11:42:40.291Z",
+        "lastEditedDateTime": "2025-07-01T11:44:32.985Z",
+        "cells": [
+          {
+            "id": "d049e270-4e11-42af-88f7-fa754bf32ceb",
+            "columnId": "ba6e4dc2-00af-46b2-8496-40bdfdd62a4d",
+            "content": "Forever",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "cb9cf916-fb8e-489b-b9b2-f20d689545ac",
+            "columnId": "376ee6ff-1f3c-429a-b07d-50af7c162291",
+            "content": "Judy Blume",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "d5dfe12a-3937-420c-9f29-0eb5e85172f9",
+            "columnId": "0a224bd8-4575-453d-bee3-c8e01e9c49bb",
+            "value": false,
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "473e6b20-7728-4805-aa7f-446224e131fb",
+        "index": 77,
+        "sourceId": null,
+        "creationDateTime": "2025-07-01T11:42:40.802Z",
+        "lastEditedDateTime": "2025-07-01T11:44:53.194Z",
+        "cells": [
+          {
+            "id": "bc429ebf-52c2-40f3-905f-9b6af4d5db6f",
+            "columnId": "ba6e4dc2-00af-46b2-8496-40bdfdd62a4d",
+            "content": "Friday Night Lights",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "fe9f1425-c454-4db3-a15d-93ae755fb17e",
+            "columnId": "376ee6ff-1f3c-429a-b07d-50af7c162291",
+            "content": "H.G. Bissenger",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "7591a02d-04b0-41c1-a5c1-b1a55c584c3d",
+            "columnId": "0a224bd8-4575-453d-bee3-c8e01e9c49bb",
+            "value": false,
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "ddb7b8e5-a9bf-427a-9ae7-fcd7e5a74cbf",
+        "index": 78,
+        "sourceId": null,
+        "creationDateTime": "2025-07-01T11:42:41.309Z",
+        "lastEditedDateTime": "2025-07-01T11:45:12.618Z",
+        "cells": [
+          {
+            "id": "32ecdcdf-a323-430a-ab66-73b6a6a880c8",
+            "columnId": "ba6e4dc2-00af-46b2-8496-40bdfdd62a4d",
+            "content": "Girls and Sex",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "698ae952-fcd2-4d49-a65e-26eff11bbeed",
+            "columnId": "376ee6ff-1f3c-429a-b07d-50af7c162291",
+            "content": "Wardell Pomeroy",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "4c224fb3-a2fd-4ace-8431-882b06225ad5",
+            "columnId": "0a224bd8-4575-453d-bee3-c8e01e9c49bb",
+            "value": false,
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "4573be9b-3cb6-401a-afd4-78243c5ab9dd",
+        "index": 79,
+        "sourceId": null,
+        "creationDateTime": "2025-07-01T11:42:41.820Z",
+        "lastEditedDateTime": "2025-07-01T11:45:28.689Z",
+        "cells": [
+          {
+            "id": "c0e82ae8-7c6f-4842-a5c8-7e68930a9b3a",
+            "columnId": "ba6e4dc2-00af-46b2-8496-40bdfdd62a4d",
+            "content": "Giver, The",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "ff351fa3-ada4-4f95-8c2d-c82b1fe8881c",
+            "columnId": "376ee6ff-1f3c-429a-b07d-50af7c162291",
+            "content": "Lois Lowry",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "c2108066-ac92-487f-a2af-3525b38791d7",
+            "columnId": "0a224bd8-4575-453d-bee3-c8e01e9c49bb",
+            "value": true,
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "e3f05d7c-5476-4f06-9488-bea3c1829d13",
+        "index": 80,
+        "sourceId": null,
+        "creationDateTime": "2025-07-01T11:42:42.349Z",
+        "lastEditedDateTime": "2025-07-01T11:45:47.958Z",
+        "cells": [
+          {
+            "id": "a4d0e8c8-a218-471c-8f1b-f332b9850926",
+            "columnId": "ba6e4dc2-00af-46b2-8496-40bdfdd62a4d",
+            "content": "Go Ask Alice",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "10265864-057a-41af-b7bb-59405f858435",
+            "columnId": "376ee6ff-1f3c-429a-b07d-50af7c162291",
+            "content": "Anonymous",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "da355cd2-c6ed-4b5d-a876-034740e9ad23",
+            "columnId": "0a224bd8-4575-453d-bee3-c8e01e9c49bb",
+            "value": true,
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "444c99de-2938-4441-a4b8-ef487cd4e32c",
+        "index": 81,
+        "sourceId": null,
+        "creationDateTime": "2025-07-02T11:05:23.422Z",
+        "lastEditedDateTime": "2025-07-02T11:05:52.998Z",
+        "cells": [
+          {
+            "id": "16c731ae-f921-4e94-bf39-66e9c3ee4422",
+            "columnId": "ba6e4dc2-00af-46b2-8496-40bdfdd62a4d",
+            "content": "Go Tell It on the Mountain",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "bd434610-e4d7-4ec0-ab16-470dd4af48ca",
+            "columnId": "376ee6ff-1f3c-429a-b07d-50af7c162291",
+            "content": "James Baldwin",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "645ef017-694f-4ae3-8901-59695bb111bc",
+            "columnId": "0a224bd8-4575-453d-bee3-c8e01e9c49bb",
+            "value": false,
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "7aee9e18-738c-4260-9a89-baf7345e152b",
+        "index": 82,
+        "sourceId": null,
+        "creationDateTime": "2025-07-02T11:05:24.120Z",
+        "lastEditedDateTime": "2025-07-02T11:06:11.522Z",
+        "cells": [
+          {
+            "id": "167988ad-ca2e-4041-a06e-c0175abe997f",
+            "columnId": "ba6e4dc2-00af-46b2-8496-40bdfdd62a4d",
+            "content": "Goats, The",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "eb14b58b-7b6c-4a3e-b1df-3d457e12ac15",
+            "columnId": "376ee6ff-1f3c-429a-b07d-50af7c162291",
+            "content": "Brock Cole",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "5602e153-4b53-49b4-a46f-627199a2c1a5",
+            "columnId": "0a224bd8-4575-453d-bee3-c8e01e9c49bb",
+            "value": false,
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "5e740360-fc6c-40c5-8d1b-2b24fc2304f2",
+        "index": 83,
+        "sourceId": null,
+        "creationDateTime": "2025-07-02T11:05:24.714Z",
+        "lastEditedDateTime": "2025-07-02T11:06:34.583Z",
+        "cells": [
+          {
+            "id": "4e662ce7-9b46-4bfc-9f2f-f2055015174d",
+            "columnId": "ba6e4dc2-00af-46b2-8496-40bdfdd62a4d",
+            "content": "Gone with the Wind",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "70f29574-df8c-45b3-aab5-d5ba1662f042",
+            "columnId": "376ee6ff-1f3c-429a-b07d-50af7c162291",
+            "content": "Margaret Mitchell",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "b8c13832-56a4-41f5-a0a8-c3c3a2ced692",
+            "columnId": "0a224bd8-4575-453d-bee3-c8e01e9c49bb",
+            "value": false,
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "80217f07-bc1e-426f-bb0e-0d8b3408b046",
+        "index": 84,
+        "sourceId": null,
+        "creationDateTime": "2025-07-02T11:05:25.194Z",
+        "lastEditedDateTime": "2025-07-02T11:06:52.930Z",
+        "cells": [
+          {
+            "id": "439e3769-7d4f-4480-91f2-53fe34f37a91",
+            "columnId": "ba6e4dc2-00af-46b2-8496-40bdfdd62a4d",
+            "content": "Goosebumps (series)",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "aa938c1d-24ba-4739-b77c-f6e05cb1d51c",
+            "columnId": "376ee6ff-1f3c-429a-b07d-50af7c162291",
+            "content": "R.L. Stine",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "6df2abd9-264f-4cfe-8de7-00a27cf72a1a",
+            "columnId": "0a224bd8-4575-453d-bee3-c8e01e9c49bb",
+            "value": false,
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "146988ca-df38-45c7-91c3-3977886366e2",
+        "index": 85,
+        "sourceId": null,
+        "creationDateTime": "2025-07-02T11:05:25.720Z",
+        "lastEditedDateTime": "2025-07-02T11:07:16.154Z",
+        "cells": [
+          {
+            "id": "e03d2bc7-94d2-4632-bfb2-e61c7d5c8534",
+            "columnId": "ba6e4dc2-00af-46b2-8496-40bdfdd62a4d",
+            "content": "Gossip Girl ( Series )",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "0865444b-3221-499b-9431-97a793bcb97f",
+            "columnId": "376ee6ff-1f3c-429a-b07d-50af7c162291",
+            "content": "Cecily von Ziegesar",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "bfc0c746-dbd5-4b96-927b-e0bae8a36d04",
+            "columnId": "0a224bd8-4575-453d-bee3-c8e01e9c49bb",
+            "value": false,
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "816e7fa2-8e16-4b13-9814-7b461bf1014b",
+        "index": 86,
+        "sourceId": null,
+        "creationDateTime": "2025-07-02T11:05:26.258Z",
+        "lastEditedDateTime": "2025-07-02T11:07:36.666Z",
+        "cells": [
+          {
+            "id": "1c876752-cc86-497a-97a3-ba16c835e035",
+            "columnId": "ba6e4dc2-00af-46b2-8496-40bdfdd62a4d",
+            "content": "Grapes of Wrath, The",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "8191f9c1-1ee4-4d75-a1cc-4b48bbeaf0f7",
+            "columnId": "376ee6ff-1f3c-429a-b07d-50af7c162291",
+            "content": "John Steinbeck",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "5624d63e-8d88-4851-a9ba-e259e7d1bf25",
+            "columnId": "0a224bd8-4575-453d-bee3-c8e01e9c49bb",
+            "value": true,
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "5a6419ba-bfdc-4728-bc91-d7d1a2744802",
+        "index": 87,
+        "sourceId": null,
+        "creationDateTime": "2025-07-02T11:05:26.754Z",
+        "lastEditedDateTime": "2025-07-02T11:07:57.201Z",
+        "cells": [
+          {
+            "id": "f9a79a64-08e1-4802-9a03-c8b2301c2bac",
+            "columnId": "ba6e4dc2-00af-46b2-8496-40bdfdd62a4d",
+            "content": "Great Gatsby, The",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "9c4a1517-d210-428c-b55d-02abc6bc1dcb",
+            "columnId": "376ee6ff-1f3c-429a-b07d-50af7c162291",
+            "content": "F. Scott Fitzgerald",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "6e3beb32-aa50-4915-ae2b-50e344dec761",
+            "columnId": "0a224bd8-4575-453d-bee3-c8e01e9c49bb",
+            "value": false,
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "94b1007b-9e76-4283-9a7d-fc5b37b0017c",
+        "index": 88,
+        "sourceId": null,
+        "creationDateTime": "2025-07-02T11:05:27.276Z",
+        "lastEditedDateTime": "2025-07-02T11:08:19.126Z",
+        "cells": [
+          {
+            "id": "30dddb85-3dea-4cb6-89dd-aaf63e619198",
+            "columnId": "ba6e4dc2-00af-46b2-8496-40bdfdd62a4d",
+            "content": "Great Gilly Hopkins, The ",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "a9ce761f-a71c-4636-923f-61e2dbe3ae0b",
+            "columnId": "376ee6ff-1f3c-429a-b07d-50af7c162291",
+            "content": "Katherine Paterson",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "850e759e-a252-4a26-a728-8816cabef11f",
+            "columnId": "0a224bd8-4575-453d-bee3-c8e01e9c49bb",
+            "value": false,
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "53499a2b-859b-48cf-87cc-f425646cb177",
+        "index": 89,
+        "sourceId": null,
+        "creationDateTime": "2025-07-02T11:05:27.852Z",
+        "lastEditedDateTime": "2025-07-02T11:08:33.766Z",
+        "cells": [
+          {
+            "id": "3d0b5bf7-40e7-4bd8-9fbd-ffe200809df3",
+            "columnId": "ba6e4dc2-00af-46b2-8496-40bdfdd62a4d",
+            "content": "Grendel",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "6775be00-21c1-4145-8df4-c0ae6129428f",
+            "columnId": "376ee6ff-1f3c-429a-b07d-50af7c162291",
+            "content": "John Gardner",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "ea56f292-b9a1-46f7-9835-a6da7ba767d4",
+            "columnId": "0a224bd8-4575-453d-bee3-c8e01e9c49bb",
+            "value": false,
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "6f1e992e-07bd-45fb-8ef2-ad48d6ebe82f",
+        "index": 90,
+        "sourceId": null,
+        "creationDateTime": "2025-07-02T11:05:28.412Z",
+        "lastEditedDateTime": "2025-07-02T11:08:50.514Z",
+        "cells": [
+          {
+            "id": "85f7feb9-676e-428c-93f6-9225fc95d2ab",
+            "columnId": "ba6e4dc2-00af-46b2-8496-40bdfdd62a4d",
+            "content": "Guess What? ",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "e662420a-5107-49c8-b3cc-f5f8e383050a",
+            "columnId": "376ee6ff-1f3c-429a-b07d-50af7c162291",
+            "content": "Mem Fox",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "1e43c3b3-192d-4ef3-8b5c-587df0612249",
+            "columnId": "0a224bd8-4575-453d-bee3-c8e01e9c49bb",
+            "value": false,
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "538c82b1-6da2-4a4d-b21c-e9e2aa309e8b",
+        "index": 91,
+        "sourceId": null,
+        "creationDateTime": "2025-07-02T11:05:28.958Z",
+        "lastEditedDateTime": "2025-07-02T11:09:04.238Z",
+        "cells": [
+          {
+            "id": "231f1b31-2d73-4a81-a919-e1fb5589fa25",
+            "columnId": "ba6e4dc2-00af-46b2-8496-40bdfdd62a4d",
+            "content": "Halloween ABC",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "38cd4d1a-9f66-4b06-965c-d423e3689a7f",
+            "columnId": "376ee6ff-1f3c-429a-b07d-50af7c162291",
+            "content": "Eve Merriam",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "92dfd9fa-40df-4f37-9cd1-53d116c814a2",
+            "columnId": "0a224bd8-4575-453d-bee3-c8e01e9c49bb",
+            "value": false,
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "49323802-6122-4eb7-a0fa-568cb99a28e6",
+        "index": 92,
+        "sourceId": null,
+        "creationDateTime": "2025-07-02T12:58:17.009Z",
+        "lastEditedDateTime": "2025-09-08T11:30:20.176Z",
+        "cells": [
+          {
+            "id": "57bcb542-df6b-47ae-b27c-5034e09b82cd",
+            "columnId": "ba6e4dc2-00af-46b2-8496-40bdfdd62a4d",
+            "content": "Handmaid's Tale, The",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "ddfb5f73-a28e-40c8-b1d7-b90fd8ac54b8",
+            "columnId": "376ee6ff-1f3c-429a-b07d-50af7c162291",
+            "content": "Margaret Atwood",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "d66b87e0-8861-4025-b7cf-5dc2acda9b33",
+            "columnId": "0a224bd8-4575-453d-bee3-c8e01e9c49bb",
+            "value": true,
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "22098db9-09b2-4b1b-a222-30a53e08ac7d",
+        "index": 93,
+        "sourceId": null,
+        "creationDateTime": "2025-07-02T12:58:43.106Z",
+        "lastEditedDateTime": "2025-07-02T12:58:56.719Z",
+        "cells": [
+          {
+            "id": "9dfbbfce-17da-4c3b-925e-db509eed733c",
+            "columnId": "ba6e4dc2-00af-46b2-8496-40bdfdd62a4d",
+            "content": "Harris and Me",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "1e52a9f4-a3e0-4f5d-a7cf-6662f2d1530c",
+            "columnId": "376ee6ff-1f3c-429a-b07d-50af7c162291",
+            "content": "Gary Paulsen",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "0df3b80d-caa4-42ea-9f63-96b9c5ae21da",
+            "columnId": "0a224bd8-4575-453d-bee3-c8e01e9c49bb",
+            "value": false,
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "1a40b893-17b3-471c-9e46-7edc546e48b2",
+        "index": 94,
+        "sourceId": null,
+        "creationDateTime": "2025-07-02T12:58:59.522Z",
+        "lastEditedDateTime": "2025-07-02T12:59:23.051Z",
+        "cells": [
+          {
+            "id": "c83ae0d9-945f-4794-a93d-71f932b6c401",
+            "columnId": "ba6e4dc2-00af-46b2-8496-40bdfdd62a4d",
+            "content": "Harry Potter ( Series ) ",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "7f776195-7b82-4d82-9f8a-d7226064ce51",
+            "columnId": "376ee6ff-1f3c-429a-b07d-50af7c162291",
+            "content": "J.K. Rowling",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "d47b4eba-f61d-4988-b70b-89fea55e2560",
+            "columnId": "0a224bd8-4575-453d-bee3-c8e01e9c49bb",
+            "value": true,
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "d2c34e09-bde0-4a13-b55e-107e81b38b1a",
+        "index": 95,
+        "sourceId": null,
+        "creationDateTime": "2025-07-02T12:59:25.343Z",
+        "lastEditedDateTime": "2025-07-02T12:59:43.486Z",
+        "cells": [
+          {
+            "id": "a081c195-02b0-477a-acce-0f5da72bbda1",
+            "columnId": "ba6e4dc2-00af-46b2-8496-40bdfdd62a4d",
+            "content": "Heart of Darkness",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "129995fa-fb47-4b83-a0d0-8c76c185623b",
+            "columnId": "376ee6ff-1f3c-429a-b07d-50af7c162291",
+            "content": "Joseph Conrad",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "8731e4df-6790-4ca8-a6f6-0a8825a3689b",
+            "columnId": "0a224bd8-4575-453d-bee3-c8e01e9c49bb",
+            "value": true,
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "9756df34-3294-4a77-b4ec-221081c98e72",
+        "index": 96,
+        "sourceId": null,
+        "creationDateTime": "2025-07-02T12:59:46.226Z",
+        "lastEditedDateTime": "2025-07-02T13:00:11.797Z",
+        "cells": [
+          {
+            "id": "d0022673-964c-4c4a-a9be-5db0a0ec29e8",
+            "columnId": "ba6e4dc2-00af-46b2-8496-40bdfdd62a4d",
+            "content": "Heather Has Two Mommies",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "ceb3e70b-3dd7-4311-859e-31b4e921cbf1",
+            "columnId": "376ee6ff-1f3c-429a-b07d-50af7c162291",
+            "content": "Leslea Newman",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "8ff400c1-972b-4669-8e68-fa00f9f92af4",
+            "columnId": "0a224bd8-4575-453d-bee3-c8e01e9c49bb",
+            "value": false,
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "5f84d337-6943-43a7-aa30-47bbed86f804",
+        "index": 97,
+        "sourceId": null,
+        "creationDateTime": "2025-07-02T13:00:13.582Z",
+        "lastEditedDateTime": "2025-07-02T13:00:41.462Z",
+        "cells": [
+          {
+            "id": "4cf4e6fe-94f1-47d9-b671-9d4f70206103",
+            "columnId": "ba6e4dc2-00af-46b2-8496-40bdfdd62a4d",
+            "content": "His Dark Materials (series)",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "addd9d77-c315-4c1e-b695-26488c7e8b62",
+            "columnId": "376ee6ff-1f3c-429a-b07d-50af7c162291",
+            "content": "Phillip Pullman",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "8f245662-8490-46e3-ad35-42af668a23a0",
+            "columnId": "0a224bd8-4575-453d-bee3-c8e01e9c49bb",
+            "value": false,
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "2fe3b38d-f01d-4966-8310-d2a2f9b55234",
+        "index": 98,
+        "sourceId": null,
+        "creationDateTime": "2025-07-02T13:00:42.509Z",
+        "lastEditedDateTime": "2025-07-02T13:01:22.973Z",
+        "cells": [
+          {
+            "id": "c5179df0-6631-4184-a6a3-62f58c5dd7d0",
+            "columnId": "ba6e4dc2-00af-46b2-8496-40bdfdd62a4d",
+            "content": "House of the Spirits, The",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "9563701b-5130-45d1-8e0f-395b42e468e6",
+            "columnId": "376ee6ff-1f3c-429a-b07d-50af7c162291",
+            "content": "Isabel Allende",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "1ec3f317-6c3c-4cb7-984a-89f8c7b5aead",
+            "columnId": "0a224bd8-4575-453d-bee3-c8e01e9c49bb",
+            "value": false,
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "30251b53-a0dd-4470-bb98-12280c75d7d1",
+        "index": 99,
+        "sourceId": null,
+        "creationDateTime": "2025-07-02T13:00:43.167Z",
+        "lastEditedDateTime": "2025-07-02T13:01:49.151Z",
+        "cells": [
+          {
+            "id": "c64b9a4f-1e6d-4d35-a059-eea3b020d0a9",
+            "columnId": "ba6e4dc2-00af-46b2-8496-40bdfdd62a4d",
+            "content": "How to Eat Fried Worms",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "2c24020f-150e-4d09-b136-da754d0626e5",
+            "columnId": "376ee6ff-1f3c-429a-b07d-50af7c162291",
+            "content": "Thomas Rockwell",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "45e2d459-a6f8-4f88-93cc-fa791d7a6ba9",
+            "columnId": "0a224bd8-4575-453d-bee3-c8e01e9c49bb",
+            "value": true,
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "4eb29f5e-65d2-459c-8f0f-d2b09282acf5",
+        "index": 100,
+        "sourceId": null,
+        "creationDateTime": "2025-07-03T11:46:42.842Z",
+        "lastEditedDateTime": "2025-07-03T11:47:10.536Z",
+        "cells": [
+          {
+            "id": "84191a84-86d4-4d20-8384-472a7bca655e",
+            "columnId": "ba6e4dc2-00af-46b2-8496-40bdfdd62a4d",
+            "content": "Hunger Games, The",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "4a079401-a2eb-44f1-8960-3a8af3427911",
+            "columnId": "376ee6ff-1f3c-429a-b07d-50af7c162291",
+            "content": "Suzanne Collins",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "9682326b-0e57-4c0a-88b4-f34e273ebcf4",
+            "columnId": "0a224bd8-4575-453d-bee3-c8e01e9c49bb",
+            "value": false,
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "c03644eb-53d2-46d7-b5aa-90bf86fe3ff1",
+        "index": 101,
+        "sourceId": null,
+        "creationDateTime": "2025-07-03T11:46:43.499Z",
+        "lastEditedDateTime": "2025-07-03T11:47:35.083Z",
+        "cells": [
+          {
+            "id": "ee7db17e-01cf-4e74-af95-0e3c613a6daf",
+            "columnId": "ba6e4dc2-00af-46b2-8496-40bdfdd62a4d",
+            "content": "I Knw Why the Caged Bird Sings",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "c84866e5-7771-486f-b69e-968549a1c1af",
+            "columnId": "376ee6ff-1f3c-429a-b07d-50af7c162291",
+            "content": "Maya Angelou",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "1f9d2949-be00-4446-9e80-a5e38db83435",
+            "columnId": "0a224bd8-4575-453d-bee3-c8e01e9c49bb",
+            "value": false,
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "01e30223-6aa4-464f-89f2-211301b03c7e",
+        "index": 102,
+        "sourceId": null,
+        "creationDateTime": "2025-07-03T11:46:44.147Z",
+        "lastEditedDateTime": "2025-07-03T11:47:50.114Z",
+        "cells": [
+          {
+            "id": "698022bd-c8ec-4928-9a4a-15461c7b84c6",
+            "columnId": "ba6e4dc2-00af-46b2-8496-40bdfdd62a4d",
+            "content": "I Saw Esau",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "78139888-6d3a-4496-9c0c-f4a125c805c1",
+            "columnId": "376ee6ff-1f3c-429a-b07d-50af7c162291",
+            "content": "Ione Opta",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "53488086-9183-458a-9e21-88cfb92293d7",
+            "columnId": "0a224bd8-4575-453d-bee3-c8e01e9c49bb",
+            "value": false,
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "9227714a-e179-434f-9729-df2f33a41cea",
+        "index": 103,
+        "sourceId": null,
+        "creationDateTime": "2025-07-03T11:46:44.675Z",
+        "lastEditedDateTime": "2025-07-03T11:48:06.267Z",
+        "cells": [
+          {
+            "id": "09361bdf-1735-4315-a4c1-36a1324b651b",
+            "columnId": "ba6e4dc2-00af-46b2-8496-40bdfdd62a4d",
+            "content": "In Cold Blood",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "09e56884-7e43-4bdb-9ada-0e5250ce2fa8",
+            "columnId": "376ee6ff-1f3c-429a-b07d-50af7c162291",
+            "content": "Truman Capote",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "dacbc7b6-fde1-4289-aca6-3de132cf0db4",
+            "columnId": "0a224bd8-4575-453d-bee3-c8e01e9c49bb",
+            "value": true,
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "16011c4d-d4b6-45d9-b04f-79cd7b25b604",
+        "index": 104,
+        "sourceId": null,
+        "creationDateTime": "2025-07-03T11:46:45.141Z",
+        "lastEditedDateTime": "2025-07-03T11:48:26.189Z",
+        "cells": [
+          {
+            "id": "09690e3e-7950-4004-976f-e98587c7aec0",
+            "columnId": "ba6e4dc2-00af-46b2-8496-40bdfdd62a4d",
+            "content": "In the Night Kitchen",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "374f11e1-c1ba-4c46-9784-4c245b3fd0eb",
+            "columnId": "376ee6ff-1f3c-429a-b07d-50af7c162291",
+            "content": "Maurice Sendak",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "194e281d-fc93-4797-b5e5-1cb34197ed55",
+            "columnId": "0a224bd8-4575-453d-bee3-c8e01e9c49bb",
+            "value": false,
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "afa60b74-1d3d-48cf-a29a-26fcd5c5785d",
+        "index": 105,
+        "sourceId": null,
+        "creationDateTime": "2025-07-03T11:46:45.597Z",
+        "lastEditedDateTime": "2025-07-03T11:48:43.100Z",
+        "cells": [
+          {
+            "id": "ad77837c-f5f7-4d09-9be8-1bcf288b148c",
+            "columnId": "ba6e4dc2-00af-46b2-8496-40bdfdd62a4d",
+            "content": "Invisible Man",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "c8c184b8-88f1-4ed0-b4fc-646b80b7d6c6",
+            "columnId": "376ee6ff-1f3c-429a-b07d-50af7c162291",
+            "content": "Ralph Ellison",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "264d93db-fcd6-41c5-8774-3a89c6c278bf",
+            "columnId": "0a224bd8-4575-453d-bee3-c8e01e9c49bb",
+            "value": false,
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "a7f68029-5e1a-4e73-be9f-12f333f85790",
+        "index": 106,
+        "sourceId": null,
+        "creationDateTime": "2025-07-03T11:46:46.093Z",
+        "lastEditedDateTime": "2025-07-03T11:49:00.080Z",
+        "cells": [
+          {
+            "id": "bc400cd6-45d1-4861-b83c-ba66f4277d62",
+            "columnId": "ba6e4dc2-00af-46b2-8496-40bdfdd62a4d",
+            "content": "It's Perfectly Norrmal",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "6ca11aed-af0c-42be-a6df-66473a266e24",
+            "columnId": "376ee6ff-1f3c-429a-b07d-50af7c162291",
+            "content": "Robie Harris",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "16f992b3-2b95-409e-af54-d218d26eeedd",
+            "columnId": "0a224bd8-4575-453d-bee3-c8e01e9c49bb",
+            "value": false,
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "75053a9f-6e39-4610-9d83-65150402abb1",
+        "index": 107,
+        "sourceId": null,
+        "creationDateTime": "2025-07-03T11:46:46.605Z",
+        "lastEditedDateTime": "2025-07-03T11:49:31.903Z",
+        "cells": [
+          {
+            "id": "7ecede7b-968c-4045-a6a0-cd20e06626dc",
+            "columnId": "ba6e4dc2-00af-46b2-8496-40bdfdd62a4d",
+            "content": "It's So Amazing",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "2e7d13ba-e25f-4cc5-94ad-5716ea127b8a",
+            "columnId": "376ee6ff-1f3c-429a-b07d-50af7c162291",
+            "content": "Robie Harris",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "3e66a70c-834c-4e48-9f1f-258ee40e6fec",
+            "columnId": "0a224bd8-4575-453d-bee3-c8e01e9c49bb",
+            "value": false,
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "0c3ecb42-420d-4a52-8edc-88b0304de63f",
+        "index": 108,
+        "sourceId": null,
+        "creationDateTime": "2025-07-03T11:46:47.169Z",
+        "lastEditedDateTime": "2025-07-03T11:49:43.156Z",
+        "cells": [
+          {
+            "id": "0ff5a634-cd13-4208-9561-52decb3cd2b1",
+            "columnId": "ba6e4dc2-00af-46b2-8496-40bdfdd62a4d",
+            "content": "Jack",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "c0c7321d-5493-416d-a295-81559db2c771",
+            "columnId": "376ee6ff-1f3c-429a-b07d-50af7c162291",
+            "content": "A.M. Homes",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "03ee10a3-139c-45fa-8443-7debe8347f17",
+            "columnId": "0a224bd8-4575-453d-bee3-c8e01e9c49bb",
+            "value": false,
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "eff60034-62fb-4fe9-932d-9fc69e1dee5a",
+        "index": 109,
+        "sourceId": null,
+        "creationDateTime": "2025-07-03T11:46:47.713Z",
+        "lastEditedDateTime": "2025-07-06T23:10:52.654Z",
+        "cells": [
+          {
+            "id": "17a0ca9a-ee71-4533-9b16-13ad3b92a98a",
+            "columnId": "ba6e4dc2-00af-46b2-8496-40bdfdd62a4d",
+            "content": "James and the Giant Peach",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "2ab425e7-94e1-4637-bbf9-bae089264371",
+            "columnId": "376ee6ff-1f3c-429a-b07d-50af7c162291",
+            "content": "Roald Dahl",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "1a59aee8-5efe-45e1-bb93-e647113c10e9",
+            "columnId": "0a224bd8-4575-453d-bee3-c8e01e9c49bb",
+            "value": true,
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "a02195dc-395a-4978-bca8-0515e643d71f",
+        "index": 110,
+        "sourceId": null,
+        "creationDateTime": "2025-07-03T11:51:11.608Z",
+        "lastEditedDateTime": "2025-07-03T11:51:29.813Z",
+        "cells": [
+          {
+            "id": "a187153a-f635-411e-aa7b-d23648520f8b",
+            "columnId": "ba6e4dc2-00af-46b2-8496-40bdfdd62a4d",
+            "content": "Jay's Journal",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "73029167-5764-44dc-b5be-78eb0370f615",
+            "columnId": "376ee6ff-1f3c-429a-b07d-50af7c162291",
+            "content": "Anonymous",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "f1472148-a421-4a51-9c4c-534e38d370ef",
+            "columnId": "0a224bd8-4575-453d-bee3-c8e01e9c49bb",
+            "value": false,
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "d900e7b3-a849-4365-adaf-29f41f577427",
+        "index": 111,
+        "sourceId": null,
+        "creationDateTime": "2025-07-03T11:51:36.758Z",
+        "lastEditedDateTime": "2025-07-03T11:52:05.075Z",
+        "cells": [
+          {
+            "id": "27358e75-7ede-42af-a00b-df6084793707",
+            "columnId": "ba6e4dc2-00af-46b2-8496-40bdfdd62a4d",
+            "content": "Julie of the Wolves",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "69ea7fa0-d2cd-400e-bdaa-c839f7b8cfb2",
+            "columnId": "376ee6ff-1f3c-429a-b07d-50af7c162291",
+            "content": "Jean Craighead George",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "dc403c6b-4104-4752-a04e-922557529b66",
+            "columnId": "0a224bd8-4575-453d-bee3-c8e01e9c49bb",
+            "value": false,
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "b4c4e148-6dbd-407d-bd29-d0bd2c1cf14e",
+        "index": 112,
+        "sourceId": null,
+        "creationDateTime": "2025-07-03T19:34:35.691Z",
+        "lastEditedDateTime": "2025-07-03T19:35:10.726Z",
+        "cells": [
+          {
+            "id": "df73266c-da75-440e-913e-466af883855c",
+            "columnId": "ba6e4dc2-00af-46b2-8496-40bdfdd62a4d",
+            "content": "Jump Ship to Freedom",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "2d96b3c7-e40b-4e54-b9be-05f0ad4243a9",
+            "columnId": "376ee6ff-1f3c-429a-b07d-50af7c162291",
+            "content": "James Lincoln Collier and Christopher Collier",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "d98c61cf-e532-477f-8b9f-d6d29edf2d38",
+            "columnId": "0a224bd8-4575-453d-bee3-c8e01e9c49bb",
+            "value": false,
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "9aabcaa3-c680-44f3-b2d7-bf54e29ac041",
+        "index": 113,
+        "sourceId": null,
+        "creationDateTime": "2025-07-03T19:34:36.308Z",
+        "lastEditedDateTime": "2025-07-03T19:35:22.476Z",
+        "cells": [
+          {
+            "id": "d3d9ac47-2510-4ed6-9108-066504b34446",
+            "columnId": "ba6e4dc2-00af-46b2-8496-40bdfdd62a4d",
+            "content": "Jumper",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "61ddb0e6-6477-4de2-9640-8bbce11cc826",
+            "columnId": "376ee6ff-1f3c-429a-b07d-50af7c162291",
+            "content": "Steven Gould",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "32a7b046-d055-432e-839d-d62676e2729c",
+            "columnId": "0a224bd8-4575-453d-bee3-c8e01e9c49bb",
+            "value": false,
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "58ee3465-fed1-43ed-b9c6-279fe18b0c9f",
+        "index": 114,
+        "sourceId": null,
+        "creationDateTime": "2025-07-03T19:34:36.853Z",
+        "lastEditedDateTime": "2025-07-03T19:35:36.622Z",
+        "cells": [
+          {
+            "id": "63e29978-1798-4b78-83d7-080f7d931268",
+            "columnId": "ba6e4dc2-00af-46b2-8496-40bdfdd62a4d",
+            "content": "Jungle, The",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "b264bd75-1bd9-4a39-9d12-6fbc7b681e3f",
+            "columnId": "376ee6ff-1f3c-429a-b07d-50af7c162291",
+            "content": "Upton Sinclair",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "9da9a8de-fa63-4066-82dc-f5badbd08ea0",
+            "columnId": "0a224bd8-4575-453d-bee3-c8e01e9c49bb",
+            "value": false,
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "fd8d3923-eb0d-4584-8100-9477c524a891",
+        "index": 115,
+        "sourceId": null,
+        "creationDateTime": "2025-07-03T19:34:37.318Z",
+        "lastEditedDateTime": "2025-07-03T19:36:01.865Z",
+        "cells": [
+          {
+            "id": "10d6138d-2372-490e-b23a-008ce8b1bd08",
+            "columnId": "ba6e4dc2-00af-46b2-8496-40bdfdd62a4d",
+            "content": "Junie B. Jones (Series)",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "c739be91-c6d1-4b10-b5d2-4f3ef4e4a041",
+            "columnId": "376ee6ff-1f3c-429a-b07d-50af7c162291",
+            "content": "Barbara Park",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "a37c2877-8f16-4931-adc0-fc2e584397be",
+            "columnId": "0a224bd8-4575-453d-bee3-c8e01e9c49bb",
+            "value": false,
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "b4fae75e-0d43-4567-8d08-45967244d6e3",
+        "index": 116,
+        "sourceId": null,
+        "creationDateTime": "2025-07-03T19:34:37.743Z",
+        "lastEditedDateTime": "2025-07-03T19:36:36.276Z",
+        "cells": [
+          {
+            "id": "19a1e160-8ace-4458-9186-bf3634d1079c",
+            "columnId": "ba6e4dc2-00af-46b2-8496-40bdfdd62a4d",
+            "content": "Kaffir Boy",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "ca566f7d-35af-461c-8fda-734a15d8f4f7",
+            "columnId": "376ee6ff-1f3c-429a-b07d-50af7c162291",
+            "content": "Mark Mathabane",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "513897b2-b357-463a-94b6-e6f7a6fb4a2a",
+            "columnId": "0a224bd8-4575-453d-bee3-c8e01e9c49bb",
+            "value": false,
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "e234053c-e52d-4cec-90ac-752f68593ee4",
+        "index": 117,
+        "sourceId": null,
+        "creationDateTime": "2025-07-03T19:36:37.252Z",
+        "lastEditedDateTime": "2025-07-03T19:37:00.999Z",
+        "cells": [
+          {
+            "id": "766ef19c-a07c-4420-a2e3-4b4d5473f91b",
+            "columnId": "ba6e4dc2-00af-46b2-8496-40bdfdd62a4d",
+            "content": "Killing Mr. Griffin",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "9946d7aa-78b4-4079-b83c-d8452ff8095a",
+            "columnId": "376ee6ff-1f3c-429a-b07d-50af7c162291",
+            "content": "Lois Duncan",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "ed75ea75-d31d-4227-bb85-730fabbd1d6f",
+            "columnId": "0a224bd8-4575-453d-bee3-c8e01e9c49bb",
+            "value": false,
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "c444d764-d0aa-4e61-ba89-88afac341a1f",
+        "index": 118,
+        "sourceId": null,
+        "creationDateTime": "2025-07-03T19:36:37.901Z",
+        "lastEditedDateTime": "2025-07-03T19:37:23.003Z",
+        "cells": [
+          {
+            "id": "febcc21a-fff6-41b6-91af-41185e778350",
+            "columnId": "ba6e4dc2-00af-46b2-8496-40bdfdd62a4d",
+            "content": "King and King",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "005ff935-fdb7-486e-9425-8b22a37e9c00",
+            "columnId": "376ee6ff-1f3c-429a-b07d-50af7c162291",
+            "content": "Linda de Haan",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "6165aef3-6cfe-49e2-baf1-c187c41d509c",
+            "columnId": "0a224bd8-4575-453d-bee3-c8e01e9c49bb",
+            "value": false,
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "7d0b9819-e6c8-47c5-bc8e-667bcea19f7d",
+        "index": 119,
+        "sourceId": null,
+        "creationDateTime": "2025-07-03T19:36:38.413Z",
+        "lastEditedDateTime": "2025-07-03T19:37:54.599Z",
+        "cells": [
+          {
+            "id": "af45d07c-804a-4536-8a3a-76d1b3cb5d20",
+            "columnId": "ba6e4dc2-00af-46b2-8496-40bdfdd62a4d",
+            "content": "Kite Runner, The",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "66cf94ab-94bb-4431-ab22-bb1e031e5217",
+            "columnId": "376ee6ff-1f3c-429a-b07d-50af7c162291",
+            "content": "Khaled Hosseini",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "d89ccaf6-3d64-451e-8de6-1ed7df812dab",
+            "columnId": "0a224bd8-4575-453d-bee3-c8e01e9c49bb",
+            "value": false,
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "b214cb29-79ca-4165-b502-cad71f3128a0",
+        "index": 120,
+        "sourceId": null,
+        "creationDateTime": "2025-07-03T19:37:58.602Z",
+        "lastEditedDateTime": "2025-07-03T19:38:32.665Z",
+        "cells": [
+          {
+            "id": "36ce019d-cd61-4312-a7d6-ca9d57b07900",
+            "columnId": "ba6e4dc2-00af-46b2-8496-40bdfdd62a4d",
+            "content": "Lady Chatterley's Lover",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "61b62d14-051a-4344-9200-bffc35873891",
+            "columnId": "376ee6ff-1f3c-429a-b07d-50af7c162291",
+            "content": "D.H. Lawrence",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "15a382c1-6eb5-4c67-bb07-aa718d71c11e",
+            "columnId": "0a224bd8-4575-453d-bee3-c8e01e9c49bb",
+            "value": false,
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "baa4b1c1-9281-425a-af15-3f9521a621dc",
+        "index": 121,
+        "sourceId": null,
+        "creationDateTime": "2025-07-03T19:37:59.234Z",
+        "lastEditedDateTime": "2025-07-03T19:38:57.298Z",
+        "cells": [
+          {
+            "id": "012c5827-4b1a-41e7-948b-5f4bf6000850",
+            "columnId": "ba6e4dc2-00af-46b2-8496-40bdfdd62a4d",
+            "content": "Life is Funny",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "74834680-f1ad-47ad-8c7e-6d088d63b98a",
+            "columnId": "376ee6ff-1f3c-429a-b07d-50af7c162291",
+            "content": "E. R. Frank",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "1c214c65-e3ff-4ee3-b965-33c2b4ba9216",
+            "columnId": "0a224bd8-4575-453d-bee3-c8e01e9c49bb",
+            "value": false,
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "bc22327b-aad2-496c-b544-dd3400fc0418",
+        "index": 122,
+        "sourceId": null,
+        "creationDateTime": "2025-07-03T19:37:59.772Z",
+        "lastEditedDateTime": "2025-07-04T12:12:14.592Z",
+        "cells": [
+          {
+            "id": "3c1daa14-a85c-451d-929e-6d8ab5b0f52f",
+            "columnId": "ba6e4dc2-00af-46b2-8496-40bdfdd62a4d",
+            "content": "Light in the Attic, A",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "4006edcf-da92-44db-8229-184c425de246",
+            "columnId": "376ee6ff-1f3c-429a-b07d-50af7c162291",
+            "content": "Shel Silverstein",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "8ab2393c-d53c-4706-b5e1-bcda924e5fbe",
+            "columnId": "0a224bd8-4575-453d-bee3-c8e01e9c49bb",
+            "value": false,
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "21be4676-d803-4f5c-b5fd-4b2ac9812da0",
+        "index": 123,
+        "sourceId": null,
+        "creationDateTime": "2025-07-04T12:12:15.445Z",
+        "lastEditedDateTime": "2025-07-04T12:12:41.628Z",
+        "cells": [
+          {
+            "id": "5f25cda9-42d6-4fa3-b1d2-dc90173c46e8",
+            "columnId": "ba6e4dc2-00af-46b2-8496-40bdfdd62a4d",
+            "content": "Little Black Sambo",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "244f2b97-15bc-4572-87d9-516899ed7312",
+            "columnId": "376ee6ff-1f3c-429a-b07d-50af7c162291",
+            "content": "Helen Bannerman",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "82b15782-dbe9-492c-9938-b078949205bd",
+            "columnId": "0a224bd8-4575-453d-bee3-c8e01e9c49bb",
+            "value": false,
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "3b0a1d3d-a4e1-4982-8500-833351fc78ac",
+        "index": 124,
+        "sourceId": null,
+        "creationDateTime": "2025-07-04T12:12:16.117Z",
+        "lastEditedDateTime": "2025-07-04T12:12:57.744Z",
+        "cells": [
+          {
+            "id": "348be97b-9406-4863-8f48-d76c2770efa2",
+            "columnId": "ba6e4dc2-00af-46b2-8496-40bdfdd62a4d",
+            "content": "Lolita",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "774021f3-e0fc-45c9-b250-0f2f06d08f77",
+            "columnId": "376ee6ff-1f3c-429a-b07d-50af7c162291",
+            "content": "Vladimir Nabokov",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "1028b9db-fb66-480c-afe1-c2fbd2c464a1",
+            "columnId": "0a224bd8-4575-453d-bee3-c8e01e9c49bb",
+            "value": false,
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "3dfc7da9-4f88-4f12-b004-39b6d5defc5c",
+        "index": 125,
+        "sourceId": null,
+        "creationDateTime": "2025-07-04T12:12:16.703Z",
+        "lastEditedDateTime": "2025-07-04T12:13:13.274Z",
+        "cells": [
+          {
+            "id": "bcd85609-da3d-40db-a0d2-3522d1c8a82a",
+            "columnId": "ba6e4dc2-00af-46b2-8496-40bdfdd62a4d",
+            "content": "Looking for Alaska",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "bc53babf-951f-4c60-8eed-b78fe3b449aa",
+            "columnId": "376ee6ff-1f3c-429a-b07d-50af7c162291",
+            "content": "John Green",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "d3f99532-829d-4b1a-b600-c03a8091725a",
+            "columnId": "0a224bd8-4575-453d-bee3-c8e01e9c49bb",
+            "value": true,
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "159c47f6-39bb-4635-9aeb-60c421112ed4",
+        "index": 126,
+        "sourceId": null,
+        "creationDateTime": "2025-07-04T12:12:17.248Z",
+        "lastEditedDateTime": "2025-07-04T12:13:35.572Z",
+        "cells": [
+          {
+            "id": "59ac16a8-e0df-481f-8414-3736526009ce",
+            "columnId": "ba6e4dc2-00af-46b2-8496-40bdfdd62a4d",
+            "content": "Lord of the Flies",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "2b858d6d-cf1c-479b-8ccb-e5a26ab87d77",
+            "columnId": "376ee6ff-1f3c-429a-b07d-50af7c162291",
+            "content": "William Golding",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "0c9adff2-d65a-4fd2-84c2-ddeeda408e7a",
+            "columnId": "0a224bd8-4575-453d-bee3-c8e01e9c49bb",
+            "value": true,
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "6ad5d846-d27a-420d-a55a-9d80afc3ba8d",
+        "index": 127,
+        "sourceId": null,
+        "creationDateTime": "2025-07-04T12:12:17.689Z",
+        "lastEditedDateTime": "2025-07-04T12:13:57.134Z",
+        "cells": [
+          {
+            "id": "dbbfed92-4ae4-44e6-a9bf-771d1728323d",
+            "columnId": "ba6e4dc2-00af-46b2-8496-40bdfdd62a4d",
+            "content": "Lovely Bones, The",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "6a9500c4-8ff3-4268-af5a-6376663ef7a6",
+            "columnId": "376ee6ff-1f3c-429a-b07d-50af7c162291",
+            "content": "Alice Sebold",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "7310b98a-4e4d-4bb5-916f-0ed7acf1b659",
+            "columnId": "0a224bd8-4575-453d-bee3-c8e01e9c49bb",
+            "value": false,
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "cf9c4ce5-e5fc-44e2-8ac3-f5d34a70fc9e",
+        "index": 128,
+        "sourceId": null,
+        "creationDateTime": "2025-07-04T12:12:18.145Z",
+        "lastEditedDateTime": "2025-07-04T12:14:17.220Z",
+        "cells": [
+          {
+            "id": "24ec9ed1-6f13-4955-a7c8-736f9433d502",
+            "columnId": "ba6e4dc2-00af-46b2-8496-40bdfdd62a4d",
+            "content": "Mick Harte Was Here",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "3065ebb9-493f-4ef6-8e5c-b97417ee14f8",
+            "columnId": "376ee6ff-1f3c-429a-b07d-50af7c162291",
+            "content": "Barbara Park",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "0ddccd2d-226d-4765-8565-b28ce6d2246e",
+            "columnId": "0a224bd8-4575-453d-bee3-c8e01e9c49bb",
+            "value": false,
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "be7937b7-8e0f-411e-b533-59296a3f3ad8",
+        "index": 129,
+        "sourceId": null,
+        "creationDateTime": "2025-07-04T12:12:18.577Z",
+        "lastEditedDateTime": "2025-07-04T12:14:36.328Z",
+        "cells": [
+          {
+            "id": "c894c181-a783-4ba0-b4c3-2752bfca7ddd",
+            "columnId": "ba6e4dc2-00af-46b2-8496-40bdfdd62a4d",
+            "content": "Mommy Laid and Egg",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "14c25548-eca9-4951-a9f2-8e2c0c49ce14",
+            "columnId": "376ee6ff-1f3c-429a-b07d-50af7c162291",
+            "content": "Babette Cole",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "4558cc34-e1ec-4442-87ed-31c593482e42",
+            "columnId": "0a224bd8-4575-453d-bee3-c8e01e9c49bb",
+            "value": false,
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "88add8a5-87ff-4666-9ee1-075ceb1aa2a1",
+        "index": 130,
+        "sourceId": null,
+        "creationDateTime": "2025-07-04T12:12:19.019Z",
+        "lastEditedDateTime": "2025-07-04T12:15:15.984Z",
+        "cells": [
+          {
+            "id": "8e7d300f-0c76-4e1f-a4d1-99a460358a9a",
+            "columnId": "ba6e4dc2-00af-46b2-8496-40bdfdd62a4d",
+            "content": "My Brother Sam is Dead",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "0f58e4a4-88a3-4d76-a255-4eeaec4b0e9a",
+            "columnId": "376ee6ff-1f3c-429a-b07d-50af7c162291",
+            "content": "James Lincoln Collier and Christoper Collier",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "98a2a04c-fa56-4b02-ad3b-4197f3299ffc",
+            "columnId": "0a224bd8-4575-453d-bee3-c8e01e9c49bb",
+            "value": false,
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "58790769-3783-400c-9feb-36cc7df1b73f",
+        "index": 131,
+        "sourceId": null,
+        "creationDateTime": "2025-07-04T12:12:19.409Z",
+        "lastEditedDateTime": "2025-07-04T12:15:42.516Z",
+        "cells": [
+          {
+            "id": "91ce858a-f0df-418d-bd72-62ce905ef4c8",
+            "columnId": "ba6e4dc2-00af-46b2-8496-40bdfdd62a4d",
+            "content": "Naked and the Dead, The",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "545fe0cf-4d44-4177-8f8d-7aa535fb67cd",
+            "columnId": "376ee6ff-1f3c-429a-b07d-50af7c162291",
+            "content": "Norman Mailer",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "39f66238-b634-4c7f-8683-d81b3df592cc",
+            "columnId": "0a224bd8-4575-453d-bee3-c8e01e9c49bb",
+            "value": false,
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "06eaa281-1f93-4bdb-8e41-fa2cf34b8c6d",
+        "index": 132,
+        "sourceId": null,
+        "creationDateTime": "2025-07-04T12:15:50.839Z",
+        "lastEditedDateTime": "2025-07-04T12:16:18.805Z",
+        "cells": [
+          {
+            "id": "5483c968-b0f9-468e-b5eb-794b95a28fdd",
+            "columnId": "ba6e4dc2-00af-46b2-8496-40bdfdd62a4d",
+            "content": "Naked Lunch",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "9d2bde79-03e3-49f5-8c2e-bccb64a77f01",
+            "columnId": "376ee6ff-1f3c-429a-b07d-50af7c162291",
+            "content": "William S. Burroughs",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "0551d557-493b-4450-a423-1829b6cd2091",
+            "columnId": "0a224bd8-4575-453d-bee3-c8e01e9c49bb",
+            "value": false,
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "f7475f39-71ae-46dd-ab17-cf0e64eacd4a",
+        "index": 133,
+        "sourceId": null,
+        "creationDateTime": "2025-07-04T23:25:33.773Z",
+        "lastEditedDateTime": "2025-07-04T23:26:32.936Z",
+        "cells": [
+          {
+            "id": "de3df6e7-6dc2-4c89-93e2-c040d4e0e684",
+            "columnId": "ba6e4dc2-00af-46b2-8496-40bdfdd62a4d",
+            "content": "Native Son",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "176be5d1-b22e-48d5-8ba4-30d086f0f7d8",
+            "columnId": "376ee6ff-1f3c-429a-b07d-50af7c162291",
+            "content": "Richard Wright",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "ff04c0f8-ee04-4ce6-bba8-1f355f9b2fb7",
+            "columnId": "0a224bd8-4575-453d-bee3-c8e01e9c49bb",
+            "value": true,
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "df3ea457-3780-454f-99da-049995db93f7",
+        "index": 134,
+        "sourceId": null,
+        "creationDateTime": "2025-07-04T23:25:34.743Z",
+        "lastEditedDateTime": "2025-07-04T23:26:52.786Z",
+        "cells": [
+          {
+            "id": "cef5ee58-13b8-4fae-be97-c819835ef633",
+            "columnId": "ba6e4dc2-00af-46b2-8496-40bdfdd62a4d",
+            "content": "New Joy of Gay Sex, The",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "966bc64c-a33a-4bab-957b-1c583bbb6fc8",
+            "columnId": "376ee6ff-1f3c-429a-b07d-50af7c162291",
+            "content": "Charles Silverstein and Felice Picano",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "530ee0a3-c16b-466c-b550-c987479ea48c",
+            "columnId": "0a224bd8-4575-453d-bee3-c8e01e9c49bb",
+            "value": false,
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "eda143e6-5fc2-4741-b8c4-26649986450c",
+        "index": 135,
+        "sourceId": null,
+        "creationDateTime": "2025-07-04T23:25:35.344Z",
+        "lastEditedDateTime": "2025-07-04T23:27:32.136Z",
+        "cells": [
+          {
+            "id": "fa5946a6-57e8-4c41-a93e-260e56ee21ba",
+            "columnId": "ba6e4dc2-00af-46b2-8496-40bdfdd62a4d",
+            "content": "Nineteeen Eighty-Four",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "b460af34-e1e0-4b4f-9f23-0edcf4e412b3",
+            "columnId": "376ee6ff-1f3c-429a-b07d-50af7c162291",
+            "content": "George Orwell",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "2812e2c5-2a5b-4d13-b738-c86c64daecb3",
+            "columnId": "0a224bd8-4575-453d-bee3-c8e01e9c49bb",
+            "value": true,
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "43267bf8-a40d-4493-8a82-c1cd97851df0",
+        "index": 136,
+        "sourceId": null,
+        "creationDateTime": "2025-07-04T23:25:35.913Z",
+        "lastEditedDateTime": "2025-07-04T23:27:52.154Z",
+        "cells": [
+          {
+            "id": "7291db61-48d7-4472-90bb-2975f66edfdb",
+            "columnId": "ba6e4dc2-00af-46b2-8496-40bdfdd62a4d",
+            "content": "Of Mice and Men",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "14dade48-44a9-40e6-ad66-e758367a026e",
+            "columnId": "376ee6ff-1f3c-429a-b07d-50af7c162291",
+            "content": "John Steinbeck",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "c6b81120-01d3-4543-a501-3b7a5d77aa58",
+            "columnId": "0a224bd8-4575-453d-bee3-c8e01e9c49bb",
+            "value": true,
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "1e69623d-52f8-4d6e-a4f0-65122b987722",
+        "index": 137,
+        "sourceId": null,
+        "creationDateTime": "2025-07-04T23:25:36.528Z",
+        "lastEditedDateTime": "2025-07-04T23:28:06.804Z",
+        "cells": [
+          {
+            "id": "e06d15c5-bb0c-4b0b-8d6e-6d0b00794f97",
+            "columnId": "ba6e4dc2-00af-46b2-8496-40bdfdd62a4d",
+            "content": "Olive's Ocean",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "ca046615-9d47-4f23-a8dc-b69bf9688de5",
+            "columnId": "376ee6ff-1f3c-429a-b07d-50af7c162291",
+            "content": "Kevin Henkes",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "93e676a5-734a-439b-8fd1-66e7913043c1",
+            "columnId": "0a224bd8-4575-453d-bee3-c8e01e9c49bb",
+            "value": false,
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "f0249f49-3f5a-4ea7-b37e-eb13a43badd8",
+        "index": 138,
+        "sourceId": null,
+        "creationDateTime": "2025-07-04T23:25:37.104Z",
+        "lastEditedDateTime": "2025-07-04T23:28:23.890Z",
+        "cells": [
+          {
+            "id": "fe577b3a-41d4-4933-870d-eea84a9f401b",
+            "columnId": "ba6e4dc2-00af-46b2-8496-40bdfdd62a4d",
+            "content": "On My Honor",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "6dfa3ff6-860a-494f-b755-e84eca066116",
+            "columnId": "376ee6ff-1f3c-429a-b07d-50af7c162291",
+            "content": "Marion Dane Bauer",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "310d7945-d6f3-4521-a12b-41ed1dcc6ccf",
+            "columnId": "0a224bd8-4575-453d-bee3-c8e01e9c49bb",
+            "value": false,
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "39beab68-8e5b-4c9c-956b-4599c13e667e",
+        "index": 139,
+        "sourceId": null,
+        "creationDateTime": "2025-07-04T23:25:37.714Z",
+        "lastEditedDateTime": "2025-07-04T23:28:43.348Z",
+        "cells": [
+          {
+            "id": "3478acb4-ebd6-42bd-8eb6-7728fb9a853f",
+            "columnId": "ba6e4dc2-00af-46b2-8496-40bdfdd62a4d",
+            "content": "One Flew Over the Cuckoo's Nest",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "072986c4-6f58-44b8-9aa6-81961c11478c",
+            "columnId": "376ee6ff-1f3c-429a-b07d-50af7c162291",
+            "content": "Ken Kesey",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "082404fa-9126-4406-8a6f-ec28a43ba178",
+            "columnId": "0a224bd8-4575-453d-bee3-c8e01e9c49bb",
+            "value": true,
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "9532dccc-74a8-49f2-85f2-36277c17f637",
+        "index": 140,
+        "sourceId": null,
+        "creationDateTime": "2025-07-04T23:25:38.268Z",
+        "lastEditedDateTime": "2025-07-04T23:29:02.124Z",
+        "cells": [
+          {
+            "id": "d9c966ba-4546-423c-9ebd-d7f40ed8f036",
+            "columnId": "ba6e4dc2-00af-46b2-8496-40bdfdd62a4d",
+            "content": "Ordinary People",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "da5bd0f1-90a2-4d00-b51e-77970344105b",
+            "columnId": "376ee6ff-1f3c-429a-b07d-50af7c162291",
+            "content": "Judith Guest",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "402d430f-94d4-4148-863c-89f0a430bfa6",
+            "columnId": "0a224bd8-4575-453d-bee3-c8e01e9c49bb",
+            "value": false,
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "564a0194-e832-4b16-bd1b-c29d45ab0923",
+        "index": 141,
+        "sourceId": null,
+        "creationDateTime": "2025-07-04T23:25:38.820Z",
+        "lastEditedDateTime": "2025-07-04T23:29:24.838Z",
+        "cells": [
+          {
+            "id": "816345b8-49c4-4925-8b2d-22618c9ae4a3",
+            "columnId": "ba6e4dc2-00af-46b2-8496-40bdfdd62a4d",
+            "content": "Outsiders, The ",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "f16a317f-62ee-4773-9692-bfeca7cf23a2",
+            "columnId": "376ee6ff-1f3c-429a-b07d-50af7c162291",
+            "content": "S.E.Hinton",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "222870f4-03b4-47fc-8bf1-90105d5541e7",
+            "columnId": "0a224bd8-4575-453d-bee3-c8e01e9c49bb",
+            "value": true,
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "6e44f9cc-5eb0-42bb-a574-244cb6921db4",
+        "index": 142,
+        "sourceId": null,
+        "creationDateTime": "2025-07-04T23:25:39.445Z",
+        "lastEditedDateTime": "2025-07-04T23:30:00.784Z",
+        "cells": [
+          {
+            "id": "bb3405dc-2430-4b3f-9091-600e5c06bc74",
+            "columnId": "ba6e4dc2-00af-46b2-8496-40bdfdd62a4d",
+            "content": "Perks of Being a Wallflower, The",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "8c1afd16-7ff5-42f4-9f94-1ece86f74769",
+            "columnId": "376ee6ff-1f3c-429a-b07d-50af7c162291",
+            "content": "Stephen Chbosky",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "fe02761e-30f6-4326-8d2f-2e665b7ca4d9",
+            "columnId": "0a224bd8-4575-453d-bee3-c8e01e9c49bb",
+            "value": false,
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "3b5b82ac-f20b-44e7-9020-be7d58978725",
+        "index": 143,
+        "sourceId": null,
+        "creationDateTime": "2025-07-05T14:30:01.005Z",
+        "lastEditedDateTime": "2025-07-05T14:30:34.170Z",
+        "cells": [
+          {
+            "id": "ee817322-2d4c-452d-a9d0-b02882e68f28",
+            "columnId": "ba6e4dc2-00af-46b2-8496-40bdfdd62a4d",
+            "content": "Persepolis",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "c8747ff2-07d7-4c57-b128-0a1bbbf12955",
+            "columnId": "376ee6ff-1f3c-429a-b07d-50af7c162291",
+            "content": "Marjane Satrapi",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "db398224-8b12-45ba-8692-7276ef4fee97",
+            "columnId": "0a224bd8-4575-453d-bee3-c8e01e9c49bb",
+            "value": false,
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "9d440151-3675-45f0-ba45-c0d2f42bc7cb",
+        "index": 144,
+        "sourceId": null,
+        "creationDateTime": "2025-07-05T14:30:01.742Z",
+        "lastEditedDateTime": "2025-07-05T14:30:50.632Z",
+        "cells": [
+          {
+            "id": "14eabaf7-e4bb-4a27-ab10-6fe2e1c00dd0",
+            "columnId": "ba6e4dc2-00af-46b2-8496-40bdfdd62a4d",
+            "content": "Pigman, The",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "f42242d8-1bb0-441c-91f5-5a11937b1ae6",
+            "columnId": "376ee6ff-1f3c-429a-b07d-50af7c162291",
+            "content": "Paul Zindel",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "06262730-384a-4238-b3f0-61ef44d8f146",
+            "columnId": "0a224bd8-4575-453d-bee3-c8e01e9c49bb",
+            "value": true,
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "ad84468e-a3bf-4c90-b61c-0c0eb666e9af",
+        "index": 145,
+        "sourceId": null,
+        "creationDateTime": "2025-07-05T14:30:02.295Z",
+        "lastEditedDateTime": "2025-07-05T14:31:10.476Z",
+        "cells": [
+          {
+            "id": "75b19ca9-bebd-4116-9aca-063c6681ab6d",
+            "columnId": "ba6e4dc2-00af-46b2-8496-40bdfdd62a4d",
+            "content": "Pillars of the Earth, The",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "ebbd11b7-998f-448f-8401-a50995dbed07",
+            "columnId": "376ee6ff-1f3c-429a-b07d-50af7c162291",
+            "content": "Ken Follett",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "5698b4f4-03d0-4da3-adb8-9a56cdb0bdb1",
+            "columnId": "0a224bd8-4575-453d-bee3-c8e01e9c49bb",
+            "value": false,
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "fe897ca2-d438-4612-b421-9666ae828e3b",
+        "index": 146,
+        "sourceId": null,
+        "creationDateTime": "2025-07-05T14:30:02.706Z",
+        "lastEditedDateTime": "2025-07-05T14:31:41.587Z",
+        "cells": [
+          {
+            "id": "37e75648-e5a6-4b80-bdae-e917ca7dd193",
+            "columnId": "ba6e4dc2-00af-46b2-8496-40bdfdd62a4d",
+            "content": "Prayer for Owen Meany, A",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "06a2182b-d6f1-4e6c-b13d-e89142f93ca7",
+            "columnId": "376ee6ff-1f3c-429a-b07d-50af7c162291",
+            "content": "John Irving",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "badb4de8-6171-4333-a5e1-f97ac5139d07",
+            "columnId": "0a224bd8-4575-453d-bee3-c8e01e9c49bb",
+            "value": false,
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "bcacb4e1-02a8-4d45-9387-d8f0270534d3",
+        "index": 147,
+        "sourceId": null,
+        "creationDateTime": "2025-07-05T14:30:03.008Z",
+        "lastEditedDateTime": "2025-07-05T14:31:58.474Z",
+        "cells": [
+          {
+            "id": "e38a2748-907e-49ca-9579-a6bf226fa047",
+            "columnId": "ba6e4dc2-00af-46b2-8496-40bdfdd62a4d",
+            "content": "Private Parts",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "ea0c5627-11a5-4eb1-b132-e4a0aae2837b",
+            "columnId": "376ee6ff-1f3c-429a-b07d-50af7c162291",
+            "content": "Howard Stern",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "91fafb8e-cc0f-4b8d-a350-55467330a6fc",
+            "columnId": "0a224bd8-4575-453d-bee3-c8e01e9c49bb",
+            "value": false,
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "b17dde0f-8c69-495d-9993-ca66311735b7",
+        "index": 148,
+        "sourceId": null,
+        "creationDateTime": "2025-07-05T14:30:03.232Z",
+        "lastEditedDateTime": "2025-07-05T14:32:14.421Z",
+        "cells": [
+          {
+            "id": "cea5f0e6-8da6-4236-be82-33c9cace1f16",
+            "columnId": "ba6e4dc2-00af-46b2-8496-40bdfdd62a4d",
+            "content": "Rabbit, Run",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "6dbfbe33-c4af-42fe-955b-df50ceadace7",
+            "columnId": "376ee6ff-1f3c-429a-b07d-50af7c162291",
+            "content": "John Updike",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "686b8799-4a8a-4b19-9b8f-171b7de24a4a",
+            "columnId": "0a224bd8-4575-453d-bee3-c8e01e9c49bb",
+            "value": false,
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "6f8858d7-cf60-4689-a83c-859b41bcdb92",
+        "index": 149,
+        "sourceId": null,
+        "creationDateTime": "2025-07-05T14:30:03.450Z",
+        "lastEditedDateTime": "2025-07-05T14:32:32.981Z",
+        "cells": [
+          {
+            "id": "82d1b4a0-aff1-4183-adad-ec06da80d4a9",
+            "columnId": "ba6e4dc2-00af-46b2-8496-40bdfdd62a4d",
+            "content": "Rabbit's Wedding, The",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "2600c86d-8505-437b-ba65-2f63386d7c00",
+            "columnId": "376ee6ff-1f3c-429a-b07d-50af7c162291",
+            "content": "Garth Williams",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "f3080378-29ab-4dad-93c1-2def25c25435",
+            "columnId": "0a224bd8-4575-453d-bee3-c8e01e9c49bb",
+            "value": false,
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "d9cb7899-fc47-4646-a53f-f4c2813bbc65",
+        "index": 150,
+        "sourceId": null,
+        "creationDateTime": "2025-07-05T14:30:03.648Z",
+        "lastEditedDateTime": "2025-07-05T14:32:47.782Z",
+        "cells": [
+          {
+            "id": "9c6cb551-8c97-4b31-8bc3-7eb0b5523520",
+            "columnId": "ba6e4dc2-00af-46b2-8496-40bdfdd62a4d",
+            "content": "Rainbow Boys",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "2d2911f7-4f3f-4d8c-8bc9-11d47d0c74d8",
+            "columnId": "376ee6ff-1f3c-429a-b07d-50af7c162291",
+            "content": "Alex Sanchez",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "bf387520-fb7e-44b6-8d77-552175a52297",
+            "columnId": "0a224bd8-4575-453d-bee3-c8e01e9c49bb",
+            "value": false,
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "5beb2423-cb95-4890-b16d-ca0aadd47ae8",
+        "index": 151,
+        "sourceId": null,
+        "creationDateTime": "2025-07-05T14:30:03.866Z",
+        "lastEditedDateTime": "2025-07-05T14:33:10.039Z",
+        "cells": [
+          {
+            "id": "337f6df0-c8aa-4424-8031-e4d31f44c377",
+            "columnId": "ba6e4dc2-00af-46b2-8496-40bdfdd62a4d",
+            "content": "Roll of Thunder, Hear My Cry",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "c86e3516-4291-48a5-bcf3-b93b6124ea07",
+            "columnId": "376ee6ff-1f3c-429a-b07d-50af7c162291",
+            "content": "Mildred Taylor",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "4eee2835-5c84-4278-b3fb-0a376398cbad",
+            "columnId": "0a224bd8-4575-453d-bee3-c8e01e9c49bb",
+            "value": false,
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "7a7db22d-e8b6-446d-a6f8-fbcac37c8738",
+        "index": 152,
+        "sourceId": null,
+        "creationDateTime": "2025-07-05T14:30:04.066Z",
+        "lastEditedDateTime": "2025-07-05T14:33:33.923Z",
+        "cells": [
+          {
+            "id": "f029811f-84db-41f3-9279-0d79635d610e",
+            "columnId": "ba6e4dc2-00af-46b2-8496-40bdfdd62a4d",
+            "content": "Running Loose",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "efc3ec8b-909f-4c13-9088-1ddbcf6a5392",
+            "columnId": "376ee6ff-1f3c-429a-b07d-50af7c162291",
+            "content": "Chris Crutcher",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "70a4c45c-9a11-433e-bb40-d906e73e5380",
+            "columnId": "0a224bd8-4575-453d-bee3-c8e01e9c49bb",
+            "value": false,
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "2cea67cf-cd7d-4d1a-bf6d-e254b53dd38c",
+        "index": 153,
+        "sourceId": null,
+        "creationDateTime": "2025-07-05T14:30:04.266Z",
+        "lastEditedDateTime": "2025-07-05T14:33:55.846Z",
+        "cells": [
+          {
+            "id": "ebca5d4d-00cb-4b59-9146-6ce7132b03c4",
+            "columnId": "ba6e4dc2-00af-46b2-8496-40bdfdd62a4d",
+            "content": "Saga ",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "b32a2b16-1879-4d55-a364-03b9ebed32d9",
+            "columnId": "376ee6ff-1f3c-429a-b07d-50af7c162291",
+            "content": "Brian Vaughan and Fiona Staples",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "c0eb0eaa-ea82-429d-b9d9-6268b206f3ba",
+            "columnId": "0a224bd8-4575-453d-bee3-c8e01e9c49bb",
+            "value": false,
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "4bddbb9e-e0ab-4e63-9cc3-65b45b226933",
+        "index": 154,
+        "sourceId": null,
+        "creationDateTime": "2025-07-06T11:58:07.903Z",
+        "lastEditedDateTime": "2025-07-06T11:58:35.975Z",
+        "cells": [
+          {
+            "id": "5767c1ae-63b8-4c4d-8242-e0333ab0db9a",
+            "columnId": "ba6e4dc2-00af-46b2-8496-40bdfdd62a4d",
+            "content": "Satanic Verses, The",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "e8303a16-d06e-4139-b0d2-dfedbfac2d79",
+            "columnId": "376ee6ff-1f3c-429a-b07d-50af7c162291",
+            "content": "Salman Rushdie",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "0d3f8b6a-22a6-4227-8843-62f250c71041",
+            "columnId": "0a224bd8-4575-453d-bee3-c8e01e9c49bb",
+            "value": false,
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "26a04a92-eb51-4b08-a611-bb4822557eb0",
+        "index": 155,
+        "sourceId": null,
+        "creationDateTime": "2025-07-06T11:58:08.582Z",
+        "lastEditedDateTime": "2025-07-06T11:59:01.799Z",
+        "cells": [
+          {
+            "id": "c47f594c-7806-429a-b1da-58c69207f85f",
+            "columnId": "ba6e4dc2-00af-46b2-8496-40bdfdd62a4d",
+            "content": "Scary Stories ( Series )",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "d8e75423-90a8-4e18-950d-ba6289bed8f6",
+            "columnId": "376ee6ff-1f3c-429a-b07d-50af7c162291",
+            "content": "Alvin Schwartz",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "ac64c20a-395a-4624-861e-6f95070dfe49",
+            "columnId": "0a224bd8-4575-453d-bee3-c8e01e9c49bb",
+            "value": false,
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "62a5913e-c1dd-4207-aaa0-daf282627bbb",
+        "index": 156,
+        "sourceId": null,
+        "creationDateTime": "2025-07-06T11:58:09.136Z",
+        "lastEditedDateTime": "2025-07-06T11:59:28.589Z",
+        "cells": [
+          {
+            "id": "52bbdfc5-85ae-45ba-86c0-69a29728d6e5",
+            "columnId": "ba6e4dc2-00af-46b2-8496-40bdfdd62a4d",
+            "content": "Separate Peace, A ",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "ab00606c-40bb-4380-8a36-4a822ea6af3b",
+            "columnId": "376ee6ff-1f3c-429a-b07d-50af7c162291",
+            "content": "John Knowles",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "8f7dd01c-45c9-4c94-bbe0-064dec0f5f2d",
+            "columnId": "0a224bd8-4575-453d-bee3-c8e01e9c49bb",
+            "value": false,
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "5f0b27bd-3cd6-426d-ac1e-527b21dfe626",
+        "index": 157,
+        "sourceId": null,
+        "creationDateTime": "2025-07-06T11:58:09.666Z",
+        "lastEditedDateTime": "2025-07-06T11:59:38.624Z",
+        "cells": [
+          {
+            "id": "e19348e7-93ed-4698-b568-80e3edbc7b64",
+            "columnId": "ba6e4dc2-00af-46b2-8496-40bdfdd62a4d",
+            "content": "Sex",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "fda79db4-9c22-44b7-86f6-9c03a19a7012",
+            "columnId": "376ee6ff-1f3c-429a-b07d-50af7c162291",
+            "content": "Madonna",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "68f2e0b6-6f50-4ad2-904c-902ab5990890",
+            "columnId": "0a224bd8-4575-453d-bee3-c8e01e9c49bb",
+            "value": false,
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "0b825ee5-e802-4338-acbb-38b9e1f0695b",
+        "index": 158,
+        "sourceId": null,
+        "creationDateTime": "2025-07-06T11:58:10.162Z",
+        "lastEditedDateTime": "2025-07-06T11:59:53.480Z",
+        "cells": [
+          {
+            "id": "8a8acdc3-a08a-4a89-a439-7c28eb537d38",
+            "columnId": "ba6e4dc2-00af-46b2-8496-40bdfdd62a4d",
+            "content": "Sex Education",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "6a980165-ee75-48fc-924a-6c1734dcb3e6",
+            "columnId": "376ee6ff-1f3c-429a-b07d-50af7c162291",
+            "content": "Jenny Davis",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "81924680-c333-4600-8a53-f336652edd86",
+            "columnId": "0a224bd8-4575-453d-bee3-c8e01e9c49bb",
+            "value": false,
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "1b28715b-cd75-4b58-986c-f4fb19d3ee5d",
+        "index": 159,
+        "sourceId": null,
+        "creationDateTime": "2025-07-06T11:58:10.682Z",
+        "lastEditedDateTime": "2025-07-06T12:00:20.689Z",
+        "cells": [
+          {
+            "id": "98326561-1c3d-456a-a79d-21e10b914dca",
+            "columnId": "ba6e4dc2-00af-46b2-8496-40bdfdd62a4d",
+            "content": "Shade's Children",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "1b03d221-0075-4389-bf3b-edd1068963f1",
+            "columnId": "376ee6ff-1f3c-429a-b07d-50af7c162291",
+            "content": "Garth Nix",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "0ad249eb-a5eb-46eb-8d86-ccd3968af8d2",
+            "columnId": "0a224bd8-4575-453d-bee3-c8e01e9c49bb",
+            "value": false,
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "9190acba-e835-4f0c-b16c-ec9940741102",
+        "index": 160,
+        "sourceId": null,
+        "creationDateTime": "2025-07-06T11:58:11.154Z",
+        "lastEditedDateTime": "2025-07-06T12:00:38.916Z",
+        "cells": [
+          {
+            "id": "d2913304-1d78-4ac0-a11f-df4590ed19fc",
+            "columnId": "ba6e4dc2-00af-46b2-8496-40bdfdd62a4d",
+            "content": "Slaughterhouse Five",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "5eb088bd-a2f6-4819-9761-1a28e8885906",
+            "columnId": "376ee6ff-1f3c-429a-b07d-50af7c162291",
+            "content": "Kurt Vonnegut",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "4692ce2e-3d1a-4979-8ecd-40d94171368a",
+            "columnId": "0a224bd8-4575-453d-bee3-c8e01e9c49bb",
+            "value": true,
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "a6753a36-e4fd-4e70-906f-64e046494738",
+        "index": 161,
+        "sourceId": null,
+        "creationDateTime": "2025-07-06T11:58:11.596Z",
+        "lastEditedDateTime": "2025-07-06T12:01:15.691Z",
+        "cells": [
+          {
+            "id": "e4b9bbd0-2b14-46b2-a495-11fd613bfabb",
+            "columnId": "ba6e4dc2-00af-46b2-8496-40bdfdd62a4d",
+            "content": "Sledding Hill, The ",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "d4c2b14b-b432-4d19-9d6f-943cbf53068e",
+            "columnId": "376ee6ff-1f3c-429a-b07d-50af7c162291",
+            "content": "Chris Crutcher",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "beaa7914-fab2-4067-866a-4c2c44123e38",
+            "columnId": "0a224bd8-4575-453d-bee3-c8e01e9c49bb",
+            "value": false,
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "fe5e6ce7-61eb-4152-b32e-32a30f7c1972",
+        "index": 162,
+        "sourceId": null,
+        "creationDateTime": "2025-07-06T11:58:12.059Z",
+        "lastEditedDateTime": "2025-07-06T12:02:09.061Z",
+        "cells": [
+          {
+            "id": "ca27c68e-f565-4388-af14-6cda5fc29eaa",
+            "columnId": "ba6e4dc2-00af-46b2-8496-40bdfdd62a4d",
+            "content": "Sleeping Beauty Trilogy ",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "5ce87c56-7626-410f-bc59-7a966616a688",
+            "columnId": "376ee6ff-1f3c-429a-b07d-50af7c162291",
+            "content": "A. N. Roquelare ( Anne Rice )",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "8e9464a4-00c0-4821-ba46-23b1f8ff9281",
+            "columnId": "0a224bd8-4575-453d-bee3-c8e01e9c49bb",
+            "value": false,
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "c177ad13-355e-4f41-ae7f-ce8089303cc3",
+        "index": 163,
+        "sourceId": null,
+        "creationDateTime": "2025-07-06T11:58:12.604Z",
+        "lastEditedDateTime": "2025-07-06T12:02:35.671Z",
+        "cells": [
+          {
+            "id": "16177800-25e5-4f7f-a60b-9218404518f3",
+            "columnId": "ba6e4dc2-00af-46b2-8496-40bdfdd62a4d",
+            "content": "Snow Falling on Cedars",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "027f134e-9448-4b52-8ec9-80f028da788f",
+            "columnId": "376ee6ff-1f3c-429a-b07d-50af7c162291",
+            "content": "David Guterson",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "2b3a4e13-b576-4cd4-8703-652179013d18",
+            "columnId": "0a224bd8-4575-453d-bee3-c8e01e9c49bb",
+            "value": false,
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "fefe7d3e-d1f7-460d-8cc7-e0e69dfbd351",
+        "index": 164,
+        "sourceId": null,
+        "creationDateTime": "2025-07-06T22:57:22.076Z",
+        "lastEditedDateTime": "2025-07-06T22:57:52.067Z",
+        "cells": [
+          {
+            "id": "289ee2c5-dcff-4f49-aa1a-e79f6cd8f257",
+            "columnId": "ba6e4dc2-00af-46b2-8496-40bdfdd62a4d",
+            "content": "So Far From the Bamboo Grove",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "a3fab54d-50ef-4496-8acb-115ad6905696",
+            "columnId": "376ee6ff-1f3c-429a-b07d-50af7c162291",
+            "content": "Yoko Watkins",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "0daa85f7-7417-4315-90f0-1e37a46da00c",
+            "columnId": "0a224bd8-4575-453d-bee3-c8e01e9c49bb",
+            "value": false,
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "90502751-0c3b-4268-a7c7-08e95f42410b",
+        "index": 165,
+        "sourceId": null,
+        "creationDateTime": "2025-07-06T22:57:22.763Z",
+        "lastEditedDateTime": "2025-07-06T22:58:14.246Z",
+        "cells": [
+          {
+            "id": "9692a840-d3d1-4829-8da2-c8868eec6e8b",
+            "columnId": "ba6e4dc2-00af-46b2-8496-40bdfdd62a4d",
+            "content": "Song of Solomon",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "a9c8128b-ef60-4d38-aea1-bfde34ab132d",
+            "columnId": "376ee6ff-1f3c-429a-b07d-50af7c162291",
+            "content": "Toni Morrison",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "082146a0-c8b9-43a4-abc9-0ee6525c4a33",
+            "columnId": "0a224bd8-4575-453d-bee3-c8e01e9c49bb",
+            "value": false,
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "22798136-c468-4b73-b13a-9a692d9e0377",
+        "index": 166,
+        "sourceId": null,
+        "creationDateTime": "2025-07-06T22:57:23.274Z",
+        "lastEditedDateTime": "2025-07-06T22:58:36.292Z",
+        "cells": [
+          {
+            "id": "c8d8f932-7636-483b-8518-f34b32162610",
+            "columnId": "ba6e4dc2-00af-46b2-8496-40bdfdd62a4d",
+            "content": "Sons and Lovers",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "1740ed32-c401-4e16-99d1-3308a1ee87c7",
+            "columnId": "376ee6ff-1f3c-429a-b07d-50af7c162291",
+            "content": "D.H. Lawrence",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "4bb4116c-aa39-45d3-8089-506bb6b77ddc",
+            "columnId": "0a224bd8-4575-453d-bee3-c8e01e9c49bb",
+            "value": false,
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "911bbe8d-2d43-4d3c-8629-05afda32914d",
+        "index": 167,
+        "sourceId": null,
+        "creationDateTime": "2025-07-06T22:57:23.746Z",
+        "lastEditedDateTime": "2025-07-06T22:58:56.737Z",
+        "cells": [
+          {
+            "id": "d1cfa13e-0107-448e-ad5f-03c29232a594",
+            "columnId": "ba6e4dc2-00af-46b2-8496-40bdfdd62a4d",
+            "content": "Speak",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "d670d5b4-fbd8-4b06-a9b5-b49c164bf8eb",
+            "columnId": "376ee6ff-1f3c-429a-b07d-50af7c162291",
+            "content": "Laurie Halse Anderson",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "106581fe-d84f-4540-ba83-ede71f86ee67",
+            "columnId": "0a224bd8-4575-453d-bee3-c8e01e9c49bb",
+            "value": false,
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "a0ece576-bf09-4c70-92b5-2d4cb0037050",
+        "index": 168,
+        "sourceId": null,
+        "creationDateTime": "2025-07-06T22:57:24.276Z",
+        "lastEditedDateTime": "2025-07-06T22:59:24.236Z",
+        "cells": [
+          {
+            "id": "0e5cfe51-e841-4d94-a68b-5833b1a5ee92",
+            "columnId": "ba6e4dc2-00af-46b2-8496-40bdfdd62a4d",
+            "content": "Staying Fat for Sarah Byrnes",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "148c8aa2-78c6-4ca8-a235-8cb4b9a5df7a",
+            "columnId": "376ee6ff-1f3c-429a-b07d-50af7c162291",
+            "content": "Chris Crutcher",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "f27e3849-95b2-4f2d-a08c-a227023b0113",
+            "columnId": "0a224bd8-4575-453d-bee3-c8e01e9c49bb",
+            "value": false,
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "ab5e6dc2-600e-47e6-95a8-4796ddd6553f",
+        "index": 169,
+        "sourceId": null,
+        "creationDateTime": "2025-07-06T22:57:24.724Z",
+        "lastEditedDateTime": "2025-07-06T22:59:55.621Z",
+        "cells": [
+          {
+            "id": "49130001-d54b-464b-8b2d-f3ddb2326b22",
+            "columnId": "ba6e4dc2-00af-46b2-8496-40bdfdd62a4d",
+            "content": "Stupids ( series ), The",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "26725378-b7d8-43e3-9075-1261ae0d84d9",
+            "columnId": "376ee6ff-1f3c-429a-b07d-50af7c162291",
+            "content": "Harry Allard",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "2ffb4d0e-40f8-4902-b098-10c28be8aae6",
+            "columnId": "0a224bd8-4575-453d-bee3-c8e01e9c49bb",
+            "value": false,
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "6cded8a5-9884-4980-a5ed-32d3a2de5024",
+        "index": 170,
+        "sourceId": null,
+        "creationDateTime": "2025-07-06T22:57:25.165Z",
+        "lastEditedDateTime": "2025-07-06T23:00:17.490Z",
+        "cells": [
+          {
+            "id": "1124060f-d804-4a76-837c-719d95fe790c",
+            "columnId": "ba6e4dc2-00af-46b2-8496-40bdfdd62a4d",
+            "content": "Summer of My German Soldier",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "01121ea3-c820-4e34-9057-e417e6271c77",
+            "columnId": "376ee6ff-1f3c-429a-b07d-50af7c162291",
+            "content": "Bette Greene",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "3f4cc76d-947f-459a-8fe5-28c1ec2131a8",
+            "columnId": "0a224bd8-4575-453d-bee3-c8e01e9c49bb",
+            "value": true,
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "76e06bb0-0d94-4848-973d-18503d5d3e86",
+        "index": 171,
+        "sourceId": null,
+        "creationDateTime": "2025-07-06T22:57:25.615Z",
+        "lastEditedDateTime": "2025-07-06T23:00:37.200Z",
+        "cells": [
+          {
+            "id": "65e3e1c8-1b9e-4dac-b0c6-f3f82402995d",
+            "columnId": "ba6e4dc2-00af-46b2-8496-40bdfdd62a4d",
+            "content": "Sun Also Rises, The",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "e552e520-0436-4a87-9e7d-2499996acf47",
+            "columnId": "376ee6ff-1f3c-429a-b07d-50af7c162291",
+            "content": "Ernest Hemingway",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "0f799e41-f1b0-4968-8669-bb5ff0b19560",
+            "columnId": "0a224bd8-4575-453d-bee3-c8e01e9c49bb",
+            "value": false,
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "02ef45c7-e5d7-420e-8072-38ef84932cef",
+        "index": 172,
+        "sourceId": null,
+        "creationDateTime": "2025-07-06T22:57:26.079Z",
+        "lastEditedDateTime": "2025-07-06T23:00:53.394Z",
+        "cells": [
+          {
+            "id": "b294a9ab-6396-42ca-bda5-51f6a3478619",
+            "columnId": "ba6e4dc2-00af-46b2-8496-40bdfdd62a4d",
+            "content": "Terrorist",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "e03f3328-192c-47c2-abdc-adda6f0fb992",
+            "columnId": "376ee6ff-1f3c-429a-b07d-50af7c162291",
+            "content": "Caroline B. Cooney",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "29c245b7-9461-4a55-aec1-a72215e6143e",
+            "columnId": "0a224bd8-4575-453d-bee3-c8e01e9c49bb",
+            "value": false,
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "1b02e56d-73b9-4bde-bade-d1dfccb220d6",
+        "index": 173,
+        "sourceId": null,
+        "creationDateTime": "2025-07-06T22:57:26.510Z",
+        "lastEditedDateTime": "2025-07-06T23:01:11.615Z",
+        "cells": [
+          {
+            "id": "74832bb2-30b4-45b5-9019-4a64217411d1",
+            "columnId": "ba6e4dc2-00af-46b2-8496-40bdfdd62a4d",
+            "content": "That Was Then, This Is Now",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "d000ffa6-48ce-4b2c-b41e-975d83b8168b",
+            "columnId": "376ee6ff-1f3c-429a-b07d-50af7c162291",
+            "content": "S.E. Hinton",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "f47a6fbd-f73a-4e88-a951-f812fa277749",
+            "columnId": "0a224bd8-4575-453d-bee3-c8e01e9c49bb",
+            "value": true,
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "1ef2ef3b-2283-4593-816a-35b8a7cfae3a",
+        "index": 174,
+        "sourceId": null,
+        "creationDateTime": "2025-07-06T22:57:26.992Z",
+        "lastEditedDateTime": "2025-07-06T23:01:34.475Z",
+        "cells": [
+          {
+            "id": "5711d000-0937-4192-bc38-0f316e307ed5",
+            "columnId": "ba6e4dc2-00af-46b2-8496-40bdfdd62a4d",
+            "content": "The Glass Castle",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "f616c08a-9951-4dd6-852f-23f8331b4b1a",
+            "columnId": "376ee6ff-1f3c-429a-b07d-50af7c162291",
+            "content": "Jeannette Walls",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "39905328-c165-482d-b83d-32c15e299855",
+            "columnId": "0a224bd8-4575-453d-bee3-c8e01e9c49bb",
+            "value": false,
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "aecb5db3-ae01-4b89-a736-26391815c27c",
+        "index": 175,
+        "sourceId": null,
+        "creationDateTime": "2025-07-06T22:57:27.416Z",
+        "lastEditedDateTime": "2025-07-06T23:02:04.912Z",
+        "cells": [
+          {
+            "id": "f2c27e4d-ba3a-4617-a4c8-08f4fefc693c",
+            "columnId": "ba6e4dc2-00af-46b2-8496-40bdfdd62a4d",
+            "content": "Their Eyes Were Watching God",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "1f54819d-2964-44ab-8d41-001749d449b9",
+            "columnId": "376ee6ff-1f3c-429a-b07d-50af7c162291",
+            "content": "Zora Neale Hurston",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "b9ccc252-93c1-436e-b656-3188bdf47735",
+            "columnId": "0a224bd8-4575-453d-bee3-c8e01e9c49bb",
+            "value": false,
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "50497f75-731c-45d0-9bd4-072acbe7a3d2",
+        "index": 176,
+        "sourceId": null,
+        "creationDateTime": "2025-07-06T22:57:27.835Z",
+        "lastEditedDateTime": "2025-07-06T23:02:27.537Z",
+        "cells": [
+          {
+            "id": "e47d1482-a080-4319-9400-55064486aa55",
+            "columnId": "ba6e4dc2-00af-46b2-8496-40bdfdd62a4d",
+            "content": "Things They Carried, The",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "151f365d-ef45-4150-8a9d-9c603f4d6935",
+            "columnId": "376ee6ff-1f3c-429a-b07d-50af7c162291",
+            "content": "Tim O'Brien",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "23e9ad06-a735-460a-9eab-7810cd15b91f",
+            "columnId": "0a224bd8-4575-453d-bee3-c8e01e9c49bb",
+            "value": true,
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "d8e3c0b7-3295-4c24-9f69-1e84d89ee8fd",
+        "index": 177,
+        "sourceId": null,
+        "creationDateTime": "2025-07-06T22:57:28.187Z",
+        "lastEditedDateTime": "2025-07-06T23:02:43.077Z",
+        "cells": [
+          {
+            "id": "0f467ff9-9bb2-468b-b726-33657dbddf1e",
+            "columnId": "ba6e4dc2-00af-46b2-8496-40bdfdd62a4d",
+            "content": "Thirteen Reasons Why",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "31a9cace-f028-41ec-9383-0e3c1f4706d9",
+            "columnId": "376ee6ff-1f3c-429a-b07d-50af7c162291",
+            "content": "Jay Asher",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "5d3df5a2-f151-455b-b2de-3eb2fec88d82",
+            "columnId": "0a224bd8-4575-453d-bee3-c8e01e9c49bb",
+            "value": false,
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "641d484b-0713-43aa-824e-3a3d4efcc102",
+        "index": 178,
+        "sourceId": null,
+        "creationDateTime": "2025-07-06T23:02:05.127Z",
+        "lastEditedDateTime": "2025-07-06T23:02:58.310Z",
+        "cells": [
+          {
+            "id": "d4a852fb-2b1d-44aa-864b-5a844c945bef",
+            "columnId": "ba6e4dc2-00af-46b2-8496-40bdfdd62a4d",
+            "content": "Tiger Eyes",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "b3a7c2a5-6fd2-4f2c-9abe-0a7d94cd9bd5",
+            "columnId": "376ee6ff-1f3c-429a-b07d-50af7c162291",
+            "content": "Judy Blume",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "2f915c96-bbd6-45cd-ab85-7966dcfd6631",
+            "columnId": "0a224bd8-4575-453d-bee3-c8e01e9c49bb",
+            "value": false,
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "804199d0-abc3-488f-b5e0-1c8099e2a26b",
+        "index": 179,
+        "sourceId": null,
+        "creationDateTime": "2025-07-06T23:02:05.295Z",
+        "lastEditedDateTime": "2025-07-06T23:03:10.920Z",
+        "cells": [
+          {
+            "id": "97f24588-3b40-4848-97f4-4b4393860eee",
+            "columnId": "ba6e4dc2-00af-46b2-8496-40bdfdd62a4d",
+            "content": "Time to Kill",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "63fa04b5-51fe-4ea9-a74b-5849354867b0",
+            "columnId": "376ee6ff-1f3c-429a-b07d-50af7c162291",
+            "content": "John Grisham",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "3487c0a9-ccbd-4ea2-bef2-798962580429",
+            "columnId": "0a224bd8-4575-453d-bee3-c8e01e9c49bb",
+            "value": false,
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "3310871a-8dd9-4d43-92b8-6941b39d85a7",
+        "index": 180,
+        "sourceId": null,
+        "creationDateTime": "2025-07-06T23:02:05.468Z",
+        "lastEditedDateTime": "2025-07-06T23:03:31.155Z",
+        "cells": [
+          {
+            "id": "e343d7b7-2224-4c94-9352-68880c73991a",
+            "columnId": "ba6e4dc2-00af-46b2-8496-40bdfdd62a4d",
+            "content": "To Kill a Mockingbird",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "b9360cb8-2c90-4fa1-9f7f-fa41d66138f4",
+            "columnId": "376ee6ff-1f3c-429a-b07d-50af7c162291",
+            "content": "Harper Lee",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "238b1cc7-3cfa-471d-80a0-29bbe0d7a5d3",
+            "columnId": "0a224bd8-4575-453d-bee3-c8e01e9c49bb",
+            "value": true,
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "7922fd78-9f96-477e-8ac2-06634af5be93",
+        "index": 181,
+        "sourceId": null,
+        "creationDateTime": "2025-07-06T23:02:05.659Z",
+        "lastEditedDateTime": "2025-07-06T23:03:56.760Z",
+        "cells": [
+          {
+            "id": "852eee37-c0d4-4219-ad33-1d2e40a85160",
+            "columnId": "ba6e4dc2-00af-46b2-8496-40bdfdd62a4d",
+            "content": "Tropic of Cancer",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "f079e9d6-e1c9-46a4-8ef7-92f82e580bd4",
+            "columnId": "376ee6ff-1f3c-429a-b07d-50af7c162291",
+            "content": "Henry Miller",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "135338d1-9143-48e6-877f-6815f2fa8236",
+            "columnId": "0a224bd8-4575-453d-bee3-c8e01e9c49bb",
+            "value": false,
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "b08ee900-ac53-4d12-9c80-f2593ffd731c",
+        "index": 182,
+        "sourceId": null,
+        "creationDateTime": "2025-07-06T23:02:05.854Z",
+        "lastEditedDateTime": "2025-07-06T23:04:07.016Z",
+        "cells": [
+          {
+            "id": "29e8eb7b-33cd-4e27-bc06-c0417b6a91ef",
+            "columnId": "ba6e4dc2-00af-46b2-8496-40bdfdd62a4d",
+            "content": "ttyl; ttfn; l8r g8r",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "462b2095-6aa9-4754-a0b9-030a85b9e14e",
+            "columnId": "376ee6ff-1f3c-429a-b07d-50af7c162291",
+            "content": "Lauren Myracle",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "d63d98e3-ea94-4ea1-90be-0c19fc9b3e1f",
+            "columnId": "0a224bd8-4575-453d-bee3-c8e01e9c49bb",
+            "value": false,
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "2aaf21c3-66d9-40b6-b28d-ce5d286741eb",
+        "index": 183,
+        "sourceId": null,
+        "creationDateTime": "2025-07-06T23:02:06.054Z",
+        "lastEditedDateTime": "2025-07-06T23:04:24.779Z",
+        "cells": [
+          {
+            "id": "b796b646-83c7-45bd-a2b8-f596987bb227",
+            "columnId": "ba6e4dc2-00af-46b2-8496-40bdfdd62a4d",
+            "content": "Ulysses",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "40214fc4-5e13-4ece-b0a9-e8e1faec13a6",
+            "columnId": "376ee6ff-1f3c-429a-b07d-50af7c162291",
+            "content": "James Joyce",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "13b7c09d-439e-4cf3-88fc-b3a36e371ab4",
+            "columnId": "0a224bd8-4575-453d-bee3-c8e01e9c49bb",
+            "value": false,
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "0c91d275-201c-4dbd-ad0e-b426ce2c3819",
+        "index": 184,
+        "sourceId": null,
+        "creationDateTime": "2025-07-06T23:02:06.254Z",
+        "lastEditedDateTime": "2025-07-06T23:05:16.193Z",
+        "cells": [
+          {
+            "id": "0bf5e193-111b-4c8c-ae8d-b04746cb7851",
+            "columnId": "ba6e4dc2-00af-46b2-8496-40bdfdd62a4d",
+            "content": "Upstairs Room, The",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "c0993abf-afdb-4880-8f9c-d87b17cd8257",
+            "columnId": "376ee6ff-1f3c-429a-b07d-50af7c162291",
+            "content": "Johanna Reiss",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "f752cc5e-09f8-4c31-abfa-69142f3ae92e",
+            "columnId": "0a224bd8-4575-453d-bee3-c8e01e9c49bb",
+            "value": false,
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "2e761b93-1529-4aca-9d75-556847f221b5",
+        "index": 185,
+        "sourceId": null,
+        "creationDateTime": "2025-07-06T23:02:06.454Z",
+        "lastEditedDateTime": "2025-07-06T23:05:41.963Z",
+        "cells": [
+          {
+            "id": "acf39f7d-bf47-4168-bf57-c8e550426166",
+            "columnId": "ba6e4dc2-00af-46b2-8496-40bdfdd62a4d",
+            "content": "View from the Cherry Tree",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "3d03f995-f63b-4bee-9426-7ebb4ad2fca0",
+            "columnId": "376ee6ff-1f3c-429a-b07d-50af7c162291",
+            "content": "Willo Davis Roberts",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "62533fae-b6fd-4fe1-b53d-068958902b12",
+            "columnId": "0a224bd8-4575-453d-bee3-c8e01e9c49bb",
+            "value": false,
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "1f49dc51-2826-4ed3-a85f-a66c6dfcb15b",
+        "index": 186,
+        "sourceId": null,
+        "creationDateTime": "2025-07-06T23:02:06.679Z",
+        "lastEditedDateTime": "2025-07-06T23:05:55.158Z",
+        "cells": [
+          {
+            "id": "44466c96-070e-4ad8-851b-ed8a41a735c4",
+            "columnId": "ba6e4dc2-00af-46b2-8496-40bdfdd62a4d",
+            "content": "We All Fall Down",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "38bab010-d3c3-488a-b9e7-349a5da91f78",
+            "columnId": "376ee6ff-1f3c-429a-b07d-50af7c162291",
+            "content": "Robert Cormier",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "2c6465fa-ecbe-4f66-a588-118f718e668d",
+            "columnId": "0a224bd8-4575-453d-bee3-c8e01e9c49bb",
+            "value": false,
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "9e18d494-d562-41da-a696-0dfa14c3f68b",
+        "index": 187,
+        "sourceId": null,
+        "creationDateTime": "2025-07-06T23:02:06.902Z",
+        "lastEditedDateTime": "2025-07-06T23:06:09.270Z",
+        "cells": [
+          {
+            "id": "c7122244-ca68-4b96-9e38-073967fd583e",
+            "columnId": "ba6e4dc2-00af-46b2-8496-40bdfdd62a4d",
+            "content": "Whale Talk",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "60b05f89-0589-434e-8394-6a17a1cfdc7d",
+            "columnId": "376ee6ff-1f3c-429a-b07d-50af7c162291",
+            "content": "Chris Crutcher",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "ebfeb409-b74a-4ce8-8bc5-90fe20fbc031",
+            "columnId": "0a224bd8-4575-453d-bee3-c8e01e9c49bb",
+            "value": false,
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "e3f0ad2f-bc6c-4e0d-b9c2-5a2252d522bc",
+        "index": 188,
+        "sourceId": null,
+        "creationDateTime": "2025-07-06T23:02:07.104Z",
+        "lastEditedDateTime": "2025-07-06T23:06:35.712Z",
+        "cells": [
+          {
+            "id": "5d895dbe-6fdd-423f-b853-56c825676dbd",
+            "columnId": "ba6e4dc2-00af-46b2-8496-40bdfdd62a4d",
+            "content": "What My Mother Doesn't Know",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "847efaee-83dc-41c8-bf26-8a7950b11cc1",
+            "columnId": "376ee6ff-1f3c-429a-b07d-50af7c162291",
+            "content": "Sonya Sones",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "695d2ee2-1c0b-468a-a02b-6adef5004415",
+            "columnId": "0a224bd8-4575-453d-bee3-c8e01e9c49bb",
+            "value": false,
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "de579962-94c5-4ee2-9c58-19060b9b5939",
+        "index": 189,
+        "sourceId": null,
+        "creationDateTime": "2025-07-06T23:06:10.911Z",
+        "lastEditedDateTime": "2025-07-06T23:07:10.541Z",
+        "cells": [
+          {
+            "id": "bccf45bb-149d-44f7-a5f3-1e32fd20a3db",
+            "columnId": "ba6e4dc2-00af-46b2-8496-40bdfdd62a4d",
+            "content": "What's Happening to My Body? Book for Boys: A Growing-Up Guide for Parents & Sons",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "7bb1ad74-0dee-4c62-8177-2b3cdbaab468",
+            "columnId": "376ee6ff-1f3c-429a-b07d-50af7c162291",
+            "content": "Lynda Madaras",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "38b0b0a9-a1d1-4bd0-8fdb-88bfaebb4986",
+            "columnId": "0a224bd8-4575-453d-bee3-c8e01e9c49bb",
+            "value": false,
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "b30d8ffe-798a-4a67-b6ed-5a7581db18bd",
+        "index": 190,
+        "sourceId": null,
+        "creationDateTime": "2025-07-06T23:06:11.136Z",
+        "lastEditedDateTime": "2025-07-06T23:07:13.330Z",
+        "cells": [
+          {
+            "id": "ca32cf9a-6e38-44cc-8bf8-c050526d0c05",
+            "columnId": "ba6e4dc2-00af-46b2-8496-40bdfdd62a4d",
+            "content": "What's Happening to My Body? Book for Girls: A Growing-Up Guide for Parents & Daughters",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "67d0ff1b-bfce-4cc5-9298-f5a24b50241e",
+            "columnId": "376ee6ff-1f3c-429a-b07d-50af7c162291",
+            "content": "Lynda Madaras",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "b4a37783-76fd-4df7-8784-75d1a0e2dde5",
+            "columnId": "0a224bd8-4575-453d-bee3-c8e01e9c49bb",
+            "value": false,
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "c6b0d0ec-61aa-4940-98c9-24927e2c0ebc",
+        "index": 191,
+        "sourceId": null,
+        "creationDateTime": "2025-07-06T23:06:11.336Z",
+        "lastEditedDateTime": "2025-07-06T23:07:38.378Z",
+        "cells": [
+          {
+            "id": "3aff3923-31f5-41e1-889d-c053739cd8ce",
+            "columnId": "ba6e4dc2-00af-46b2-8496-40bdfdd62a4d",
+            "content": "When Dad Killed Mom",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "2896251e-c65b-465e-bf23-717b801a2803",
+            "columnId": "376ee6ff-1f3c-429a-b07d-50af7c162291",
+            "content": "Julius Lester",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "a3169ca0-e6de-4655-9637-a10898f7a49b",
+            "columnId": "0a224bd8-4575-453d-bee3-c8e01e9c49bb",
+            "value": false,
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "83f76b8d-e309-419e-8ef0-a8683ca5fae7",
+        "index": 192,
+        "sourceId": null,
+        "creationDateTime": "2025-07-06T23:06:11.536Z",
+        "lastEditedDateTime": "2025-07-06T23:07:57.038Z",
+        "cells": [
+          {
+            "id": "3d0e4847-ba25-4317-aa89-42fb3c8fb840",
+            "columnId": "ba6e4dc2-00af-46b2-8496-40bdfdd62a4d",
+            "content": "Where Did I Come From? ",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "a16028cb-61d9-4187-ba37-2998c68be4d5",
+            "columnId": "376ee6ff-1f3c-429a-b07d-50af7c162291",
+            "content": "Peter Mayle",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "eb9e1741-1ef4-433d-bbb0-146d89941bba",
+            "columnId": "0a224bd8-4575-453d-bee3-c8e01e9c49bb",
+            "value": false,
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "c87a4eef-f2f8-40e8-9e54-2d7ab59fad4b",
+        "index": 193,
+        "sourceId": null,
+        "creationDateTime": "2025-07-06T23:06:11.720Z",
+        "lastEditedDateTime": "2025-07-06T23:08:14.277Z",
+        "cells": [
+          {
+            "id": "984be58e-50f2-444a-9f8b-7e05fc03b954",
+            "columnId": "ba6e4dc2-00af-46b2-8496-40bdfdd62a4d",
+            "content": "Where's Waldo",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "103948ba-7ad9-454d-864a-8d51b2edeedc",
+            "columnId": "376ee6ff-1f3c-429a-b07d-50af7c162291",
+            "content": "Martin Hanford",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "e1d313d6-1468-43a9-b966-10cd81cd5a83",
+            "columnId": "0a224bd8-4575-453d-bee3-c8e01e9c49bb",
+            "value": false,
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "5463ec03-eeec-41d9-8e67-81051e1e0286",
+        "index": 194,
+        "sourceId": null,
+        "creationDateTime": "2025-07-06T23:06:11.920Z",
+        "lastEditedDateTime": "2025-07-06T23:08:30.024Z",
+        "cells": [
+          {
+            "id": "a684ed55-956c-4eb6-a477-0ea320bca93d",
+            "columnId": "ba6e4dc2-00af-46b2-8496-40bdfdd62a4d",
+            "content": "Wish Giver, The",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "375a74d5-7008-4965-8177-5c23c9f80df6",
+            "columnId": "376ee6ff-1f3c-429a-b07d-50af7c162291",
+            "content": "Bill Brittain",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "e365f553-4fd3-4fbb-ac33-7e30e2cc691b",
+            "columnId": "0a224bd8-4575-453d-bee3-c8e01e9c49bb",
+            "value": false,
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "c2a891a3-aa71-4cfd-937e-61a5d311ba87",
+        "index": 195,
+        "sourceId": null,
+        "creationDateTime": "2025-07-06T23:06:12.106Z",
+        "lastEditedDateTime": "2025-07-06T23:08:45.479Z",
+        "cells": [
+          {
+            "id": "dd6cd079-d722-4a36-8946-cd216b83ef7b",
+            "columnId": "ba6e4dc2-00af-46b2-8496-40bdfdd62a4d",
+            "content": "Witches, The ",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "8136e29e-23c5-42db-8e5a-b7b7fd6eefec",
+            "columnId": "376ee6ff-1f3c-429a-b07d-50af7c162291",
+            "content": "Roald Dahl",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "b86dd162-0814-4ffb-9406-840456055f47",
+            "columnId": "0a224bd8-4575-453d-bee3-c8e01e9c49bb",
+            "value": true,
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "0f55a5ce-9856-4bad-8db0-b45057a86e15",
+        "index": 196,
+        "sourceId": null,
+        "creationDateTime": "2025-07-06T23:06:12.304Z",
+        "lastEditedDateTime": "2025-07-06T23:09:01.088Z",
+        "cells": [
+          {
+            "id": "6173599d-18b9-4e40-a3b4-2d038039376c",
+            "columnId": "ba6e4dc2-00af-46b2-8496-40bdfdd62a4d",
+            "content": "Women in Love",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "68786685-f8ae-44ca-bb46-fb7922b9cf50",
+            "columnId": "376ee6ff-1f3c-429a-b07d-50af7c162291",
+            "content": "D.H. Lawrence",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "9384a0c5-713e-477e-b145-3b02a055c8e0",
+            "columnId": "0a224bd8-4575-453d-bee3-c8e01e9c49bb",
+            "value": false,
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "d0ceccf5-9793-4195-a6b9-c050944f124b",
+        "index": 197,
+        "sourceId": null,
+        "creationDateTime": "2025-07-06T23:06:12.512Z",
+        "lastEditedDateTime": "2025-07-06T23:09:26.815Z",
+        "cells": [
+          {
+            "id": "f481bca4-e611-406c-a406-94a3e91c9a91",
+            "columnId": "ba6e4dc2-00af-46b2-8496-40bdfdd62a4d",
+            "content": "Women on Top: How Real Life Has Changed Women’s Sexual Fantasies",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "0713506e-8195-46b8-9bd6-1f2729c53468",
+            "columnId": "376ee6ff-1f3c-429a-b07d-50af7c162291",
+            "content": "Nancy Friday",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "2a23f633-306f-4d26-b4dd-33f5d2cc78e9",
+            "columnId": "0a224bd8-4575-453d-bee3-c8e01e9c49bb",
+            "value": false,
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "199f21ba-9bb1-4289-bc25-a9ebb9a7ee93",
+        "index": 198,
+        "sourceId": null,
+        "creationDateTime": "2025-07-06T23:06:12.730Z",
+        "lastEditedDateTime": "2025-07-06T23:09:47.057Z",
+        "cells": [
+          {
+            "id": "629cae83-92c1-4d46-b0b3-7e68ff686713",
+            "columnId": "ba6e4dc2-00af-46b2-8496-40bdfdd62a4d",
+            "content": "Wrinkle in Time, A",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "59a19701-a943-4a22-82ac-9fd50e002393",
+            "columnId": "376ee6ff-1f3c-429a-b07d-50af7c162291",
+            "content": "Madeline L'Engle",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "763225e9-d01c-48b7-be0f-b096f9967de7",
+            "columnId": "0a224bd8-4575-453d-bee3-c8e01e9c49bb",
+            "value": false,
+            "hasValidFrontmatter": null
+          }
+        ]
+      },
+      {
+        "id": "faafcc6f-4a92-42f3-8f3c-30313540ce2c",
+        "index": 199,
+        "sourceId": null,
+        "creationDateTime": "2025-07-06T23:06:12.938Z",
+        "lastEditedDateTime": "2025-07-06T23:10:05.259Z",
+        "cells": [
+          {
+            "id": "e1124476-016b-49f1-bb0a-94449a014351",
+            "columnId": "ba6e4dc2-00af-46b2-8496-40bdfdd62a4d",
+            "content": "You Hear Me? ",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "ef5f2444-76e6-4205-a698-35bf8b48fcd6",
+            "columnId": "376ee6ff-1f3c-429a-b07d-50af7c162291",
+            "content": "Betsy Franco",
+            "hasValidFrontmatter": null
+          },
+          {
+            "id": "9bd264d5-28c6-43eb-bb70-812475e8af95",
+            "columnId": "0a224bd8-4575-453d-bee3-c8e01e9c49bb",
+            "value": false,
+            "hasValidFrontmatter": null
+          }
+        ]
+      }
+    ],
+    "filters": [],
+    "sources": [],
+    "settings": {
+      "numFrozenColumns": 1,
+      "showCalculationRow": true
+    },
+    "externalRowOrder": []
+  },
+  "pluginVersion": "8.16.1"
+}

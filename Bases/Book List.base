@@ -1,0 +1,70 @@
+properties:
+  file.path:
+    displayName: File Path
+views:
+  - type: cards
+    name: "2026"
+    filters:
+      and:
+        - and:
+            - note["Date Read"] > "2025-12-31"
+            - note["Date Read"] < "2027-11-20"
+            - file.folder.contains("Reading/Books I have read/2026")
+    order:
+      - file.name
+      - Author
+      - Date Read
+    sort:
+      - property: Year Read
+        direction: ASC
+    image: note.Image
+    imageFit: contain
+  - type: cards
+    name: "2025"
+    filters:
+      and:
+        - file.folder.contains("Reading/Books I have read/2025")
+        - and:
+            - note["Date Read"] > "2024-12-31"
+            - note["Date Read"] < "2026-01-01"
+    order:
+      - file.name
+      - Author
+      - Date Read
+      - Image
+    sort:
+      - property: Date Read
+        direction: ASC
+      - property: Year Read
+        direction: ASC
+    image: note.Image
+    imageAspectRatio: 0.8
+    cardSize: 150
+    imageFit: contain
+  - type: cards
+    name: All
+    filters:
+      and:
+        - file.folder.contains("Reading/Books I have read")
+    order:
+      - file.name
+      - Author
+      - Read or Listened
+    image: note.Image
+    imageFit: contain
+  - type: cards
+    name: Favorite Authors
+    filters:
+      and:
+        - note["Favorite Author"] == true
+    groupBy:
+      property: Author
+      direction: ASC
+    order:
+      - file.name
+      - Author
+    sort:
+      - property: file.name
+        direction: ASC
+    imageFit: contain
+    image: note.Image

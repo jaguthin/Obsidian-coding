@@ -25,14 +25,13 @@
             "id": "0e309ffc4b0f3de9",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "bases",
               "state": {
-                "file": "Personal/Wants.md",
-                "mode": "source",
-                "source": false
+                "file": "Bases/Book List.base",
+                "viewName": "Favorite Authors"
               },
-              "icon": "lucide-file",
-              "title": "Wants"
+              "icon": "lucide-layout-grid",
+              "title": "Book List"
             }
           }
         ],
@@ -100,7 +99,8 @@
               "title": "Notebook Navigator"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       },
       {
         "id": "4766fe3f4e63ade5",
@@ -132,22 +132,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d92e59d32790a605",
-            "type": "leaf",
-            "state": {
-              "type": "notebook-navigator-calendar",
-              "state": {},
-              "icon": "notebook-navigator",
-              "title": "Calendar"
-            }
-          },
-          {
             "id": "67f8ad6d6879f109",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Personal/The Future/What I owe Myself/Games - 50 ( See if I can get this to 25 ) - Digital does not count..md",
+                "file": "Bases/Book List.base",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +147,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Games - 50 ( See if I can get this to 25 ) - Digital does not count."
+              "title": "Backlinks for Book List"
             }
           },
           {
@@ -235,6 +225,22 @@
             }
           }
         ]
+      },
+      {
+        "id": "3ae8792b66a1a685",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "28282286198a6ab0",
+            "type": "leaf",
+            "state": {
+              "type": "notebook-navigator-calendar",
+              "state": {},
+              "icon": "notebook-navigator",
+              "title": "Calendar"
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
@@ -266,12 +272,16 @@
   },
   "active": "0e309ffc4b0f3de9",
   "lastOpenFiles": [
-    "Personal/The Future/What I owe Myself/Games - 50 ( See if I can get this to 25 ) - Digital does not count..md",
+    "Personal/Writing/Stories/Short Stories/Fools Gold/Draft 1.md",
+    "Bases/Book List.base",
+    "Personal/Reading/Banned Books",
+    "Bases/Untitled 1.md",
+    "Bases/Untitled.md",
     "Personal/Wants.md",
+    "Personal/The Future/What I owe Myself/Games - 50 ( See if I can get this to 25 ) - Digital does not count..md",
     "Personal/The Future/What I owe Myself/February.loom",
     "Configs/Looms/Budget with less expenses.loom",
     "Configs/Looms/Personal Budget.loom",
-    "Personal/Writing/Stories/Short Stories/Fools Gold/Draft 1.md",
     "Trash/Computer Rebuild 1.md",
     "Trash/Installed on each computer.md",
     "Personal/Jon Money.md",
@@ -292,16 +302,11 @@
     "Personal/Game Notes",
     "Personal/The Future/What I owe Myself/Paid/2026/January.loom",
     "Personal/Finance & Age Goals/For the kids.md",
-    "Personal/Books/Banned Books.loom",
+    "Personal/Reading/Banned Books/Books/Banned Books.loom",
     "Personal/Finance & Age Goals/Financial Goals.md",
     "Configs/Looms/Fiancial Spreadsheet.loom",
-    "Configs/Looms/How much money is needed each month.loom",
-    "Configs/Looms/R2-D2.loom",
     "Personal/Kickstart Stuff/Kickstart Stuff.md",
     "Personal/Writing/Stories/Short Stories/The Survivalist/Index.md",
-    "Personal/Writing/Stories/Fools Gold.md",
-    "Personal/Learning/Languages/Spanish.md",
-    "Personal/Learning/Languages/German.md",
     "Untitled.canvas",
     "Personal/Projects/Models to Build/More Info/Banshee.canvas",
     "Personal/Projects/Models to Build/More Info/Calvin & Hobbes on sled.canvas",
