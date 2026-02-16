@@ -14,7 +14,7 @@
               "type": "bases",
               "state": {
                 "file": "Bases/Book List.base",
-                "viewName": "All"
+                "viewName": "2025"
               },
               "icon": "lucide-layout-grid",
               "title": "Book List"
@@ -84,8 +84,7 @@
               "title": "Notebook Navigator"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       },
       {
         "id": "4766fe3f4e63ade5",
@@ -201,11 +200,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-excalidraw-plugin:New drawing": false,
       "rpg-manager:RPG Manager": false,
-      "notebook-navigator:Notebook Navigator": false
+      "notebook-navigator:Notebook Navigator": false,
+      "obsidian-book-search-plugin:Create new book note": false
     }
   },
-  "active": "3c800a20ddc47da7",
+  "active": "c1f7bde14d7a8054",
   "lastOpenFiles": [
+    "Personal/Reading/Books I have read/2025/Slaughterhouse-Five - Kurt Vonnegut.md",
+    "Bases/Book List.base",
     "Configs/Looms/R2-D2.loom",
     "Configs/Attachments/Painting Reference",
     "Configs/Looms/Personal Budget.loom",
@@ -233,15 +235,12 @@
     "Personal/Wants.md",
     "Personal/Campaigns/Threa.md",
     "Personal/Reading/Banned Books/Books/Banned Books.loom",
-    "Bases/Book List.base",
     "Personal/Reading/Banned Books",
     "Bases/Untitled 1.md",
     "Bases/Untitled.md",
     "Personal/The Future/What I owe Myself/February.loom",
     "Configs/Looms/Budget with less expenses.loom",
-    "Trash/Computer Rebuild 1.md",
     "Personal/Game Notes/Fallout",
-    "Personal/Game Notes",
     "Untitled.canvas",
     "Personal/Projects/Models to Build/More Info/Banshee.canvas",
     "Personal/Projects/Models to Build/More Info/Calvin & Hobbes on sled.canvas",

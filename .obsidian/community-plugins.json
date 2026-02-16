@@ -22,5 +22,6 @@
   "fantasy-content-generator",
   "simple-dice-roller",
   "obsidian-leaflet-plugin",
-  "notebook-navigator"
+  "notebook-navigator",
+  "obsidian-book-search-plugin"
 ]
