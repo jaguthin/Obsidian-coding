@@ -69,3 +69,10 @@ views:
         - note["Read or Listened"] == "Listened"
     image: note.localCover
     imageFit: contain
+  - type: cards
+    name: Before Last Year
+    filters:
+      and:
+        - file.path.contains("Books I have read/Older")
+    image: note.localCover
+    imageFit: contain

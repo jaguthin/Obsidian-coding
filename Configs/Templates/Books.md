@@ -15,6 +15,7 @@ DateRead:
 Read or Listened:
 banner: Configs/Attachments/Banners/banner_oldbooks2-e1329523813604.jpg
 description: "{{description}}"
+banner_y: "100"
 ---
 ##  by `= this.Author`
 > [!description]

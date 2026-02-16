@@ -11,13 +11,14 @@
             "id": "c1f7bde14d7a8054",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "markdown",
               "state": {
-                "file": "Bases/Book List.base",
-                "viewName": "Last Year"
+                "file": "Home Folder/Home Page.md",
+                "mode": "preview",
+                "source": false
               },
-              "icon": "lucide-layout-grid",
-              "title": "Book List"
+              "icon": "lucide-file",
+              "title": "Home Page"
             }
           }
         ]
@@ -253,52 +254,23 @@
         "height": 800,
         "maximize": false,
         "zoom": 0
-      },
-      {
-        "id": "7d4a9a939c803822",
-        "type": "window",
-        "children": [
-          {
-            "id": "f0e9ddafa3b53d39",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "32ad76f5219fed96",
-                "type": "leaf",
-                "state": {
-                  "type": "webviewer",
-                  "state": {
-                    "url": "https://github.com/anpigon/obsidian-book-search-plugin?tab=readme-ov-file#example-template",
-                    "title": "GitHub - anpigon/obsidian-book-search-plugin: Obsidian plugin that automatically creates notes by searching for books",
-                    "mode": "webview"
-                  },
-                  "icon": "globe-2",
-                  "title": "GitHub - anpigon/obsidian-book-search-plugin: Obsidian plugin that automatically creates notes by searching for books"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 2360,
-        "y": 426,
-        "width": 1024,
-        "height": 800,
-        "maximize": false,
-        "zoom": 0
       }
     ]
   },
   "active": "c1f7bde14d7a8054",
   "lastOpenFiles": [
-    "Personal/Reading/Books I have read/Older",
+    "Home Folder/Book List.base",
+    "Home Folder/Home Page.md",
+    "Personal/Reading/Books I have read/Older/What the Hell Did I Just Read.md",
     "Configs/Templates/Books.md",
+    "Configs/Attachments/Banners/Treehouse-Vibes_Her-Tiny-House-in-the-Trees_Blog-Banner.png",
+    "Personal/Reading/Books I have read/2026/Heartwood.md",
+    "Configs/Attachments/Books/What the Hell Did I Just Read.jpg",
+    "Personal/Reading/Books I have read/Older",
     "Personal/Reading/Books I have read/2025/A Tale of Two Cities.md",
-    "Bases/Book List.base",
     "Obsidian Configuration/Configuration.md",
     "Configs/Attachments/Books/A Tale of Two Cities.jpg",
     "Personal/Reading/Books I have read/2026/Uncle Tom's Cabin.md",
-    "Personal/Reading/Books I have read/2026/Heartwood.md",
     "Personal/Reading/Books I have read/2026/Reading Robert Holdstock's Mythago Novels.md",
     "Personal/Reading/Books I have read/2026/The Munckin's Guide to Power Gaming.md",
     "Personal/Reading/Books I have read/2025/King Sorrow.md",
@@ -319,8 +291,6 @@
     "Obsidian Configuration/Tags.md",
     "Obsidian Configuration",
     "Personal/Miscellaneous/PW.md",
-    "Personal/Miscellaneous/Indhira out of school..md",
-    "Personal/Task List.md",
     "Personal/Miscellaneous",
     "Personal/Education",
     "Configs/Attachments/Books/Heartwood.jpg",
@@ -329,14 +299,11 @@
     "Configs/Attachments/Painting reference/71nbFoLB3DL._AC_SL1500_.jpg",
     "Configs/Attachments/Books/Slaughterhouse-Five.jpg",
     "Configs/Attachments/Painting reference/Calvin_And_Hobbes-Snow_Day.webp",
-    "Configs/Attachments/Painting reference/standing.png",
-    "Configs/Attachments/Painting reference/shooting.png",
     "Configs/Attachments/Painting reference",
     "Configs/Attachments/Banners",
     "Tags",
     "Configs/Looms/R2-D2.loom",
     "Configs/Attachments/Painting Reference",
-    "Configs/Looms/Personal Budget.loom",
     "Untitled.canvas",
     "Personal/Projects/Models to Build/More Info/Banshee.canvas",
     "Personal/Projects/Models to Build/More Info/Calvin & Hobbes on sled.canvas",
