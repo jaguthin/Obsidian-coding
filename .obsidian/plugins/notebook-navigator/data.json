@@ -13,7 +13,12 @@
       "hiddenFileProperties": [],
       "navigationBanner": null,
       "periodicNotesFolder": "",
-      "shortcuts": []
+      "shortcuts": [
+        {
+          "type": "folder",
+          "path": "Personal/Reading"
+        }
+      ]
     }
   ],
   "vaultProfile": "default",

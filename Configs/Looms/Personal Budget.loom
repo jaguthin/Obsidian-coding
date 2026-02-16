@@ -108,7 +108,7 @@
         "index": 0,
         "sourceId": null,
         "creationDateTime": "2026-02-10T20:00:31.220Z",
-        "lastEditedDateTime": "2026-02-10T20:15:27.013Z",
+        "lastEditedDateTime": "2026-02-16T01:44:34.241Z",
         "cells": [
           {
             "id": "65d87eb7-0eb2-467c-9dad-4b4f1e417142",
@@ -131,7 +131,7 @@
           {
             "id": "b8324dad-0cee-4090-904e-c64dd8878960",
             "columnId": "296024da-2c13-4d99-a5ea-1060e402d158",
-            "value": 4010,
+            "value": 4000,
             "hasValidFrontmatter": null
           }
         ]
@@ -669,7 +669,7 @@
         "index": 17,
         "sourceId": null,
         "creationDateTime": "2026-02-10T20:11:53.298Z",
-        "lastEditedDateTime": "2026-02-10T20:21:06.548Z",
+        "lastEditedDateTime": "2026-02-16T01:44:49.881Z",
         "cells": [
           {
             "id": "9ef93e67-15f5-49ca-a389-82f1c901e03e",
@@ -680,7 +680,7 @@
           {
             "id": "2f359d41-c84c-4481-87ac-485ef7a59857",
             "columnId": "f6dacaaa-cd47-43aa-9acd-eb16adc04715",
-            "value": 390.75,
+            "value": 380.75,
             "hasValidFrontmatter": null
           },
           {
