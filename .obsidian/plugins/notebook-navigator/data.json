@@ -4,9 +4,7 @@
       "id": "default",
       "name": "Default",
       "fileVisibility": "supported",
-      "hiddenFolders": [
-        "/Configs"
-      ],
+      "hiddenFolders": [],
       "hiddenTags": [],
       "hiddenFileNames": [],
       "hiddenFileTags": [],

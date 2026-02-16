@@ -25,5 +25,6 @@
   "notebook-navigator",
   "obsidian-book-search-plugin",
   "templater-obsidian",
-  "image-embedder"
+  "image-embedder",
+  "make-md"
 ]

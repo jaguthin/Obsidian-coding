@@ -1,9 +1,9 @@
 {
 	"nodes":[
-		{"id":"d469b8cbf7d436c5","type":"file","file":"Configs/Attachments/banshee_screaming-jpg.webp","x":-800,"y":-520,"width":400,"height":400},
+		{"id":"d469b8cbf7d436c5","type":"file","file":"Configs/Attachments/Painting reference/banshee_screaming-jpg.webp","x":-800,"y":-520,"width":400,"height":400},
 		{"id":"12834052b16c1813","type":"file","file":"Configs/Attachments/71nbFoLB3DL._AC_SL1500_.jpg","x":-740,"y":-60,"width":231,"height":400},
-		{"id":"6e2acf47601fb0ae","type":"file","file":"Configs/Attachments/Denis-Dyack-DeadhausSonata_Banshee_06-scaled.jpg","x":-340,"y":-520,"width":276,"height":400},
-		{"id":"62cb0f0d4298c603","type":"file","file":"Configs/Attachments/LGC310-036-Banshee.webp","x":-464,"y":-60,"width":400,"height":225}
+		{"id":"6e2acf47601fb0ae","type":"file","file":"Configs/Attachments/Painting reference/Denis-Dyack-DeadhausSonata_Banshee_06-scaled.jpg","x":-340,"y":-520,"width":276,"height":400},
+		{"id":"62cb0f0d4298c603","type":"file","file":"Configs/Attachments/Painting reference/LGC310-036-Banshee.webp","x":-464,"y":-60,"width":400,"height":225}
 	],
 	"edges":[]
 }
