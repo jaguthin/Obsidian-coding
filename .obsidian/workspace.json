@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Personal/Reading/Books I have read/2025/Something Wicked This Way Comes.md",
+                "file": "Personal/Reading/Books I have read/2025/The Handmaid's Tale.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Something Wicked This Way Comes"
+              "title": "The Handmaid's Tale"
             }
           }
         ]
@@ -85,8 +85,7 @@
               "title": "Notebook Navigator"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       },
       {
         "id": "4766fe3f4e63ade5",
@@ -327,8 +326,11 @@
   },
   "active": "c1f7bde14d7a8054",
   "lastOpenFiles": [
-    "Personal/Reading/Books I have read/2025/The Handmaid's Tale.md",
     "Bases/Book List.base",
+    "Personal/Reading/Books I have read/Something Wicked This Way Comes.md",
+    "Personal/Reading/Books I have read/2025/Something Wicked This Way Comes.md",
+    "Configs/Attachments/Books/Something Wicked This Way Comes.jpg",
+    "Personal/Reading/Books I have read/2025/The Handmaid's Tale.md",
     "Personal/Reading/Books I have read/2025/Slaughterhouse-Five - Kurt Vonnegut.md",
     "Configs/Templates/Test Book Template.md",
     "Personal/Reading/Books I have read/2025/Do the Creepy Thing.md",
@@ -339,7 +341,6 @@
     "Personal/Reading/Books I have read/2025/King Sorrow.md",
     "Personal/Reading/Books I have read/2025/Firefly - Life Signs.md",
     "Personal/Reading/Books I have read/2025/Toby Tyler or, Ten Weeks with a Circus.md",
-    "Personal/Reading/Books I have read/2025/Something Wicked This Way Comes.md",
     "Personal/Reading/Books I have read/2025/Fascinate.md",
     "Personal/Reading/Books I have read/2025/The Charisma Myth.md",
     "Personal/Reading/Books I have read/2025/Turtles all the Way Down.md",
@@ -358,7 +359,6 @@
     "Personal/The Future/Equipment that I want.md",
     "Personal/The Future/Procedure.md",
     "Personal/Command replacements.md",
-    "Personal/Education Path.md",
     "Personal/Reading/Banned Books/Books/Banned Books.loom",
     "Personal/Reading/Banned Books",
     "Personal/The Future/What I owe Myself/February.loom",

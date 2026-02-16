@@ -25,10 +25,9 @@ status: Read
 
 ```dataview
 TABLE WITHOUT ID
-	rows.description as Description
+	
 FROM  #📚Book
-WHERE !contains(file.path, "Templates")
-GROUP BY status
-SORT status
+	rows.description as Description
+GROUP BY Status
 ```
 
