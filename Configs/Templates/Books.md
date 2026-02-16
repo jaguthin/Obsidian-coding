@@ -3,8 +3,8 @@ tags:
   - 📚Book
 title: '"{{title}}"'
 subtitle: '"{{subtitle}}"'
-Author: "[{{author}}]"
-category: "[{{category}}]"
+Author: "{{author}}"
+category: "{{category}}"
 publisher: "{{publisher}}"
 publishDate: "{{publishDate}}"
 totalPage:
@@ -18,10 +18,13 @@ updated: "{{DATE:YYYY-MM-DD HH:mm:ss}}"
 DateRead:
 Read or Listened:
 banner: Configs/Attachments/Banners/banner_oldbooks2-e1329523813604.jpg
+description: "{{description}}"
 ---
-####  by `= this.Author`
+##  by `= this.Author`
 
 #### Description
+
+
 `= this.description`
 
 Finished on : `=this.DateRead`

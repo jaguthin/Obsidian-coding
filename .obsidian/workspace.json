@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Configs/Templates/Test Book Template.md",
-                "mode": "preview",
+                "file": "Configs/Templates/Books.md",
+                "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Test Book Template"
+              "title": "Books"
             }
           }
         ],
@@ -227,9 +227,19 @@
               "icon": "sun",
               "title": "Tenki"
             }
+          },
+          {
+            "id": "9ee0f36a6adbabd3",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       },
       {
         "id": "d3680a54c182aa75",
@@ -398,24 +408,24 @@
       }
     ]
   },
-  "active": "8bd7c13eb4035ebe",
+  "active": "9ee0f36a6adbabd3",
   "lastOpenFiles": [
+    "Configs/Templates/New Books.md",
+    "Configs/Templates/Books.md",
     "Personal/Reading/Books I have read/Slaughterhouse-Five.md",
-    "Configs/Templates/Test Book Template.md",
+    "Personal/Reading/Books I have read/2025/Turtles all the Way Down.md",
+    "Personal/Reading/Books I have read/2025/Slaughterhouse-Five - Kurt Vonnegut.md",
     "Personal/Reading/Books I have read/2025/Something Wicked This Way Comes.md",
     "Personal/Reading/Books I have read/2025/The Charisma Myth.md",
     "Personal/Reading/Books I have read/2025/The Ghostly Tales of Amherst New Hampshire.md",
     "Personal/Reading/Books I have read/2025/The Handmaid's Tale.md",
     "Personal/Reading/Books I have read/2025/Toby Tyler or, Ten Weeks with a Circus.md",
-    "Personal/Reading/Books I have read/2025/Turtles all the Way Down.md",
     "Personal/Reading/Books I have read/Books I have read.md",
     "Configs/Attachments/Painting reference/602085_v9_ba.jpg",
     "Configs/Attachments/Banners/banner_oldbooks2-e1329523813604.jpg",
     "Configs/Attachments/Painting reference/71nbFoLB3DL._AC_SL1500_.jpg",
     "Configs/Attachments/Books/Slaughterhouse-Five.jpg",
-    "Configs/Templates/New Books.md",
     "Personal/Reading/Books I have read/2026/Something Wicked This Way Comes.md",
-    "Personal/Reading/Books I have read/2025/Slaughterhouse-Five - Kurt Vonnegut.md",
     "Configs/Attachments/Painting reference/Calvin_And_Hobbes-Snow_Day.webp",
     "Configs/Attachments/Painting reference/standing.png",
     "Configs/Attachments/Painting reference/shooting.png",
