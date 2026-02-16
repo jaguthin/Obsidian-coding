@@ -54,7 +54,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "[\"tags\"]",
+                "query": "[\"cover\"]",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +85,8 @@
               "title": "Notebook Navigator"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "4766fe3f4e63ade5",
@@ -324,7 +325,7 @@
       }
     ]
   },
-  "active": "c1f7bde14d7a8054",
+  "active": "52be9f2dad444795",
   "lastOpenFiles": [
     "Bases/Book List.base",
     "Personal/Reading/Books I have read/Something Wicked This Way Comes.md",

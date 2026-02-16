@@ -24,10 +24,7 @@ status: Read
 
 
 ```dataview
-TABLE WITHOUT ID
-	
-FROM  #📚Book
-	rows.description as Description
-GROUP BY Status
+TABLE
+FROM #description
 ```
 
