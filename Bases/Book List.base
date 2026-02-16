@@ -1,6 +1,8 @@
 properties:
   file.path:
     displayName: File Path
+  file.basename:
+    displayName: "Title:"
 views:
   - type: cards
     name: "2026"
@@ -28,16 +30,15 @@ views:
             - note["Date Read"] > "2024-12-31"
             - note["Date Read"] < "2026-01-01"
     order:
-      - file.name
+      - file.basename
       - Author
       - Date Read
-      - Image
     sort:
       - property: Date Read
         direction: ASC
       - property: Year Read
         direction: ASC
-    image: note.Image
+    image: note.coverUrl
     imageAspectRatio: 0.8
     cardSize: 150
     imageFit: contain
