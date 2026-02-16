@@ -1,0 +1,11 @@
+
+- Get rid of plugins that I do not need.
+	- Wid
+- Create a home page
+	- Can access all Bases
+	- Open the daily log
+- Create new views
+	- General
+	- RPG
+	- Writing
+	- 
