@@ -51,7 +51,8 @@ views:
       - file.name
       - Author
       - Read or Listened
-    image: note.Image
+      - coverUrl
+    image: note.coverUrl
     imageFit: contain
   - type: cards
     name: Favorite Authors
@@ -68,4 +69,4 @@ views:
       - property: file.name
         direction: ASC
     imageFit: contain
-    image: note.Image
+    image: note.coverUrl

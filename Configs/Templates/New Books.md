@@ -1,7 +1,7 @@
 ---
 Date Read:
 Author:
+coverUrl:
 Read or Listened:
-Image:
 Favorite Author:
 ---

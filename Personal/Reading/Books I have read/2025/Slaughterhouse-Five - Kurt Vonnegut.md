@@ -16,4 +16,5 @@ previewLink: http://books.google.com/books?id=pWyLDQAAQBAJ&printsec=frontcover&d
 isbn13: 9780385333849
 isbn10: 385333846
 Date Read: 2025-05-10
+Read or Listened: Read
 ---
