@@ -13,4 +13,8 @@ by `= this.Author`
 
 #### Description
 `= this.description`
-![[Configs/Attachments/]
+```
+$= dv.span("![[[" + dv.current().Image + "]]")
+```
+
+![[Something Wicked This Way Comes.jpg]]
