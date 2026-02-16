@@ -26,13 +26,11 @@ views:
     order:
       - file.basename
       - Author
-      - Date Read
+      - DateRead
     sort:
-      - property: Date Read
+      - property: DateRead
         direction: ASC
-      - property: Year Read
-        direction: ASC
-    image: note.coverUrl
+    image: note.localCover
     imageAspectRatio: 0.8
     cardSize: 150
     imageFit: contain
@@ -44,9 +42,7 @@ views:
     order:
       - file.name
       - Author
-      - Read or Listened
-      - coverUrl
-    image: note.coverUrl
+    image: note.localCover
     imageFit: contain
   - type: cards
     name: Favorite Authors

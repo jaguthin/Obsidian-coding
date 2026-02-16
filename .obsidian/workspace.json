@@ -11,14 +11,13 @@
             "id": "c1f7bde14d7a8054",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "bases",
               "state": {
-                "file": "Obsidian Configuration/Configuration.md",
-                "mode": "source",
-                "source": true
+                "file": "Bases/Book List.base",
+                "viewName": "All"
               },
-              "icon": "lucide-file",
-              "title": "Configuration"
+              "icon": "lucide-layout-grid",
+              "title": "Book List"
             }
           }
         ]
@@ -95,8 +94,7 @@
               "title": "Navigator"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       },
       {
         "id": "4766fe3f4e63ade5",
@@ -293,9 +291,27 @@
   },
   "active": "c1f7bde14d7a8054",
   "lastOpenFiles": [
-    "Obsidian Configuration/Tags.md",
-    "Obsidian Configuration/Configuration.md",
+    "Personal/Reading/Books I have read/2026/The Munckin's Guide to Power Gaming.md",
+    "Bases/Book List.base",
+    "Personal/Reading/Books I have read/2026/Heartwood.md",
+    "Configs/Templates/Books.md",
+    "Personal/Reading/Books I have read/2025/King Sorrow.md",
+    "Personal/Reading/Books I have read/2025/The Handmaid's Tale.md",
+    "Personal/Reading/Books I have read/2025/Secluded Cabin Sleeps Six.md",
+    "Personal/Reading/Books I have read/2025/Slaughterhouse-Five - Kurt Vonnegut.md",
+    "Personal/Reading/Books I have read/2025/An Abundance of Katherines.md",
+    "Personal/Reading/Books I have read/2025/Firefly - Life Signs.md",
+    "Personal/Reading/Books I have read/2025/Do the Creepy Thing.md",
+    "Personal/Reading/Books I have read/2025/Toby Tyler or, Ten Weeks with a Circus.md",
     "Personal/Reading/Books I have read/2025/Something Wicked This Way Comes.md",
+    "Personal/Reading/Books I have read/2025/Fascinate.md",
+    "Personal/Reading/Books I have read/2025/The Charisma Myth.md",
+    "Personal/Reading/Books I have read/2025/Turtles all the Way Down.md",
+    "Personal/Reading/Books I have read/2025/The Ghostly Tales of Amherst New Hampshire.md",
+    "Personal/Reading/Books I have read/2025/30 Days of Worldbuilding.md",
+    "Configs/Attachments/Books/30 Days of Worldbuilding.jpg",
+    "Obsidian Configuration/Configuration.md",
+    "Obsidian Configuration/Tags.md",
     "Obsidian Configuration",
     "Personal/Miscellaneous/PW.md",
     "Personal/Miscellaneous/Indhira out of school..md",
@@ -304,26 +320,8 @@
     "Personal/Miscellaneous",
     "Personal/Learning/Unity.md",
     "Personal/Finance & Age Goals/To Save Money.md",
-    "Personal/Finance & Age Goals/To Pack.md",
-    "Personal/Learning/Task Management.md",
-    "Personal/Finance & Age Goals/Jon Money.md",
-    "Bases/Book List.base",
     "Personal/Education",
-    "Personal/Projects/Coffee House - Still to do.md",
-    "Personal/Reading/Books I have read/2026/Something Wicked This Way Comes.md",
-    "Personal/Reading/Books I have read/2026/Uncle Tom's Cabin.md",
-    "Personal/Reading/Books I have read/2026/The Munckin's Guide to Power Gaming.md",
-    "Personal/Reading/Books I have read/2026/Heartwood.md",
-    "Personal/Reading/Books I have read/2026/Reading Robert Holdstock's Mythago Novels.md",
     "Configs/Attachments/Books/Heartwood.jpg",
-    "Personal/Reading/Books I have read/Slaughterhouse-Five.md",
-    "Configs/Templates/Books.md",
-    "Configs/Templates/New Books.md",
-    "Personal/Reading/Books I have read/2025/Turtles all the Way Down.md",
-    "Personal/Reading/Books I have read/2025/Slaughterhouse-Five - Kurt Vonnegut.md",
-    "Personal/Reading/Books I have read/2025/The Charisma Myth.md",
-    "Personal/Reading/Books I have read/2025/The Ghostly Tales of Amherst New Hampshire.md",
-    "Personal/Reading/Books I have read/2025/The Handmaid's Tale.md",
     "Configs/Attachments/Painting reference/602085_v9_ba.jpg",
     "Configs/Attachments/Banners/banner_oldbooks2-e1329523813604.jpg",
     "Configs/Attachments/Painting reference/71nbFoLB3DL._AC_SL1500_.jpg",
@@ -332,7 +330,6 @@
     "Configs/Attachments/Painting reference/standing.png",
     "Configs/Attachments/Painting reference/shooting.png",
     "Configs/Attachments/Painting reference/th-2339337808.jpg",
-    "Configs/Attachments/Painting reference/vlcsnap-2023-09-21-17h10m30s866.png",
     "Configs/Attachments/Painting reference",
     "Configs/Attachments/Banners",
     "Tags",

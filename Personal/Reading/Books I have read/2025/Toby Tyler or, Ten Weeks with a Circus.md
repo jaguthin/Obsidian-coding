@@ -3,5 +3,5 @@ DateRead: 2025-02-14
 Author: James Otis
 Read or Listened: Read
 Favorite Author:
-coverUrl: "[[Toby Tyler - Jame Otis.webp]]"
+localCover: "[[Toby Tyler - Jame Otis.webp]]"
 ---

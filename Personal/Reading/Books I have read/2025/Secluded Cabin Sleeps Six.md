@@ -15,7 +15,7 @@ link: https://books.google.com/books/about/Secluded_Cabin_Sleeps_Six.html?hl=&id
 previewLink: http://books.google.com/books?id=u7ypEAAAQBAJ&pg=PT38&dq=secluded+cabin+sleep+six&hl=&as_pt=BOOKS&cd=2&source=gbs_api
 isbn13: 9781915643995
 isbn10: 1915643996
-localCoverImage: Configs/Attachments/Books/Secluded Cabin Sleeps Six.jpg
+localCover: Configs/Attachments/Books/Secluded Cabin Sleeps Six.jpg
 DateRead: 2025-05-30
 Read or Listened: Read
 ---

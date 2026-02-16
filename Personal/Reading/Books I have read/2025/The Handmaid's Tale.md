@@ -20,5 +20,6 @@ DateRead: 2025-07-02
 tags:
   - Books
 status: Read
+localCover: "[[The Handmaid's Tale.jpg]]"
 ---
 

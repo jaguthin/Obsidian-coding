@@ -17,4 +17,5 @@ isbn13: 9780385333849
 isbn10: 385333846
 DateRead: 2025-05-10
 Read or Listened: Read
+localCover: "[[Slaughterhouse-Five.jpg]]"
 ---

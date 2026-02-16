@@ -1,6 +1,6 @@
 
 - Get rid of plugins that I do not need.
-	- Wid
+	- Widget?
 - Create a home page
 	- Can access all Bases
 	- Open the daily log
@@ -8,4 +8,4 @@
 	- General
 	- RPG
 	- Writing
-	- 
+	- Coding
