@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Personal/Reading/Books I have read/2025/Slaughterhouse-Five - Kurt Vonnegut.md",
+                "file": "Personal/Reading/Books I have read/2025/The Handmaid's Tale.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Slaughterhouse-Five - Kurt Vonnegut"
+              "title": "The Handmaid's Tale"
             }
           }
         ]
@@ -177,8 +177,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 363,
-    "collapsed": true
+    "width": 363
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -289,15 +288,30 @@
                 "state": {
                   "type": "webviewer",
                   "state": {
-                    "url": "https://github.com/anpigon/obsidian-book-search-plugin#example-template",
+                    "url": "https://github.com/anpigon/obsidian-book-search-plugin?tab=readme-ov-file#example-template",
                     "title": "GitHub - anpigon/obsidian-book-search-plugin: Obsidian plugin that automatically creates notes by searching for books",
                     "mode": "webview"
                   },
                   "icon": "globe-2",
                   "title": "GitHub - anpigon/obsidian-book-search-plugin: Obsidian plugin that automatically creates notes by searching for books"
                 }
+              },
+              {
+                "id": "b685f3d7d347f747",
+                "type": "leaf",
+                "state": {
+                  "type": "webviewer",
+                  "state": {
+                    "url": "https://user-images.githubusercontent.com/3969643/184546096-82ccaae6-9893-411b-aed6-a72c54f72cb2.png",
+                    "title": "184546096-82ccaae6-9893-411b-aed6-a72c54f72cb2.png (2516×1320)",
+                    "mode": "webview"
+                  },
+                  "icon": "globe-2",
+                  "title": "184546096-82ccaae6-9893-411b-aed6-a72c54f72cb2.png (2516×1320)"
+                }
               }
-            ]
+            ],
+            "currentTab": 1
           }
         ],
         "direction": "vertical",
@@ -313,14 +327,14 @@
   "active": "c1f7bde14d7a8054",
   "lastOpenFiles": [
     "Personal/Reading/Books I have read/2025/The Handmaid's Tale.md",
+    "Bases/Book List.base",
+    "Personal/Reading/Books I have read/2025/Slaughterhouse-Five - Kurt Vonnegut.md",
     "Configs/Templates/Test Book Template.md",
     "Personal/Reading/Books I have read/2025/Do the Creepy Thing.md",
     "Personal/Reading/Books I have read/2025/An Abundance of Katherines.md",
-    "Bases/Book List.base",
     "Configs/Attachments/Books/The Handmaid's Tale.jpg",
     "Configs/Templates/New Books.md",
     "Personal/Reading/Books I have read/2025/Secluded Cabin Sleeps Six.md",
-    "Personal/Reading/Books I have read/2025/Slaughterhouse-Five - Kurt Vonnegut.md",
     "Personal/Reading/Books I have read/2025/King Sorrow.md",
     "Personal/Reading/Books I have read/2025/Firefly - Life Signs.md",
     "Personal/Reading/Books I have read/2025/Toby Tyler or, Ten Weeks with a Circus.md",
