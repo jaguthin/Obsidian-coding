@@ -1,6 +1,6 @@
 ---
 title: Slaughterhouse-Five
-subtitle: A Novel
+subtitle: The Children's  Crusade
 author: Kurt Vonnegut
 authors: Kurt Vonnegut
 category: Fiction
