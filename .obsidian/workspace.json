@@ -25,13 +25,12 @@
             "id": "0e309ffc4b0f3de9",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "dataloom",
               "state": {
-                "file": "Bases/Book List.base",
-                "viewName": "Favorite Authors"
+                "file": "Personal/Reading/Banned Books/Books/Banned Books.loom"
               },
-              "icon": "lucide-layout-grid",
-              "title": "Book List"
+              "icon": "lucide-file",
+              "title": "Banned Books"
             }
           }
         ],
@@ -130,55 +129,8 @@
       {
         "id": "ed7d25823e7b4b55",
         "type": "tabs",
+        "dimension": 48.125,
         "children": [
-          {
-            "id": "67f8ad6d6879f109",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "Bases/Book List.base",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-coming-in",
-              "title": "Backlinks for Book List"
-            }
-          },
-          {
-            "id": "ae1849702a8227eb",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "Personal/The Future/What I owe Myself/Games - 50 ( See if I can get this to 25 ) - Digital does not count..md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-going-out",
-              "title": "Outgoing links from Games - 50 ( See if I can get this to 25 ) - Digital does not count."
-            }
-          },
-          {
-            "id": "f00d27cb3c6716f9",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-tags",
-              "title": "Tags"
-            }
-          },
           {
             "id": "df51fa9dc88fc7bf",
             "type": "leaf",
@@ -191,6 +143,16 @@
               },
               "icon": "lucide-archive",
               "title": "All properties"
+            }
+          },
+          {
+            "id": "28282286198a6ab0",
+            "type": "leaf",
+            "state": {
+              "type": "notebook-navigator-calendar",
+              "state": {},
+              "icon": "notebook-navigator",
+              "title": "Calendar"
             }
           },
           {
@@ -208,11 +170,13 @@
               "title": "Outline of Games - 50 ( See if I can get this to 25 ) - Digital does not count."
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "d3680a54c182aa75",
         "type": "tabs",
+        "dimension": 51.87500000000001,
         "children": [
           {
             "id": "5193fccd50d3703c",
@@ -222,22 +186,6 @@
               "state": {},
               "icon": "sun",
               "title": "Tenki"
-            }
-          }
-        ]
-      },
-      {
-        "id": "3ae8792b66a1a685",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "28282286198a6ab0",
-            "type": "leaf",
-            "state": {
-              "type": "notebook-navigator-calendar",
-              "state": {},
-              "icon": "notebook-navigator",
-              "title": "Calendar"
             }
           }
         ]
@@ -272,8 +220,8 @@
   },
   "active": "0e309ffc4b0f3de9",
   "lastOpenFiles": [
-    "Personal/Writing/Stories/Short Stories/Fools Gold/Draft 1.md",
     "Bases/Book List.base",
+    "Personal/Writing/Stories/Short Stories/Fools Gold/Draft 1.md",
     "Personal/Reading/Banned Books",
     "Bases/Untitled 1.md",
     "Bases/Untitled.md",
