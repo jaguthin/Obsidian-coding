@@ -5,7 +5,7 @@ properties:
     displayName: "Title:"
 views:
   - type: cards
-    name: "2026"
+    name: This year
     filters:
       and:
         - file.folder == "Personal/Reading/Books I have read/2026"
@@ -16,10 +16,10 @@ views:
     sort:
       - property: Year Read
         direction: ASC
-    image: note.coverUrl
+    image: note.localCover
     imageFit: contain
   - type: cards
-    name: "2025"
+    name: Last Year
     filters:
       and:
         - file.folder.contains("Reading/Books I have read/2025")
@@ -42,6 +42,7 @@ views:
     order:
       - file.name
       - Author
+      - DateRead
     image: note.localCover
     imageFit: contain
   - type: cards
@@ -59,4 +60,12 @@ views:
       - property: file.name
         direction: ASC
     imageFit: contain
-    image: note.coverUrl
+    image: note.localCover
+  - type: cards
+    name: Listened
+    filters:
+      and:
+        - file.folder.contains("Personal/Reading/Books I have read")
+        - note["Read or Listened"] == "Listened"
+    image: note.localCover
+    imageFit: contain

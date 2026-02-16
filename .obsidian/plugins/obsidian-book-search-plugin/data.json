@@ -16,5 +16,5 @@
   "enableCoverImageSave": true,
   "enableCoverImageEdgeCurl": true,
   "coverImagePath": "Configs/Attachments/Books",
-  "askForLocale": true
+  "askForLocale": false
 }

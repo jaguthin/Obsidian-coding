@@ -2,7 +2,7 @@
 Author: Harriet Beecher Stowe
 DateRead: 2026-02-06
 Read or Listened: Listened
-coverUrl: "[[Uncle Toms Cabin.jpg]]"
+localCover: "[[Uncle Toms Cabin.jpg]]"
 ---
 by Harriet Beecher Stowe
 
