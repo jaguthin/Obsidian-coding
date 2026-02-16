@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Personal/Reading/Books I have read/2025/The Handmaid's Tale.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
@@ -85,8 +85,7 @@
               "title": "Notebook Navigator"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "4766fe3f4e63ade5",
@@ -325,13 +324,14 @@
       }
     ]
   },
-  "active": "52be9f2dad444795",
+  "active": "c1f7bde14d7a8054",
   "lastOpenFiles": [
-    "Bases/Book List.base",
     "Personal/Reading/Books I have read/Something Wicked This Way Comes.md",
     "Personal/Reading/Books I have read/2025/Something Wicked This Way Comes.md",
-    "Configs/Attachments/Books/Something Wicked This Way Comes.jpg",
+    "Configs/Templates/Journal/Daily.md",
     "Personal/Reading/Books I have read/2025/The Handmaid's Tale.md",
+    "Bases/Book List.base",
+    "Configs/Attachments/Books/Something Wicked This Way Comes.jpg",
     "Personal/Reading/Books I have read/2025/Slaughterhouse-Five - Kurt Vonnegut.md",
     "Configs/Templates/Test Book Template.md",
     "Personal/Reading/Books I have read/2025/Do the Creepy Thing.md",

@@ -24,7 +24,8 @@ status: Read
 
 
 ```dataview
-TABLE
-FROM #description
+TABLE WITHOUT ID
+description as De
+WHERE file.path = this.file.path
 ```
 
