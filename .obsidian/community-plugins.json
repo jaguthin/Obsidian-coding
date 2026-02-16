@@ -27,5 +27,7 @@
   "templater-obsidian",
   "image-embedder",
   "make-md",
-  "callout-manager"
+  "callout-manager",
+  "folder-notes",
+  "start-page"
 ]

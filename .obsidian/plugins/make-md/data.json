@@ -43,8 +43,9 @@
     "//Personal/Personal/Reading",
     "//Personal/Personal/Reading/Personal/Reading/Books I have read",
     "//Personal/Personal/Reading/Personal/Reading/Books I have read/Personal/Reading/Books I have read/2025",
-    "//Configs",
-    "//Configs/Configs/Templates"
+    "//Configs/Configs/Templates",
+    "//Home Folder",
+    "//Obsidian Configuration"
   ],
   "expandFolderOnClick": true,
   "spacesFolder": "Tags",
@@ -112,6 +113,6 @@
   "overrideNativeMenu": false,
   "onboardingCompleted": false,
   "contextCreateUseModal": false,
-  "homepagePath": "",
+  "homepagePath": "Home Folder/Home Page.md",
   "mobileMakeHeader": false
 }

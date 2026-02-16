@@ -1,0 +1,53 @@
+{
+  "includeAllFilesInRecent": true,
+  "recentNotesLimit": 5,
+  "pinnedNotes": [
+    "Home Folder/Book List.base"
+  ],
+  "replaceNewTab": true,
+  "showTitleNavigationBar": "default",
+  "showCustomFooterText": false,
+  "useRandomFooterText": false,
+  "todayRandomEnFooterText": "",
+  "todayRandomZhFooterText": "",
+  "customFooterText": "",
+  "scrollPosition": 0,
+  "showStatBar": true,
+  "lastVersionCheck": 1771262263911,
+  "latestVersion": "",
+  "excludeList": [],
+  "pinnedNotesStyle": {
+    "sectionMargin": "",
+    "sectionPadding": "",
+    "headerMargin": "",
+    "headerPadding": "",
+    "titleFontSize": "",
+    "titleMargin": "",
+    "titlePadding": "",
+    "listGap": "",
+    "itemPadding": "",
+    "itemMargin": "",
+    "noteTitleFontSize": "",
+    "noteTitleMargin": "",
+    "noteTitlePadding": "",
+    "noteDateFontSize": "",
+    "noteFolderFontSize": ""
+  },
+  "recentNotesStyle": {
+    "sectionMargin": "",
+    "sectionPadding": "",
+    "headerMargin": "",
+    "headerPadding": "",
+    "titleFontSize": "",
+    "titleMargin": "",
+    "titlePadding": "",
+    "listGap": "",
+    "itemPadding": "",
+    "itemMargin": "",
+    "noteTitleFontSize": "",
+    "noteTitleMargin": "",
+    "noteTitlePadding": "",
+    "noteDateFontSize": "",
+    "noteFolderFontSize": ""
+  }
+}
