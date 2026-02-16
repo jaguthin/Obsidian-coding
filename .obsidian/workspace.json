@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Personal/Reading/Books I have read/2025/The Handmaid's Tale.md",
+                "file": "Personal/Reading/Books I have read/2025/Something Wicked This Way Comes.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "The Handmaid's Tale"
+              "title": "Something Wicked This Way Comes"
             }
           }
         ]
@@ -85,7 +85,8 @@
               "title": "Notebook Navigator"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       },
       {
         "id": "4766fe3f4e63ade5",
