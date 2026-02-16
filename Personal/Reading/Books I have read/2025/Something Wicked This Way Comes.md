@@ -9,11 +9,5 @@ tags:
   - 📚Book
 description: Two boys' lives are changed forever when a sinister travelling carnival stops at their Illinois town.
 ---
-####  by `= this.Author`
 
-#### Description
-`= this.description`
-`= this.coverUrl`
-
-Finished on : `=this.DateRead`
 

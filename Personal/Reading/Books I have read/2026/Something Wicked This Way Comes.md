@@ -17,6 +17,3 @@ isbn13: 9781501167713
 isbn10: 1501167715
 localCoverImage: Configs/Attachments/Books/Something Wicked This Way Comes.jpg
 ---
-```json
-<%=book%>
-```

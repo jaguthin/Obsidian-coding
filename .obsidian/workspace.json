@@ -22,33 +22,21 @@
             }
           },
           {
-            "id": "da140a9bd4b85cbc",
-            "type": "leaf",
-            "state": {
-              "type": "mk-uri-view",
-              "state": {
-                "path": "https://www.make.md/static/latest.md"
-              },
-              "icon": "lucide-file",
-              "title": "https://www.make.md/static/latest.md"
-            }
-          },
-          {
             "id": "8bd7c13eb4035ebe",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Personal/Reading/Books I have read/2026/Something Wicked This Way Comes.md",
-                "mode": "source",
-                "source": false
+                "file": "Configs/Templates/Test Book Template.md",
+                "mode": "preview",
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "Something Wicked This Way Comes"
+              "title": "Test Book Template"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -81,7 +69,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "[\"cover\"]",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -113,7 +101,7 @@
             }
           },
           {
-            "id": "a15e6461e2eb0bc2",
+            "id": "c4a0f657f7ad92b5",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -122,8 +110,7 @@
               "title": "Navigator"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       },
       {
         "id": "4766fe3f4e63ade5",
@@ -144,7 +131,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 335.5
   },
   "right": {
     "id": "456d370bea752a5c",
@@ -153,7 +140,6 @@
       {
         "id": "ed7d25823e7b4b55",
         "type": "tabs",
-        "dimension": 48.125,
         "children": [
           {
             "id": "df51fa9dc88fc7bf",
@@ -170,16 +156,6 @@
             }
           },
           {
-            "id": "28282286198a6ab0",
-            "type": "leaf",
-            "state": {
-              "type": "notebook-navigator-calendar",
-              "state": {},
-              "icon": "notebook-navigator",
-              "title": "Calendar"
-            }
-          },
-          {
             "id": "267fdf5edfa309c8",
             "type": "leaf",
             "state": {
@@ -193,13 +169,71 @@
               "icon": "lucide-list",
               "title": "Outline of Games - 50 ( See if I can get this to 25 ) - Digital does not count."
             }
+          },
+          {
+            "id": "bfc97215887ab5e5",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Configs/Templates/Test Book Template.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Test Book Template"
+            }
+          },
+          {
+            "id": "cd92fba6f99d3355",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Configs/Templates/Test Book Template.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Test Book Template"
+            }
+          },
+          {
+            "id": "3b8250689a5c1405",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "0fe72c9bcc59a603",
+            "type": "leaf",
+            "state": {
+              "type": "tenki",
+              "state": {},
+              "icon": "sun",
+              "title": "Tenki"
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       },
       {
         "id": "d3680a54c182aa75",
         "type": "tabs",
-        "dimension": 51.87500000000001,
         "children": [
           {
             "id": "5193fccd50d3703c",
@@ -212,6 +246,22 @@
             }
           }
         ]
+      },
+      {
+        "id": "2fcf3d39c1a5d8fa",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dfad496dbb2fc8b6",
+            "type": "leaf",
+            "state": {
+              "type": "notebook-navigator-calendar",
+              "state": {},
+              "icon": "notebook-navigator",
+              "title": "Calendar"
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
@@ -219,15 +269,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-leaflet-plugin:Open Leaflet Map": false,
       "bases:Create new base": false,
-      "github-sync:Sync with Remote": false,
-      "print:Print note": false,
-      "widgets:Add widget": false,
-      "omnisearch:Omnisearch": false,
-      "fantasy-content-generator:Fantasy Generators": false,
-      "simple-dice-roller:Average all dice": false,
-      "notion-like-tables:Create loom": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -236,8 +278,16 @@
       "command-palette:Open command palette": false,
       "workspaces:Manage workspace layouts": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "notion-like-tables:Create loom": false,
       "obsidian-excalidraw-plugin:New drawing": false,
+      "github-sync:Sync with Remote": false,
+      "print:Print note": false,
       "rpg-manager:RPG Manager": false,
+      "widgets:Add widget": false,
+      "omnisearch:Omnisearch": false,
+      "fantasy-content-generator:Fantasy Generators": false,
+      "simple-dice-roller:Average all dice": false,
+      "obsidian-leaflet-plugin:Open Leaflet Map": false,
       "notebook-navigator:Notebook Navigator": false,
       "obsidian-book-search-plugin:Create new book note": false,
       "templater-obsidian:Templater": false
@@ -350,7 +400,20 @@
   },
   "active": "8bd7c13eb4035ebe",
   "lastOpenFiles": [
+    "Personal/Reading/Books I have read/Slaughterhouse-Five.md",
+    "Configs/Templates/Test Book Template.md",
+    "Personal/Reading/Books I have read/2025/Something Wicked This Way Comes.md",
+    "Personal/Reading/Books I have read/2025/The Charisma Myth.md",
+    "Personal/Reading/Books I have read/2025/The Ghostly Tales of Amherst New Hampshire.md",
+    "Personal/Reading/Books I have read/2025/The Handmaid's Tale.md",
+    "Personal/Reading/Books I have read/2025/Toby Tyler or, Ten Weeks with a Circus.md",
+    "Personal/Reading/Books I have read/2025/Turtles all the Way Down.md",
     "Personal/Reading/Books I have read/Books I have read.md",
+    "Configs/Attachments/Painting reference/602085_v9_ba.jpg",
+    "Configs/Attachments/Banners/banner_oldbooks2-e1329523813604.jpg",
+    "Configs/Attachments/Painting reference/71nbFoLB3DL._AC_SL1500_.jpg",
+    "Configs/Attachments/Books/Slaughterhouse-Five.jpg",
+    "Configs/Templates/New Books.md",
     "Personal/Reading/Books I have read/2026/Something Wicked This Way Comes.md",
     "Personal/Reading/Books I have read/2025/Slaughterhouse-Five - Kurt Vonnegut.md",
     "Configs/Attachments/Painting reference/Calvin_And_Hobbes-Snow_Day.webp",
@@ -360,31 +423,19 @@
     "Configs/Attachments/Painting reference/vlcsnap-2023-09-21-17h10m30s866.png",
     "Configs/Attachments/Painting reference/vlcsnap-2023-09-21-17h15m59s081.png",
     "Configs/Attachments/Painting reference/Painting reference.md",
-    "Configs/Attachments/602085_v9_ba.jpg",
     "Configs/Attachments/Attachments.md",
     "Configs/Attachments/Painting reference",
     "Configs/Attachments/Banners/Banners.md",
     "Configs/Attachments/Banners",
     "Tags",
-    "Personal/Reading/Books I have read/2025/Something Wicked This Way Comes.md",
-    "Configs/Attachments/Books/Something Wicked this way Comes - Ray Bradbury.jpg",
-    "Personal/Reading/Books I have read/2025/The Handmaid's Tale.md",
     "Configs/Templates/Journal/Daily.md",
     "Bases/Book List.base",
-    "Configs/Attachments/Books/Something Wicked This Way Comes.jpg",
-    "Configs/Templates/Test Book Template.md",
     "Personal/Reading/Books I have read/2025/Do the Creepy Thing.md",
     "Personal/Reading/Books I have read/2025/An Abundance of Katherines.md",
-    "Configs/Attachments/Books/The Handmaid's Tale.jpg",
-    "Configs/Templates/New Books.md",
     "Personal/Reading/Books I have read/2025/Secluded Cabin Sleeps Six.md",
     "Personal/Reading/Books I have read/2025/King Sorrow.md",
     "Personal/Reading/Books I have read/2025/Firefly - Life Signs.md",
-    "Personal/Reading/Books I have read/2025/Toby Tyler or, Ten Weeks with a Circus.md",
     "Personal/Reading/Books I have read/2025/Fascinate.md",
-    "Personal/Reading/Books I have read/2025/The Charisma Myth.md",
-    "Personal/Reading/Books I have read/2025/Turtles all the Way Down.md",
-    "Personal/Reading/Books I have read/2025/The Ghostly Tales of Amherst New Hampshire.md",
     "Configs/Looms/R2-D2.loom",
     "Configs/Attachments/Painting Reference",
     "Configs/Looms/Personal Budget.loom",
@@ -392,8 +443,6 @@
     "Personal/Finance & Age Goals/For the kids.md",
     "Personal/Finance & Age Goals/Financial Goals.md",
     "Personal/Writing/Stories/Short Stories/Fools Gold/Draft 1.md",
-    "Personal/The Future/Games - 50 ( See if I can get this to 25 ) - Digital does not count..md",
-    "Personal/Writing/Stories/Short Stories/Fools Gold/Fools Gold.md",
     "Personal/Reading/Banned Books/Books/Banned Books.loom",
     "Personal/Reading/Banned Books",
     "Untitled.canvas",

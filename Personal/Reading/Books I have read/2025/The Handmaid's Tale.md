@@ -22,10 +22,3 @@ tags:
 status: Read
 ---
 
-
-```dataview
-TABLE WITHOUT ID
-description as Description
-WHERE file.path = this.file.path
-```
-

@@ -46,7 +46,7 @@
     "TQ_show_urgency": "checkbox",
     "excalidraw-embed-md": "checkbox",
     "excalidraw-export-internal-links": "checkbox",
-    "publishDate": "number",
+    "publishDate": "date",
     "totalPage": "number",
     "isbn": "multitext"
   }

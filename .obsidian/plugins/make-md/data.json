@@ -40,10 +40,11 @@
   "expandedSpaces": [
     "/",
     "//Configs/Configs/Attachments/Configs/Attachments/Painting Reference",
-    "//Personal",
     "//Personal/Personal/Reading",
     "//Personal/Personal/Reading/Personal/Reading/Books I have read",
-    "//Personal/Personal/Reading/Personal/Reading/Books I have read/Personal/Reading/Books I have read/2025"
+    "//Personal/Personal/Reading/Personal/Reading/Books I have read/Personal/Reading/Books I have read/2025",
+    "//Configs",
+    "//Configs/Configs/Templates"
   ],
   "expandFolderOnClick": true,
   "spacesFolder": "Tags",
