@@ -22,9 +22,12 @@ description: "{{description}}"
 ---
 ##  by `= this.Author`
 
-#### Description
 
 
-`= this.description`
+> [!quote]
+> 
 
+
+> [!faq]
+> `=this.description`
 Finished on : `=this.DateRead`

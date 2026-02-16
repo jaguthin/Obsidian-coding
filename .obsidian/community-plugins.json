@@ -26,5 +26,6 @@
   "obsidian-book-search-plugin",
   "templater-obsidian",
   "image-embedder",
-  "make-md"
+  "make-md",
+  "callout-manager"
 ]

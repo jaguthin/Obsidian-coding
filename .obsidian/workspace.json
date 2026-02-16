@@ -300,7 +300,8 @@
       "obsidian-leaflet-plugin:Open Leaflet Map": false,
       "notebook-navigator:Notebook Navigator": false,
       "obsidian-book-search-plugin:Create new book note": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "callout-manager:Insert Callout": false
     }
   },
   "floating": {
@@ -408,11 +409,11 @@
       }
     ]
   },
-  "active": "9ee0f36a6adbabd3",
+  "active": "8bd7c13eb4035ebe",
   "lastOpenFiles": [
-    "Configs/Templates/New Books.md",
-    "Configs/Templates/Books.md",
     "Personal/Reading/Books I have read/Slaughterhouse-Five.md",
+    "Configs/Templates/Books.md",
+    "Configs/Templates/New Books.md",
     "Personal/Reading/Books I have read/2025/Turtles all the Way Down.md",
     "Personal/Reading/Books I have read/2025/Slaughterhouse-Five - Kurt Vonnegut.md",
     "Personal/Reading/Books I have read/2025/Something Wicked This Way Comes.md",
