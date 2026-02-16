@@ -8,10 +8,7 @@ views:
     name: "2026"
     filters:
       and:
-        - and:
-            - note["Date Read"] > "2025-12-31"
-            - note["Date Read"] < "2027-11-20"
-            - file.folder.contains("Reading/Books I have read/2026")
+        - DateRead <= "2027-01-01"
     order:
       - file.name
       - Author
@@ -19,7 +16,7 @@ views:
     sort:
       - property: Year Read
         direction: ASC
-    image: note.Image
+    image: note.coverUrl
     imageFit: contain
   - type: cards
     name: "2025"

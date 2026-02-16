@@ -25,14 +25,13 @@
             "id": "8bd7c13eb4035ebe",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "bases",
               "state": {
-                "file": "Configs/Templates/Books.md",
-                "mode": "source",
-                "source": true
+                "file": "Bases/Book List.base",
+                "viewName": "2026"
               },
-              "icon": "lucide-file",
-              "title": "Books"
+              "icon": "lucide-layout-grid",
+              "title": "Book List"
             }
           }
         ],
@@ -411,6 +410,7 @@
   },
   "active": "8bd7c13eb4035ebe",
   "lastOpenFiles": [
+    "Personal/Reading/Books I have read/2026/Heartwood.md",
     "Personal/Reading/Books I have read/Slaughterhouse-Five.md",
     "Configs/Templates/Books.md",
     "Configs/Templates/New Books.md",

@@ -1,7 +1,18 @@
 {
   "callouts": {
-    "custom": [],
-    "settings": {}
+    "custom": [
+      "description"
+    ],
+    "settings": {
+      "description": [
+        {
+          "changes": {
+            "icon": "lucide-shield-question-mark",
+            "color": "161, 106, 73"
+          }
+        }
+      ]
+    }
   },
   "calloutDetection": {
     "obsidian": true,
