@@ -1,6 +1,6 @@
 ---
 title: Something Wicked this way Comes
-Date Read: 2025-02-08
+DateRead: 2025-02-08
 Author: Ray Bradbury
 Read or Listened: Read
 Image: "[[Something Wicked this way Comes - Ray Bradbury.jpg]]"
@@ -9,12 +9,11 @@ tags:
   - 📚Book
 description: Two boys' lives are changed forever when a sinister travelling carnival stops at their Illinois town.
 ---
-by `= this.Author`
+####  by `= this.Author`
 
 #### Description
 `= this.description`
-```
-$= dv.span("![[[" + dv.current().Image + "]]")
-```
+`= this.coverUrl`
 
-![[Something Wicked This Way Comes.jpg]]
+Finished on : `=this.DateRead`
+

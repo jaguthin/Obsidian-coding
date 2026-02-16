@@ -1,5 +1,5 @@
 ---
-Date Read: 2025-11-19
+DateRead: 2025-11-19
 Author: Joe Hill
 Read or Listened: Read
 Favorite Author: true

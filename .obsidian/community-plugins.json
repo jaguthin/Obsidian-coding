@@ -23,5 +23,7 @@
   "simple-dice-roller",
   "obsidian-leaflet-plugin",
   "notebook-navigator",
-  "obsidian-book-search-plugin"
+  "obsidian-book-search-plugin",
+  "templater-obsidian",
+  "image-embedder"
 ]

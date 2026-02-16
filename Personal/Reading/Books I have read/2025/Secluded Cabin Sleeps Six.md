@@ -16,6 +16,6 @@ previewLink: http://books.google.com/books?id=u7ypEAAAQBAJ&pg=PT38&dq=secluded+c
 isbn13: 9781915643995
 isbn10: 1915643996
 localCoverImage: Configs/Attachments/Books/Secluded Cabin Sleeps Six.jpg
-Date Read: 2025-05-30
+DateRead: 2025-05-30
 Read or Listened: Read
 ---

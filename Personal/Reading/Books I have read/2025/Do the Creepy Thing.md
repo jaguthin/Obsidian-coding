@@ -1,5 +1,5 @@
 ---
-Date Read: 2025-02-21
+DateRead: 2025-02-21
 Author: Graham Joyce
 Read or Listened: Read
 Favorite Author: true

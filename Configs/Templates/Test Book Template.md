@@ -15,7 +15,7 @@ localCover: "{{localCoverImage}}"
 status:
 created: "{{DATE:YYYY-MM-DD HH:mm:ss}}"
 updated: "{{DATE:YYYY-MM-DD HH:mm:ss}}"
-Date Read:
+DateRead:
 Read or Listened:
 ---
 

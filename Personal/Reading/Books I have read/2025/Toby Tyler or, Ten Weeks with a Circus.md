@@ -1,5 +1,5 @@
 ---
-Date Read: 2025-02-14
+DateRead: 2025-02-14
 Author: James Otis
 Read or Listened: Read
 Favorite Author:

@@ -1,6 +1,6 @@
 ---
 Author: Harriet Beecher Stowe
-Date Read: 2026-02-06
+DateRead: 2026-02-06
 Read or Listened: Listened
 Image: "[[Uncle Toms Cabin.jpg]]"
 ---

@@ -15,6 +15,6 @@ link: https://books.google.com/books/about/Slaughterhouse_Five.html?hl=&id=pWyLD
 previewLink: http://books.google.com/books?id=pWyLDQAAQBAJ&printsec=frontcover&dq=Slaughterhouse+Five&hl=&as_pt=BOOKS&cd=1&source=gbs_api
 isbn13: 9780385333849
 isbn10: 385333846
-Date Read: 2025-05-10
+DateRead: 2025-05-10
 Read or Listened: Read
 ---
