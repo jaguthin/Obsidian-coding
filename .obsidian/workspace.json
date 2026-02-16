@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Configs/Templates/Test Book Template.md",
-                "mode": "source",
-                "source": false
+                "file": "Personal/Reading/Books I have read/2025/Slaughterhouse-Five - Kurt Vonnegut.md",
+                "mode": "preview",
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "Test Book Template"
+              "title": "Slaughterhouse-Five - Kurt Vonnegut"
             }
           }
         ]
@@ -177,7 +177,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 363
+    "width": 363,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -300,8 +301,8 @@
           }
         ],
         "direction": "vertical",
-        "x": 1892,
-        "y": 592,
+        "x": 2360,
+        "y": 426,
         "width": 1024,
         "height": 800,
         "maximize": false,
@@ -312,19 +313,19 @@
   "active": "c1f7bde14d7a8054",
   "lastOpenFiles": [
     "Personal/Reading/Books I have read/2025/The Handmaid's Tale.md",
-    "Bases/Book List.base",
     "Configs/Templates/Test Book Template.md",
+    "Personal/Reading/Books I have read/2025/Do the Creepy Thing.md",
+    "Personal/Reading/Books I have read/2025/An Abundance of Katherines.md",
+    "Bases/Book List.base",
     "Configs/Attachments/Books/The Handmaid's Tale.jpg",
     "Configs/Templates/New Books.md",
     "Personal/Reading/Books I have read/2025/Secluded Cabin Sleeps Six.md",
     "Personal/Reading/Books I have read/2025/Slaughterhouse-Five - Kurt Vonnegut.md",
     "Personal/Reading/Books I have read/2025/King Sorrow.md",
     "Personal/Reading/Books I have read/2025/Firefly - Life Signs.md",
-    "Personal/Reading/Books I have read/2025/Do the Creepy Thing.md",
     "Personal/Reading/Books I have read/2025/Toby Tyler or, Ten Weeks with a Circus.md",
     "Personal/Reading/Books I have read/2025/Something Wicked This Way Comes.md",
     "Personal/Reading/Books I have read/2025/Fascinate.md",
-    "Personal/Reading/Books I have read/2025/An Abundance of Katherines.md",
     "Personal/Reading/Books I have read/2025/The Charisma Myth.md",
     "Personal/Reading/Books I have read/2025/Turtles all the Way Down.md",
     "Personal/Reading/Books I have read/2025/The Ghostly Tales of Amherst New Hampshire.md",
